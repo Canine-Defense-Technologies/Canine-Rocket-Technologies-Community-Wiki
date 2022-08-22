@@ -6,6 +6,10 @@ coverY: 0
 
 At K-Tech,
 
+When Should You Use 3D Printing?
+
+Because of how easy it is to 3D print something, often mistakes made by many makers is 3D printing EVERY part of their project. This can often lead to comprises both in creativity and capabilites of the end product. Remember there are many other manuftcuring methods
+
 ## Software
 
 ### Prusa Slicer

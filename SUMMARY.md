@@ -9,7 +9,7 @@
   * [CNC Machining](toolbox/cnc-machining.md)
   * [Laser Cutting](toolbox/laser-cutting.md)
   * [Electronics](toolbox/electronics.md)
-  * [Software Dev](toolbox/software-dev.md)
+  * [Software Dev](toolbox/software.md)
   * [Computer Aided Design](toolbox/computer-aided-design.md)
   * [Graphic Design & Video Production](toolbox/graphic-design-and-video-production.md)
   * [3D Printing](toolbox/3d-printing.md)

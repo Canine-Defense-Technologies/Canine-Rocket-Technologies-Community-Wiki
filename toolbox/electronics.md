@@ -4,6 +4,14 @@ coverY: 0
 
 # Electronics
 
+Electronics is what brings many projects alive, quite literally. Since this is such a diverse area, we will break it down into the context of tools and skills relevant to common small projects the majority of makers will encounter. Yes, high amperage vehicle power systems, high voltage AC, and microcontrollers, we've done it all but. Remember messing with electronics is one of the biggest killers among young makers, start small and do your research!
+
+#### Where Do I Learn Electronics?
+
+It really depends on what you want to do.&#x20;
+
+
+
 ## EDA
 
 Electronic Design Automation is where all Printed Circuit Board (PCB) projects start.&#x20;
@@ -18,6 +26,8 @@ Pros:
 * Simple easy to use and non intimidating UI
 * Large Open Source Community base/support
 * Streamlined&#x20;
+
+
 
 
 
