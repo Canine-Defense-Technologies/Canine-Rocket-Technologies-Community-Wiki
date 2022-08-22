@@ -5,10 +5,10 @@ coverY: 0
 
 # 🔧 Toolbox
 
-Welcome to the Toolbox! This is a library of infomration regading fabrication tools for manurcaturing and design. This library is to offer insight into what tools we use, how we use them, and what resources we reference off of. Along with the library are handy tips and notes directly based off our expierence. We hope our virtual toolbox is helpful in&#x20;
+Welcome to the Toolbox! This is a library of information regarding both hardware and software tools we use in the lab! Along with offering insight into what tools we use, we have added tips, tricks, and comments based on our personal experiences.
 
 {% hint style="info" %}
-REMEMBER: These are rescoucres WE used,&#x20;
+REMEMBER: These are resources WE are using. All the information we are sharing is to help you find the best tool. The BEST tool for you is the one you know best, and the one that fits your workflow and mission.
 {% endhint %}
 
 
