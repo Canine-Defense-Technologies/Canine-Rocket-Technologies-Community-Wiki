@@ -27,12 +27,9 @@
   * [3D Printing](supply-chain/3d-printing.md)
   * [Hardware Components](supply-chain/hardware-components.md)
 * [📑 Other Open Source Projects](other-open-source-projects/README.md)
-  * [Prusa](other-open-source-projects/prusa.md)
   * [Meshtastic ](other-open-source-projects/meshtastic.md)
   * [Open HD](other-open-source-projects/open-hd.md)
   * [Ardupilot](other-open-source-projects/ardupilot.md)
-  * [Raspberry Pi](other-open-source-projects/raspberry-pi.md)
-  * [Arduino](other-open-source-projects/arduino.md)
 
 ## 🚀 Rocketry Projects
 
