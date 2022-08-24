@@ -5,11 +5,9 @@ coverY: 0
 
 # 🔧 Toolbox
 
-Welcome to the Toolbox! This is a library of information regarding both hardware and software tools we use in the lab! Along with offering insight into what tools we use, we have added tips, tricks, and comments based on our personal experiences. For newer users looking to adopt some of these skills,&#x20;
+Welcome to the Toolbox! This is a library of information regarding both hardware and software tools we use in the lab! Along with offering insight into what tools we use, we have added tips, tricks, and comments based on our personal experiences. For newer users looking to a
 
-{% hint style="info" %}
-REMEMBER: These are resources WE are using. All the information we are sharing is to help you find the best tool. The BEST tool for you is the one you know best, and the one that fits your workflow and mission.
-{% endhint %}
+The BEST tool for you is the one you know best, and the one that fits your workflow and mission.
 
 
 

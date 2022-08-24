@@ -6,7 +6,6 @@
   * [FAQ](welcome-to-the-wiki/faq.md)
   * [Other Awesome Projects!](welcome-to-the-wiki/other-awesome-projects.md)
 * [🔧 Toolbox](toolbox/README.md)
-  * [Page 1](toolbox/page-1.md)
   * [CNC Machining](toolbox/cnc-machining.md)
   * [Laser Cutting](toolbox/laser-cutting.md)
   * [Electronics](toolbox/electronics.md)
