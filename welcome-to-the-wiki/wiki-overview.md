@@ -1,4 +1,4 @@
-# Wiki Index
+# Wiki Overview
 
 The wiki is organized into 2 primary sections, the&#x20;
 
@@ -28,16 +28,15 @@ Library of suppliers and manufacturers
 
 ## Project Library
 
-The project library serves as our public hub for all information regarding our projects! The projects are divided&#x20;
+The project library serves as our public hub
 
 ### Rocketry Projects
 
-model rockets, rocket sub components & sub assemblies, launch pads, launch controllers, etc.
+All our public rocketry related projects (rockets, sub components, sub assemblies, launch pads, launch controllers, etc.)
 
 ### UAV Projects
 
-Drones, drone controllers, drone ground systems, etc.
+All our public unmanned aerial system related projects (Drones, drone controllers, drone ground systems, etc.)
 
 ### Tactical Projects
 
-Body armor, radios,&#x20;

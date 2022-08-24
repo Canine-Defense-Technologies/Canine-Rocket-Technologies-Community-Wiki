@@ -18,20 +18,8 @@ Prusa Slicer
 
 {% embed url="https://www.prusa3d.com/page/prusaslicer_424/" %}
 
-## Printers
+## Hardware
 
 ### Prusa i3 mk3S
 
 This is simply one of the best&#x20;
-
-
-
-### Prusa Mini
-
-
-
-
-
-### Prusa SL1S
-
-This printer is FAST!

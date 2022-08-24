@@ -14,7 +14,7 @@ Anything that requires cutting of flat materials, laser cutters are the way to g
 
 ### Laser GRBL
 
-Laser GRBL is a very easy to use open source laser cutter control software. What we like about laser GRBL is.
+Laser GRBL is a easy to use open source laser cutter control software. What er like about laser GRBL is&#x20;
 
 ## Laser Cutter
 
