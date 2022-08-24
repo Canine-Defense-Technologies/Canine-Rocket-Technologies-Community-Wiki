@@ -1,7 +1,7 @@
 # Table of contents
 
 * [🐺 Welcome to the Wiki!](README.md)
-  * [Wiki Index](welcome-to-the-wiki/wiki-index.md)
+  * [Wiki Index](welcome-to-the-wiki/wiki-overview.md)
   * [About Canine Rocket Tech](welcome-to-the-wiki/about-canine-rocket-tech.md)
   * [FAQ](welcome-to-the-wiki/faq.md)
   * [Other Awesome Projects!](welcome-to-the-wiki/other-awesome-projects.md)
@@ -15,7 +15,6 @@
   * [Graphic Design & Video Production](toolbox/graphic-design-and-video-production.md)
   * [3D Printing](toolbox/3d-printing.md)
 * [📘 Technical Resource](technical-resource/README.md)
-  * [In House v.s. 3rd Party Manufacturing](technical-resource/in-house-v.s.-3rd-party-manufacturing.md)
   * [Pinouts Book](technical-resource/pinouts-book.md)
   * [Control Theory](technical-resource/control-theory.md)
   * [Parachute Design](technical-resource/parachute-design.md)
