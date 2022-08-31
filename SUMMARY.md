@@ -13,6 +13,7 @@
   * [Computer Aided Design](toolbox/computer-aided-design.md)
   * [Graphic Design & Video Production](toolbox/graphic-design-and-video-production.md)
   * [3D Printing](toolbox/3d-printing.md)
+  * [Composite Layups](toolbox/composite-layups.md)
 * [📘 Technical Resource](technical-resource/README.md)
   * [Pinouts Book](technical-resource/pinouts-book.md)
   * [Control Theory](technical-resource/control-theory.md)
