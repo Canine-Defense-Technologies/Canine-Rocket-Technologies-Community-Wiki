@@ -12,4 +12,6 @@ JLCPCB is a very low cost PCB manufatcuring company. Often times the shipping co
 
 
 
-## PCB
+## PCB Way
+
+We personally have not used PCB Way, but a lot of our friends tend to prefer it over JLCPCB. It is a little bit more expensive but the quality of their product is better accoridng to

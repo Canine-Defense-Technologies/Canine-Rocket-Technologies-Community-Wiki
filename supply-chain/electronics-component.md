@@ -32,6 +32,10 @@ LCSC is a sister company of JLCPCB. They are said to offer a cheap and convenien
 Keep in mind the long turnaround time! Make sure to cross-check pricing with Digikey or Mouser, LCSC is not always cheaper!
 {% endhint %}
 
+{% hint style="danger" %}
+Security Risk Supplier for sensitive projects!
+{% endhint %}
+
 {% embed url="https://lcsc.com/" %}
 
 ## Adafruit

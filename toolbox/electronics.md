@@ -1,4 +1,5 @@
 ---
+cover: ../.gitbook/assets/soldering.jpg
 coverY: 0
 ---
 
