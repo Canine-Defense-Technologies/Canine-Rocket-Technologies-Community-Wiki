@@ -1,6 +1,6 @@
 ---
-cover: ../.gitbook/assets/VSB V3 Exploded (1).png
-coverY: 0
+cover: ../.gitbook/assets/159145646-d8206180-4656-4461-9e1e-7b50228de056.png
+coverY: -251.69162995594715
 ---
 
 # Computer Aided Design

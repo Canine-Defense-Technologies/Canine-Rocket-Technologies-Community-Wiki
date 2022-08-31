@@ -1,5 +1,5 @@
 ---
-cover: ../.gitbook/assets/canva-photo-editor-8-7.jpg
+cover: ../.gitbook/assets/chris-ried-512801-unsplash.jpg
 coverY: 0
 ---
 
