@@ -25,6 +25,7 @@
   * [Laser Cutting](supply-chain/laser-cutting.md)
   * [3D Printing](supply-chain/3d-printing.md)
   * [Hardware Components](supply-chain/hardware-components.md)
+  * [Drone Components](supply-chain/drone-components.md)
 * [📑 Other Open Source Projects](other-open-source-projects/README.md)
   * [Meshtastic ](other-open-source-projects/meshtastic.md)
   * [Open HD](other-open-source-projects/open-hd.md)
