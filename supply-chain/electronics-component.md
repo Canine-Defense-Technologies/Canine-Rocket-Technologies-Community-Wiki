@@ -76,7 +76,7 @@ Some really exotic components can only be sourced from salvaged electronics or s
 
 ## Amazon
 
-Help fund Jeff Bezos' global domination plan. We are guilty of overusing Amazon, they carry so many parts in a very convenient manner that all of us Bezos enslaved peasants are all so addicted to (Chill, this is just a joke lol). Keep in mind we have noticed sneaky price increases on common components, so don't forget to price check. Don't be tempted by combination packs either sellers have exploited, most of the time it includes either mediocre or unreliable components.
+For every dollar spent on Amazon, Jeff Bezos will do a personal one-on-one laughing session just for you complimentary of the customer service! We admit Amazon has extremely fast turnaround times, large selections, really good customer services, and really good prices. However, this can lead to bad habits, such as simply trusting they are offering the best deals and purchasing before checking prices with other sellers/suppliers. Sellers on Amazon seem to have exploited this since we have noticed sneaky price increases. So don't assume Amazon is always cheaper!
 
 {% hint style="info" %}
 Don't assume Amazon is always cheaper, this is especially not true for electronic parts!
