@@ -8,7 +8,7 @@ The wiki is organized into 2 primary sections, the&#x20;
 [toolbox](../toolbox/)
 {% endcontent-ref %}
 
-Library of helpful resources and tools regarding fabrication
+Library of helpful resources and tools regarding fabrication, tooling, and manufacturing.
 
 ## Technical Resource
 
@@ -16,7 +16,7 @@ Library of helpful resources and tools regarding fabrication
 [technical-resource](../technical-resource/)
 {% endcontent-ref %}
 
-Library of resources and references regarding design and simulation
+Library of resources and references regarding design, simulation, and documentation.
 
 ## Supply Chain
 
