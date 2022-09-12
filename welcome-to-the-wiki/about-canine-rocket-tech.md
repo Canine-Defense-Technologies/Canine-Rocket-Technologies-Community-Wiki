@@ -1,14 +1,8 @@
 # About Canine Rocket Tech
 
-{% hint style="info" %}
-Fun Fact: We're also called K-TECH for short
-{% endhint %}
+### <mark style="color:blue;">Our Mission</mark>: Rapidly build, test, and deploy open architecture hardware solutions for the most demanding missions.
 
-
-
-
-
-Problems are evolving, and so are the. We are a student run ameature hardware development project rapidly deploying hardware solutions at
+We are an amateur student-run hardware technology development project engaging in accelerated hardware R\&D. We build solutions ranging from small scale rocketry hardware to deployable tactical solutions.
 
 ### Links
 
