@@ -1,5 +1,6 @@
 ---
-coverY: 0
+cover: ../.gitbook/assets/DSCN2407.jpg
+coverY: 38.283987915407856
 ---
 
 # Graphic Design & Video Production

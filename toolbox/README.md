@@ -1,5 +1,6 @@
 ---
 description: Welcome to the Toolbox!
+cover: ../.gitbook/assets/20190318_203424_edited.jpg
 coverY: 0
 ---
 

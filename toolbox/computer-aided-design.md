@@ -5,15 +5,15 @@ coverY: -251.69162995594715
 
 # Computer Aided Design
 
-Computer Aided Design or CAD is a software suite that allows designers to digitally draft their designs in a virtual workspace. CAD serves as the central hub between the design and manufacturing process. In modern hardware development, CAD has become the heart of. For anyone interested in CAD&#x20;
+Computer-Aided Design or CAD is a software suite that allows designers to digitally draft their designs in a virtual workspace. CAD serves as the central hub between the design and manufacturing process. In modern hardware development, CAD has become the heart of. For anyone interested in CAD&#x20;
 
 #### When Should I Use CAD?
 
-The majority of modern R\&D processes, there will not be a moment void of CAD. CAD is really the heart of all modern digital engineering and design processes. In our opinion any part that needs to be repeated in the future, requires revision control, or needs future referencing should be designed or stored in CAD.
+In the majority of modern R\&D processes, there will not be a moment void of CAD. CAD is really the heart of all modern digital engineering and design processes. In our opinion, any part that needs to be repeated in the future requires revision control or needs future referencing should be designed or stored in CAD.
 
 #### When Should I NOT Use CAD?
 
-Strangely enough this is a topic not spoken enough in our opinion. CAD is probably the most efficient bridge between digital design and automated manufacturing. However dependency to CAD seems to negatively alter our workflow in certain circumstance. For example we may have non critical temporary tool fixtures that is needed for only a single application, yet we find ourselves out of habit sketching the fixture in CAD. This adds unnecessary complexity to the project wasting time and resources. R\&D processes require loads of temporary parts, fixtures, or structures, and sketching these things in CAD is not the best way to start out.
+Strangely enough, this is a topic not spoken about enough in our opinion. CAD is probably the most efficient bridge between digital design and automated manufacturing. However, dependency to CAD seems to negatively alter our workflow in certain circumstances. For example, we may have noncritical temporary tool fixtures that are needed for only a single application, yet we find ourselves out of habit sketching the fixture in CAD. This adds unnecessary complexity to the project wasting time and resources. R\&D processes require loads of temporary parts, fixtures, or structures, and sketching these things in CAD is not the best way to start out.
 
 
 

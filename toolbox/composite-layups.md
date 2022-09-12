@@ -1,7 +1,10 @@
+---
+cover: ../.gitbook/assets/20200229_223147.jpg
+coverY: 0
+---
+
 # Composite Layups
 
+Composite Layups are a great way to make extremely strong yet lightweight parts.&#x20;
 
-
-
-
-{% embed url="https://docs.google.com/document/d/1vflaiViq9LIDnayfiXA2to1ytlysW8m4rNeX7GJBGrY/edit?usp=sharing" %}
+#### When&#x20;
