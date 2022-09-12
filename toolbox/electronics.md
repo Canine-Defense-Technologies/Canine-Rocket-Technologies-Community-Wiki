@@ -11,7 +11,13 @@ Electronics is what brings many projects alive, quite literally. Since this is s
 
 It really depends on what you want to do.&#x20;
 
+## Safety
 
+Heat: Your melting solder, there will obviously be a lot of heat involved.&#x20;
+
+Electrical Shocks: In small electornics, small shocks are not a very big problem. However as projects get bigger, high voltage capacirots, power supplies, and components could cause isn
+
+Toxic Fumes:
 
 ## EDA
 
