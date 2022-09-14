@@ -27,9 +27,15 @@ SLA printing will alwyas reqire reson
 
 ### Prusa Slicer
 
-Prusa Slicer
+Prusa Slicer is by far our favorite Slicer SOftware&#x20;
 
 {% embed url="https://www.prusa3d.com/page/prusaslicer_424/" %}
+
+### Cura
+
+
+
+
 
 ## Printers
 

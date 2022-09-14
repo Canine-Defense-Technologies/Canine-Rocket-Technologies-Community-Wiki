@@ -15,7 +15,11 @@ Though CNC machining is neither the most efficient nor elegant manufacturing pro
 
 Typically budgetary and time constraints along with part geometry will be the determining factor as to whether CNC machining a part is feasible. Much like how some part geometries simply must be designed in certain ways to be 3D printed, the same applies to CNC machined parts but with even greater restrictions. Anyone mildly experienced with CNC machining will realize how simple additions of features in a part could lead to a complex chain of different tool changes and settings.&#x20;
 
-## Saftey
+## Safety
+
+{% hint style="danger" %}
+Do you own
+{% endhint %}
 
 
 
