@@ -1,30 +1,36 @@
 # Wiki Index
 
-The wiki is organized into 2 primary sections, the&#x20;
+The wiki is organized into two primary groups, information and projects. The information pages&#x20;
 
-## Toolbox
+
+
+## Information Library
+
+The Information Library is our hub of links, recourses, and notes regarding general activities involved in hardware development. It is a lot of information, so we have included a introduction page to each respective category.&#x20;
+
+### Toolbox
 
 {% content-ref url="../toolbox/" %}
 [toolbox](../toolbox/)
 {% endcontent-ref %}
 
-Library of helpful resources and tools regarding fabrication, tooling, and manufacturing.
+Helpful resources and tools regarding small scale fabrication, tooling, and manufacturing.
 
-## Technical Resource
+### Technical Resource
 
 {% content-ref url="../technical-resource/" %}
 [technical-resource](../technical-resource/)
 {% endcontent-ref %}
 
-Library of resources and references regarding design, simulation, and documentation.
+Resources and references regarding design, simulation, and documentation.
 
-## Supply Chain
+### Supply Chain
 
 {% content-ref url="../supply-chain/" %}
 [supply-chain](../supply-chain/)
 {% endcontent-ref %}
 
-Library of suppliers and manufacturers
+Library of suppliers and manufacturers that we have personally used directly, or heard good feedback from the community.
 
 ## Project Library
 
@@ -36,8 +42,8 @@ model rockets, rocket sub components & sub assemblies, launch pads, launch contr
 
 ### UAV Projects
 
-Drones, drone controllers, drone ground systems, etc. A lot of these systems are for actual enterprise&#x20;
+Drones, drone controllers, drone ground systems, etc.&#x20;
 
 ### Tactical Projects
 
-Body armor, radios,&#x20;
+Body armor, radios, helmets, IR Strobes, you name it!
