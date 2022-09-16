@@ -13,9 +13,17 @@ It really depends on what you want to do.&#x20;
 
 ## Safety
 
+{% hint style="danger" %}
+Dealing wiht High Voltage or High Current devices can kill or injure you. Ensure you seek guidance from a qualified indivisual and utilize proper saftey equipment and measures!
+{% endhint %}
+
+{% hint style="warning" %}
+Electronic assembly often deals with hazerdous fumes and contact with lead.&#x20;
+{% endhint %}
+
 Heat: Your melting solder, there will obviously be a lot of heat involved.&#x20;
 
-Electrical Shocks: In small electornics, small shocks are not a very big problem. However as projects get bigger, high voltage capacirots, power supplies, and components could cause isn
+Electrical Shocks: In small electronics, small shocks are not a very big problem. However as projects get bigger, high voltage capacitors, power supplies, and components could cause isn
 
 Toxic Fumes:
 

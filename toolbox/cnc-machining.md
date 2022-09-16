@@ -18,7 +18,7 @@ Typically budgetary and time constraints along with part geometry will be the de
 ## Safety
 
 {% hint style="danger" %}
-CNC machines can be dangerous to operate! Be aware of the risks and e
+Do you own
 {% endhint %}
 
 
@@ -56,7 +56,3 @@ Open Builds Control is another great open-sourced CNC milling CAM suite we have 
 {% embed url="https://software.openbuilds.com/" %}
 
 ## Hardware
-
-### "Janky" Ender 3 CNC Conversion
-
-You heard us right, we c
