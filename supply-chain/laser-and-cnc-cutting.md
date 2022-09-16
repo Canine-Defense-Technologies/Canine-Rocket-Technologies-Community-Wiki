@@ -2,7 +2,7 @@
 description: Sharks with freakin lasers attached to their heads
 ---
 
-# Laser Cutting
+# Laser and CNC Cutting
 
 ## Send Cut Send
 
@@ -13,3 +13,9 @@ Their minimum order price starts at $29. Share an order with friends or multiple
 {% endhint %}
 
 {% embed url="https://sendcutsend.com/" %}
+
+## CNC Madness
+
+
+
+{% embed url="https://cncmadness.com" %}

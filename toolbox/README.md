@@ -29,7 +29,7 @@ The BEST tool for you is the one you know best, and the one that fits your workf
 
 * "Janky" Ender 3 CNC conversion
 
-### [Laser Cutter:](../supply-chain/laser-cutting.md)
+### [Laser Cutter:](../supply-chain/laser-and-cnc-cutting.md)
 
 * Atomstack A5 Laser Engraver
 

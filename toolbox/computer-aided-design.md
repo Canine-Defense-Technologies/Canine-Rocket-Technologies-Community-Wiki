@@ -17,7 +17,13 @@ Strangely enough, this is a topic not spoken about enough in our opinion. CAD is
 
 
 
+## Safety
 
+CAD is by far the most dangerous tool ever featured in the toolbox. It has a huge risk of unleashing a digital world of endless creativity. It is highly addictive, side effects including strained eyes, bad posture, and many hours blown sitting in front of a screen.
+
+
+
+nah we're just playing with you, have fun with CAD! The only "safety" risk we can think of is carpel tunnel from improper hand position and back pain from bad posture, watch out!
 
 ## Fusion 360
 
@@ -29,13 +35,13 @@ Fusion 360 is our primary CAD suite we use for designing, rendering, an
 
 ### What F360 is NOT
 
-Fusion 360 is NOT an engineering specific software. F360 does share many engineering features with Autodesk Inventor. Inventor was catered specificalyl for engineering. Based on more experienced people with sufficient experience with both software suite, F360 will lacks more technical features required in advanced engineering. This does not mean F360 is not for engineering, its more of a general design software suite that includes engineering as a sub dicpline. In general, Fusion 360 was highly catered for product deisgners (which conseuqntly will reqire engineering applications). This means fusion 360 retains a good balance of features and tools for integration and fabrciation of your design into manufatcuring processes, basic anylisis and calcuations, and (this is the product design part) a great suite of tools for asthetic works and renders.
+Fusion 360 is NOT an engineering specific software. F360 does share many engineering features with Autodesk Inventor. Inventor was catered specifically for engineering. Based on more experienced people with sufficient experience with both software suite, F360 will lacks more technical features required in advanced engineering. This does not mean F360 is not for engineering, its more of a general design software suite that includes engineering as a sub discipline. In general, Fusion 360 was highly catered for product designers (which consequently will require engineering applications). This means fusion 360 retains a good balance of features and tools for integration and fabrication of your design into manufacturing processes, basic analysis and calculations, and (this is the product design part) a great suite of tools for aesthetic works and renders.
 
 &#x20;
 
 ### F360 Student License
 
-If your a student like us, Fusion 360 is free to use after sumbititng proof of enrollment! We highly reccomend you to take this oppurintinty since the education license offers the entire osftware suite at no cost.
+If your a student like us, Fusion 360 is free to use after submitting proof of enrollment! We highly recommend you to take this opportunity since the education license offers the entire software suite at no cost.
 
 {% hint style="info" %}
 Check out all the other software suites Autodesk has to offer for students and educators!
@@ -45,7 +51,7 @@ Check out all the other software suites Autodesk has to offer for students and e
 
 ### F360 Hobbyist License
 
-If your no longer a student, Autodesk offers a personal use F360 license with some limmitted features. It offers the full feldged design features, so it isn't a total deal breaker. However features like simulations, pcb design, and tehcnical drawings are completley gone or very limmited. This may make this a deal breaker for people intending to use this for more
+If your no longer a student, Autodesk offers a personal use F360 license with some immitted features. It offers the full fledged design features, so it isn't a total deal breaker. However features like simulations, PCB design, and technical drawings are completely gone or very limited. This may make this a deal breaker for people intending to use this for more
 
 
 

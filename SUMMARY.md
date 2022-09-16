@@ -23,7 +23,7 @@
 * [🚚 Supply Chain](supply-chain/README.md)
   * [Electronics Component](supply-chain/electronics-component.md)
   * [PCB](supply-chain/pcb.md)
-  * [Laser Cutting](supply-chain/laser-cutting.md)
+  * [Laser and CNC Cutting](supply-chain/laser-and-cnc-cutting.md)
   * [3D Printing](supply-chain/3d-printing.md)
   * [Hardware Components](supply-chain/hardware-components.md)
   * [Drone Components](supply-chain/drone-components.md)
