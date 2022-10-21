@@ -10,11 +10,15 @@ In our opinion laser cutting is an underrated manufacturing process. Laser cutte
 
 Anything that requires cutting of flat materials, laser cutters are the way to go. However make sure you do your own research on which materials work, and which ones don't. We often utilize laser cutters often in our prototyping stage to make rapid try in parts. It's faster and cheaper than 3D printing, and its extremely easy to use.&#x20;
 
-Dissadvantages of Laser Cutters:
+#### Disadvantages of Laser Cutters:
 
+The biggest deal breaker with laser cutter in our opinion is managing the toxic fumes and teh safety hazard of the the laser beam. It only takes a brief accident to go completely blind if used irresponsibility, and this can be intimidating to new users. Not only that the fumes it produces are often toxic and require extremely adequate ventilation. Laser cutters also have two big limitations in terms of operations performance. For one unlike CNC that can practically cut through anything, lasers have limitations on what materials it can cut, and even the color and how transparent the material is. The second limitations is the divergence of the laser beam, on thicker material a sort of cone effect on the cut is obvious from the lasers divergence as the cut gets further away from the focal point.&#x20;
 
+## Safety
 
-## Saftey
+{% hint style="danger" %}
+Lasers can PERMENANTLY BLIND YOU! Make sure to always wear certified laser goggles of the proper spec when operating a laser, and do it in an area where no person or animal can be harmed from ANY stray laser light
+{% endhint %}
 
 
 

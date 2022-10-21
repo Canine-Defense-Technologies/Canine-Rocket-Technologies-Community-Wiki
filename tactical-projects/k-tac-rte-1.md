@@ -1,3 +1,9 @@
+---
+description: Rugged T-Beam Enclosure 1
+cover: ../.gitbook/assets/2553591652563998239.jpg
+coverY: 0
+---
+
 # K-TAC RTE-1
 
 {% hint style="info" %}
