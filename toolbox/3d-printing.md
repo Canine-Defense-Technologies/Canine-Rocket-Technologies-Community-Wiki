@@ -13,6 +13,14 @@ Because of how easy it is to 3D print something, often mistakes made by many mak
 
 ## Safety
 
+{% hint style="danger" %}
+Improper setup of 3D printers can lead to fires, exposure to electrical shock, and bodily injury!
+{% endhint %}
+
+{% hint style="warning" %}
+3D Printing can cause long-term health issues. The fumes associated&#x20;
+{% endhint %}
+
 ### FDM
 
 The most common machine around every shop, FDM mcahines seem relativley safe to operate. However the principle operation of FDM printers involves melting plastic, which in turn requires heating elements and high current power supplies. Both of these parts are the usual culprint of 3D printer fires. Ensure they are set up correctly, check the wiring and look for signs of wear, and make sure the printer is not in an envirment where it could overheat.&#x20;

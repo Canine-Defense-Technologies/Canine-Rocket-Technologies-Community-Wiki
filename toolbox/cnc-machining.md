@@ -18,7 +18,7 @@ Typically budgetary and time constraints along with part geometry will be the de
 ## Safety
 
 {% hint style="danger" %}
-CNC machines can be dangerous to operate! Be aware of the risks and e
+CNC machines can be dangerous to operate! The fast spinning tools and powerful motors can easily cause serious injury!
 {% endhint %}
 
 
