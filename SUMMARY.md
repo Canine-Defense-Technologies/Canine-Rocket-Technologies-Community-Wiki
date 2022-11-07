@@ -16,6 +16,7 @@
   * [Composite Layups](toolbox/composite-layups.md)
 * [📘 Technical Resource](technical-resource/README.md)
   * [Pinouts Book](technical-resource/pinouts-book.md)
+  * [DIY Lithium Batteries: How to Build Your Own Battery Packs](technical-resource/diy-lithium-batteries-how-to-build-your-own-battery-packs.md)
   * [Control Theory](technical-resource/control-theory.md)
   * [Parachute Design](technical-resource/parachute-design.md)
   * [K-Tech Dev Log Template](technical-resource/k-tech-dev-log-template.md)
