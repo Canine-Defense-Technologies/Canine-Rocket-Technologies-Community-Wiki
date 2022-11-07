@@ -29,6 +29,7 @@
   * [Hardware Components](supply-chain/hardware-components.md)
   * [Drone Components](supply-chain/drone-components.md)
   * [Composites](supply-chain/composites.md)
+  * [Li Ion Batteries](supply-chain/li-ion-batteries.md)
 * [📑 Other Open Source Projects](other-open-source-projects/README.md)
   * [Meshtastic ](other-open-source-projects/meshtastic.md)
   * [Open HD](other-open-source-projects/open-hd.md)

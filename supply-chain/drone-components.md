@@ -8,6 +8,6 @@ We love getfpv, good prices, a super large selection of parts, great deals, and 
 
 ## APD Motor Drivers
 
-The king of any brushless motor driver has got to be APD. They produce some of the most insanely performing motor drivers&#x20;
+The king of any brushless motor driver has got to be APD. They produce some of the most insanely performing motor drivers and power distribution boards. They're not cheap, but these are the best you can get for ultra-high-performance drones powertrain components.
 
 {% embed url="https://powerdrives.net/" %}
