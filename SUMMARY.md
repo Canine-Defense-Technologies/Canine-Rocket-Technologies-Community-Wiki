@@ -5,6 +5,7 @@
   * [About Canine Rocket Tech](welcome-to-the-wiki/about-canine-rocket-tech.md)
   * [FAQ](welcome-to-the-wiki/faq.md)
   * [Other Awesome Projects!](welcome-to-the-wiki/other-awesome-projects.md)
+  * [Canine Rocket Tech STucture](welcome-to-the-wiki/canine-rocket-tech-stucture.md)
 * [🔧 Toolbox](toolbox/README.md)
   * [CNC Machining](toolbox/cnc-machining.md)
   * [Laser Cutting](toolbox/laser-cutting.md)
