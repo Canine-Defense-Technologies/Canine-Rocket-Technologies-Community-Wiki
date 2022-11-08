@@ -16,7 +16,7 @@ The biggest deal breaker with the laser cutters in our opinion is managing the t
 
 ## Safety
 
-Lasers are very dangerous to use due to the risk of blinding yourself and others. They also pose a fire hazard since they literally burn&#x20;
+Because of simply how easily and quickly improper usage of lasers can blind you, we would say it is one of the most dangerous tools in any workshop.&#x20;
 
 
 
