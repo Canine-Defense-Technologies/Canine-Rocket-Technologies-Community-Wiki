@@ -10,8 +10,8 @@ The Information Library is our hub of links, recourses, and notes regarding gene
 
 #### Toolbox
 
-{% content-ref url="../toolbox/" %}
-[toolbox](../toolbox/)
+{% content-ref url="../toolbox-and-learning-rescources/" %}
+[toolbox-and-learning-rescources](../toolbox-and-learning-rescources/)
 {% endcontent-ref %}
 
 Helpful resources and tools regarding small-scale fabrication, tooling, and manufacturing.

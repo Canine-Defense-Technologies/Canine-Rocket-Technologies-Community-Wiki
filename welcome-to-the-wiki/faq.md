@@ -20,7 +20,7 @@ Just because I use these things doesn't mean it’s good. There are many options
 
 
 
-For more details head on over to the [toolbox](../toolbox/ "mention")&#x20;
+For more details head on over to the [toolbox-and-learning-rescources](../toolbox-and-learning-rescources/ "mention")&#x20;
 
 CAD- Fusion 360
 
