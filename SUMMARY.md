@@ -1,11 +1,11 @@
 # Table of contents
 
-* [🐺 Welcome to the Wiki!](README.md)
+* [Other Awesome Projects!](README.md)
+* [🐺 Welcome to the Wiki!](<README (1).md>)
   * [Wiki Index](welcome-to-the-wiki/wiki-overview.md)
   * [About Canine Rocket Tech](welcome-to-the-wiki/about-canine-rocket-tech.md)
   * [FAQ](welcome-to-the-wiki/faq.md)
   * [Canine Rocket Tech Project Structure](welcome-to-the-wiki/canine-rocket-tech-project-structure.md)
-* [Other Awesome Projects!](other-awesome-projects.md)
 * [🔧 Toolbox & Learning Rescources](toolbox/README.md)
   * [CNC Machining](toolbox/cnc-machining.md)
   * [Laser Cutting](toolbox/laser-cutting.md)
