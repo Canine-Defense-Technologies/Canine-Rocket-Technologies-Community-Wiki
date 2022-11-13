@@ -1,7 +1,6 @@
 # Table of contents
 
-* [Other Awesome Projects!](README.md)
-* [🐺 Welcome to the Wiki!](<README (1).md>)
+* [🐺 Welcome to the Wiki!](README.md)
   * [Wiki Index](welcome-to-the-wiki/wiki-overview.md)
   * [About Canine Rocket Tech](welcome-to-the-wiki/about-canine-rocket-tech.md)
   * [FAQ](welcome-to-the-wiki/faq.md)
@@ -33,6 +32,7 @@
   * [Composites](supply-chain/composites.md)
   * [Li Ion Batteries](supply-chain/li-ion-batteries.md)
 * [📑 Other Open Source Projects](other-open-source-projects/README.md)
+  * [Other Awesome Projects!](other-open-source-projects/other-awesome-projects.md)
   * [Meshtastic ](other-open-source-projects/meshtastic.md)
   * [Open HD](other-open-source-projects/open-hd.md)
   * [Ardupilot](other-open-source-projects/ardupilot.md)
