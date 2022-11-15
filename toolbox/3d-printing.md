@@ -5,11 +5,17 @@ coverY: 0
 
 # 3D Printing
 
-At K-Tech,
+3D printing is probably our most utilized fabrication method in the lab. 3D printing or additive manufacturing allows us to export models straight out of CAD and have usable end use prototypes and parts . Most people visiting this wiki are probably already familiar with 3D printing, so here are some factors we encourage you to asses.&#x20;
 
 When Should You Use 3D Printing?
 
-Because of how easy it is to 3D print something, often mistakes made by many makers are 3D printing EVERY part of their project. This can often lead to comprises both in creativity and capabilities of the end product. Remember there are many other manufacturing methods
+Because of how easy it is to 3D print something, often mistakes made by many makers are 3D printing EVERY part of their project. This can often lead to comprises both in creativity and capabilities of the end product. Remember there are many other manufacturing methods, they should all be considered before you proceed to straight up print every part. As en example we found ourselves printing a lot of flat stencils in the lab, only to realize these stencils could have been laser cut out of waste cardboard for much cheaper and faster.
+
+Where 3D printing shines is in complex geometries, automated manuftcuring, and small scale prodctuions.&#x20;
+
+Disadvantages of 3D Printing.
+
+3D printing was supposed to be like the new steam engine, the tech that would kick off the 2nd industrial revolution, but the only factor holding it back from winning the title is speed. Although there's more and more faster 3D printing technology, it still is a rather slow process, something that often isn't practical beyond low volume productions (Exceptions apply). 3D printing is also very limited in what material can be printed. At the hobbysit level, you are limmited to mostly resins or plastics with very particular and meticulous settings.&#x20;
 
 ## Safety
 
