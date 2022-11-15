@@ -62,3 +62,19 @@ Frankly in our opinon at least, the Autodesk Fusion 360 Course is not nessarily 
 {% embed url="https://www.autodesk.com/products/fusion-360/resources" %}
 
 ## 3D Connexion Space Mouse
+
+<figure><img src="../.gitbook/assets/71fh+k4Y+lL.jpg" alt=""><figcaption></figcaption></figure>
+
+CAD is a three dimensional virtual work environment, but its often interfaced on a two dimensional plane with a traditionally computer mouse. The space mouse is the first true 6 axis joystick interface to utilize your non dominant hand while CAD designing or 3D modeling. We found it to very effectively make our CAD design process more fluid and efficient!
+
+<figure><img src="../.gitbook/assets/20221115_143355_1.gif" alt=""><figcaption><p>Demo of the fluid motions the CAD mouse offers</p></figcaption></figure>
+
+{% hint style="info" %}
+The Space Mouse is not for everyone, some experienced CAD users have expressed their preference to using a traditional computer mouse
+{% endhint %}
+
+{% hint style="success" %}
+The Space Mouse has a bit of a learning curve, it will take a about a week to get used to!
+{% endhint %}
+
+{% embed url="https://3dconnexion.com/us/spacemouse/" %}

@@ -2,7 +2,7 @@
 
 ### Why is it named “Canine”
 
-Who doesn't like dogs (dogs are better than cats)? From wolves to working dogs, they’re tough and useful creatures. It’s interesting how one metric of technological advancement is observing how much animal labor is used, and as advanced as we are now we still use dogs to save lives on a daily basis. That’s the kind of technology I want to work on. As an added bonus, it’s a catchier name than the cliche project or company names you're accustomed to, the idea came from John Carmack’s Armadillo Aerospace. I thought it was unique and fun and somewhat more relatable than (choose astronomy name) and (slap "aerospace", "technology", "defense", etc.)
+Who doesn't like dogs (because dogs are better than cats)? It’s interesting how one metric of technological advancement is observing how much animal labor is used, and as advanced as we are now we still use dogs to save lives on a daily basis. That’s the kind of technology we want to work on. As an added bonus, it’s a catchier name than the cliche project or company names you're accustomed to, the idea came from John Carmack’s Armadillo Aerospace. I thought it was unique and fun and somewhat more relatable than (choose astronomy name) and (slap "aerospace", "technology", "defense", etc.)
 
 ### How do you work on a collaborative basis with other students, and how can I collaborate?
 
