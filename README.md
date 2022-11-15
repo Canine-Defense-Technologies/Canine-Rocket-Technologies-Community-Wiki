@@ -11,7 +11,7 @@ Welcome to the Canine Rocket Technologies Community Wiki! This platform serves a
 
 ### How does the Wiki Differ from K-Tech's other platforms?
 
-Most of our community members have found us via 3rd party platforms such as YouTube or Hackaday.io . These sites are more or less for sharing projects and the associated files. The wiki is more focused on managing and documenting every aspect of our projects from the R\&D process to the finished projects. Think about it this way, this is a place where we dump our knowledge in an organized pretty UI for you (and our team) to easily access!&#x20;
+Most of our community members have found us via 3rd party platforms such as YouTube or Hackaday.io . These sites are more or less for sharing projects and the associated files. The wiki is more focused on managing and documenting every aspect of our projects from the R\&D process to the finished projects. Think about it this way, this is a place where we dump our knowledge like in our Discord server or GitHub, but presented in an organized clean UI for you (and our team) to easily access!&#x20;
 
 Learn more about our management structure:
 
@@ -23,7 +23,7 @@ Learn more about our management structure:
 
 ### What Kind of Content is in the Wiki?
 
-Documentation is a general term. We have dedicated libraries of useful links, internal databases, design files, public resources, other projects, and more!
+Documentation is a general term. We have dedicated libraries of useful links, internal databases, design files, public resources, other projects, and more! The wiki will not contain&#x20;
 
 
 

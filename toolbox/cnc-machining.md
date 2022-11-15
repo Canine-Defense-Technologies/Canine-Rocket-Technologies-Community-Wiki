@@ -21,7 +21,7 @@ Typically budgetary and time constraints along with part geometry will be the de
 CNC machines can be dangerous to operate! The fast spinning tools and powerful motors can easily cause serious injury!
 {% endhint %}
 
-CNC machines are dangerous tools that should be used carefully. Sharp tools spinning at very fast speeds along with very powerful axis motors is a recipe for fingers flying off your pretty hands. Make sure to seek the help of more experienced CNC operators before you proceed, or practice on smaller&#x20;
+CNC machines are dangerous tools that should be used carefully. Sharp tools spinning at very fast speeds along with very powerful axis motors is a recipe for fingers flying off your pretty hands. Make sure to seek the help of more experienced CNC operators before you proceed, or practice on smaller machines. This doesn't mean small desktop CNCs are safe, keep your fingers away from moving tools and don't go beyond your comfort zone!
 
 
 
@@ -63,4 +63,8 @@ Open Builds Control is another great open-sourced CNC milling CAM suite we have 
 
 ### "Janky" Ender 3 CNC Conversion
 
-You heard us right, we c
+You heard us right, our primary CNC machine is nicknamed "Janky", its a Ender 3 converted to a CNC machine. We found this to be a cheap low cost way to get started in CNC machining and engraving for new users who enjoy tinkering. Note that the limitations of belts along with the low stiffness of the ender 3 frame makes is a less than suboptimal CNC platform. However with slow settings it works very well on wood, carbon fiber, and even aluminum.&#x20;
+
+Special thanks to [Ben ](https://www.thingiverse.com/thinngimaker)[Briesemeister](https://www.thingiverse.com/thinngimaker)[ ](https://www.thingiverse.com/thinngimaker)for writing a great guide about converting a Ender 3 to a CNC on his thingiverse page (download the PDF guide).
+
+{% embed url="https://www.thingiverse.com/thing:4845518" %}
