@@ -1,9 +1,5 @@
 # FAQ
 
-### Why is it named “Canine”
-
-Who doesn't like dogs (because dogs are better than cats)? It’s interesting how one metric of technological advancement is observing how much animal labor is used, and as advanced as we are now we still use dogs to save lives on a daily basis. That’s the kind of technology we want to work on. As an added bonus, it’s a catchier name than the cliche project or company names you're accustomed to, the idea came from John Carmack’s Armadillo Aerospace. I thought it was unique and fun and somewhat more relatable than (choose astronomy name) and (slap "aerospace", "technology", "defense", etc.)
-
 ### How do you work on a collaborative basis with other students, and how can I collaborate?
 
 A lot of my collaborations are done privately. There are a handful of students and friends I work with on a daily basis, whether it’s advising each based on our experience, mailing each other parts, working on a group project, etc. I’m also active in open source projects such as Meshtastic. I wish I could collaborate with as many people as I can, but it can be quite challenging being a student. I have attempted to form a public collaborative group, but I ended up spending more time on management rather than actual hardware development. For now, I'm sticking to already great collaborative platforms that exist and are managed by great people.

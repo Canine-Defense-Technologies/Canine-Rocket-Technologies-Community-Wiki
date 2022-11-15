@@ -7,15 +7,15 @@ coverY: 0
 
 3D printing is probably our most utilized fabrication method in the lab. 3D printing or additive manufacturing allows us to export models straight out of CAD and have usable end use prototypes and parts . Most people visiting this wiki are probably already familiar with 3D printing, so here are some factors we encourage you to asses.&#x20;
 
-When Should You Use 3D Printing?
+#### When Should You Use 3D Printing?
 
 Because of how easy it is to 3D print something, often mistakes made by many makers are 3D printing EVERY part of their project. This can often lead to comprises both in creativity and capabilities of the end product. Remember there are many other manufacturing methods, they should all be considered before you proceed to straight up print every part. As en example we found ourselves printing a lot of flat stencils in the lab, only to realize these stencils could have been laser cut out of waste cardboard for much cheaper and faster.
 
 Where 3D printing shines is in complex geometries, automated manuftcuring, and small scale prodctuions.&#x20;
 
-Disadvantages of 3D Printing.
+#### Disadvantages of 3D Printing.
 
-3D printing was supposed to be like the new steam engine, the tech that would kick off the 2nd industrial revolution, but the only factor holding it back from winning the title is speed. Although there's more and more faster 3D printing technology, it still is a rather slow process, something that often isn't practical beyond low volume productions (Exceptions apply). 3D printing is also very limited in what material can be printed. At the hobbysit level, you are limmited to mostly resins or plastics with very particular and meticulous settings.&#x20;
+3D printing was supposed to be like the new steam engine, the tech that would kick off the 2nd industrial revolution, but the only factor holding it back from winning the title is speed. Although there's more and more faster 3D printing technology, it still is a rather slow process, something that often isn't practical beyond low volume productions (Exceptions apply). 3D printing is also very limited in what material can be printed. At the hobbyist level, you are limited to mostly resins or plastics with very particular and meticulous settings.&#x20;
 
 ## Safety
 
@@ -30,8 +30,6 @@ Improper setup of 3D printers can lead to fires, exposure to electrical shock, a
 #### FDM
 
 FDM 3D printers are a common sighting among However, the principle operation of FDM printers involves melting plastic, which in turn requires heating elements and high current power supplies. Both of these parts are the usual culprit of 3D printer fires. Ensure they are set up correctly, check the wiring and look for signs of wear, and make sure the printer is not in an environment where it could overheat.&#x20;
-
-
 
 #### SLA
 
@@ -53,7 +51,9 @@ For new users, we would highly recommend Prusa Slicer
 
 ### Prusa i3 mk3S
 
-This is simply one of the best&#x20;
+By far our favorite FDM 3D printer ever created in the Prusa i3 mk3s. It is the closest printer that almost works out the the box with simply basic maintenance. Prusa Research has done such a good job on documentation that both trouble shooting and print setting tuning is almost too easy. Our Prusa i3 has been an absolute workhorse, with over 11km of filament and 900 days of continuous print operation, and no printer related issues outside of mechanical wear and regular part maintenance.
+
+{% embed url="https://www.prusa3d.com/product/original-prusa-i3-mk3s-kit-3/" %}
 
 ### Ender 3
 
