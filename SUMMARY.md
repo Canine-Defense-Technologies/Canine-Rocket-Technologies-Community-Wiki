@@ -23,6 +23,7 @@
   * [K-Tech Dev Log Template](technical-resource/k-tech-dev-log-template.md)
   * [K-Tech 3D Printing Design Tolerance](technical-resource/k-tech-3d-printing-design-tolerance.md)
   * [April Tags](technical-resource/april-tags.md)
+  * [Readme Creator](technical-resource/readme-creator.md)
 * [🚚 Supply Chain](supply-chain/README.md)
   * [Electronics Component](supply-chain/electronics-component.md)
   * [PCB](supply-chain/pcb.md)
