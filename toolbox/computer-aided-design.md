@@ -15,16 +15,6 @@ In the majority of modern R\&D processes, there will not be a moment void of CAD
 
 Strangely enough, this is a topic not spoken about enough in our opinion. CAD is probably the most efficient bridge between digital design and automated manufacturing. However, dependency to CAD seems to negatively alter our workflow in certain circumstances. For example, we may have noncritical temporary tool fixtures that are needed for only a single application, yet we find ourselves out of habit sketching the fixture in CAD. This adds unnecessary complexity to the project wasting time and resources. R\&D processes require loads of temporary parts, fixtures, or structures, and sketching these things in CAD is not the best way to start out.
 
-
-
-## Safety
-
-CAD is by far the most dangerous tool ever featured in the toolbox. It has a huge risk of unleashing a digital world of endless creativity. It is highly addictive, side effects including strained eyes, bad posture, and many hours blown sitting in front of a screen.
-
-
-
-nah we're just playing with you, have fun with CAD! The only "safety" risk we can think of is carpel tunnel from improper hand position and back pain from bad posture, watch out!
-
 ## Fusion 360
 
 Fusion 360 is our primary CAD suite we use for designing, rendering, an

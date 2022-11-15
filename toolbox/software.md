@@ -9,6 +9,20 @@ Software is how our projects come alive. We're focusing on developing hardware n
 
 ## Arduino IDE
 
+Anything microcontroller related can usually be done with the Arduino IDE. It's a really great software ecosystem, and the new software update really makes it look cleaner and more appealing for new users!&#x20;
+
+
+
+## Arduino Online IDE
+
+The free version has limits on h ow many times you can flash the code onto a board, but still a great platform for making adjustments on a go! It's saved some of our projects while we were gone from the lab multiple times already
+
+## Python
+
+You will come across the popular python ecosystem in one format or the other. Python is well supported and well maintained
+
+
+
 
 
 

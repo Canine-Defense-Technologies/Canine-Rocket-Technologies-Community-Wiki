@@ -24,15 +24,13 @@ Lasers are really dangerous to work with. Probably the most dangerous risk the u
 
 Another factor to be well aware of is toxic fumes. You are literally burning the material and in return it give you a pleasant dose of toxic smoke. Make sure you have proper ventilation (Not a dinky fan, a full on air duct outside with a powerful inline fan) and are well versed on what material your cutting! Some materials like vinyl will produce acidic smoke that will destroy your machine. Other materials can release things like cyanide gas!&#x20;
 
-On the final note regarding laser cutters, they pose as a great fire hazard. We never operate our laser unattended and without any fire extinguishers nearby. Make sure you exercise caution especially with flammable materials!&#x20;
+On the final note regarding laser cutters, they pose as a great fire hazard. We never operate our laser unattended and without any fire extinguishers nearby. Make sure you&#x20;
 
 ## Software
 
 ### Laser GRBL
 
-Laser GRBL is a very easy-to-use open-source laser cutter control software. What we like about laser GRBL is how straight to the point the UI is. It's basically setting up the speed and power with basic controls. If your intentions is to do basic laser tasks, Laser GRBL will be more than enough to satisfy your needs.&#x20;
-
-{% embed url="https://lasergrbl.com" %}
+Laser GRBL is a very easy-to-use open-source laser cutter control software. What we like about laser GRBL is.
 
 ## Laser Cutter
 

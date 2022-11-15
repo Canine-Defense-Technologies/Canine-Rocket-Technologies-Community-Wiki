@@ -13,9 +13,13 @@ It really depends on what you want to do.&#x20;
 
 ## Safety
 
+{% hint style="danger" %}
+Know your limits, and do not go beyond with electronics!
+{% endhint %}
+
 #### Heat
 
-Your melting solder, there will obviously be a lot of heat involved.&#x20;
+Most&#x20;
 
 #### Electrical Shocks
 
