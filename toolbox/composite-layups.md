@@ -12,7 +12,7 @@ Composite Layups are a great way to make extremely strong yet lightweight parts.
 ## Safety
 
 {% hint style="danger" %}
-Ensure you use proper PPE and responsibly operate in manageable environments! Composites can cause cancer and respiratory illness if dealt with incorrectly!&#x20;
+Ensure you use proper PPE and responsibly operate in manageable environments! Composites can cause cancer and respiratory illness if handled improperly!
 {% endhint %}
 
 #### Respiratory
