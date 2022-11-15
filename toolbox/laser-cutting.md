@@ -16,15 +16,15 @@ The biggest deal breaker with the laser cutters in our opinion is managing the t
 
 ## Safety
 
-Because of simply how easily and quickly improper usage of lasers can blind you, we would say it is one of the most dangerous tools in any workshop.&#x20;
-
-
-
 {% hint style="danger" %}
-Lasers can PERMANENTLY BLIND YOU! Make sure to always wear certified laser goggles of the proper spec when operating a laser, and do it in an area where no person or animal can be harmed from ANY stray laser light
+Lasers can **PERMANENTLY BLIND YOU!** Make sure to always wear **certified** laser goggles designed for the **proper spectrum** when operating a laser, and do it in an area where no person or animal can be harmed from ANY stray laser light
 {% endhint %}
 
+Lasers are really dangerous to work with. Probably the most dangerous risk the user is under is permanent eye damage or blindness from equipment failure or improper usage. Always wear laser goggles that are CERTIFIED by ratings standards such as ANSI Z136.7 (Check out the manufacturers and certifier entities). A general guarantee your laser goggles or glasses are not up to spec is if it came free with a budget laser device, or is cheap ($20-30 range). Certified laser glasses can cost upwards of $100-200. It's expensive but absolutely necessary to guarantee full protection from possible permanent eye injury.
 
+Another factor to be well aware of is toxic fumes. You are literally burning the material and in return it give you a pleasant dose of toxic smoke. Make sure you have proper ventilation (Not a dinky fan, a full on air duct outside with a powerful inline fan) and are well versed on what material your cutting! Some materials like vinyl will produce acidic smoke that will destroy your machine. Other materials can release things like cyanide gas!&#x20;
+
+On the final note regarding laser cutters, they pose as a great fire hazard. We never operate our laser unattended and without any fire extinguishers nearby. Make sure you&#x20;
 
 ## Software
 
@@ -33,6 +33,10 @@ Lasers can PERMANENTLY BLIND YOU! Make sure to always wear certified laser goggl
 Laser GRBL is a very easy-to-use open-source laser cutter control software. What we like about laser GRBL is.
 
 ## Laser Cutter
+
+{% hint style="danger" %}
+A Note on Open Frame Laser Cutters/Engravers: Open Frame laser cutters/engravers are sold at a much lower cost because there is no enclosure. This is VERY dangerous, they should NEVER be used as advertised. A proper enclosure that can protect the user from the harmful laser radiation and exhaust the toxic fumes properly is necessary before use!
+{% endhint %}
 
 ### Atomstack A5 Laser Engraver
 

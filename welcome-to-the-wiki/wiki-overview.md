@@ -14,7 +14,7 @@ The Information Library is our hub of links, recourses, and notes regarding gene
 [toolbox](../toolbox/)
 {% endcontent-ref %}
 
-Helpful resources and tools regarding small-scale fabrication, tooling, and manufacturing.
+Helpful resources and experienced based information regarding small-scale fabrication, tooling, and manufacturing. Here we share what tools we use (Both software and hardware) along with some good resources to learn more about the tools!&#x20;
 
 #### Technical Resource
 
