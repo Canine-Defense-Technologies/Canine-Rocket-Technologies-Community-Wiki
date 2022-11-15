@@ -48,8 +48,7 @@
 
 ## 🚁 UAV Projects
 
-* [Valor UAV](uav-projects/valor-uav/README.md)
-  * [Figma Integration](uav-projects/valor-uav/figma-integration.md)
+* [Valor UAV](uav-projects/valor-uav.md)
 * [BANDIT UAV](uav-projects/bandit-uav.md)
 
 ## 🪖 Tactical Projects
