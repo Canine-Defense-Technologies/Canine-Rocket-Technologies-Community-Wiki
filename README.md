@@ -29,7 +29,7 @@ Documentation is a general term. We have dedicated libraries of useful links, in
 
 ### How to Use the Wiki?
 
-Head over to the [Wiki Index](welcome-to-the-wiki/wiki-overview.md) d
+Head over to the [Wiki Index](welcome-to-the-wiki/wiki-overview.md) and head over to the categories of your interest!
 
 
 
