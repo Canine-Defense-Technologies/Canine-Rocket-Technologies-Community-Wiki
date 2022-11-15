@@ -13,3 +13,7 @@ Website
 YouTube Channel
 
 {% embed url="https://www.youtube.com/channel/UC-zGZULEaXRTTgkiC-CAJVQ/featured" %}
+
+GitHub
+
+{% embed url="https://github.com/Canine-Rocket-Technologies" %}
