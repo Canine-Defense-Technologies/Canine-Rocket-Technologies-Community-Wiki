@@ -17,3 +17,15 @@ YouTube Channel
 GitHub
 
 {% embed url="https://github.com/Canine-Rocket-Technologies" %}
+
+Hackaday.io
+
+{% embed url="https://hackaday.io/caninerockettechnologies" %}
+
+Thingiverse
+
+{% embed url="https://www.thingiverse.com/caninerockettechnologies/designs" %}
+
+Printables
+
+{% embed url="https://www.printables.com/social/8289-canine-rocket-technologies/models" %}
