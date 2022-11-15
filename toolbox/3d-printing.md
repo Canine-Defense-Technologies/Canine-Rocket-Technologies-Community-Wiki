@@ -61,4 +61,4 @@ The Ender 3 is probably the most popular beginner&#x20;
 
 ### Prusa SL1S
 
-This printer is FAST!
+This printer is FAST! The SL1S  . Is the SL1S the best value compared to other resin printers? A fair assement would be dependant on what you value, side to side negating the higher print speed and build quality, the SL1S would offer a small marginal advantgae to other printer brands&#x20;
