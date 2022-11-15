@@ -5,7 +5,7 @@ coverY: -250.58610271903322
 
 # CNC Machining
 
-Computer Numerical Control Machining or CNC is a method of automated machining through computer-controlled tools. CNC Machining is what we call Subtractive Manufacturing, where parts are cut out of larger blocks of material. This is fundamentally a wasteful and time-consuming process hence the high costs.
+Computer Numerical Control Machining or CNC is a method of automated machining through computer-controlled tools. CNC Machining is what we call Subtractive Manufacturing, where parts are cut out of larger blocks of material. This is fundamentally a wasteful and time-consuming process hence the high costs, however it yields some of the strongest most optimized parts.
 
 #### When Should I Use CNC Machining?
 
@@ -20,6 +20,10 @@ Typically budgetary and time constraints along with part geometry will be the de
 {% hint style="danger" %}
 CNC machines can be dangerous to operate! The fast spinning tools and powerful motors can easily cause serious injury!
 {% endhint %}
+
+CNC machines are dangerous tools that should be used carefully. Sharp tools spinning at very fast speeds along with very powerful axis motors is a recipe for fingers flying off your pretty hands. Make sure to seek the help of more experienced CNC operators before you proceed, or practice on smaller&#x20;
+
+
 
 
 
