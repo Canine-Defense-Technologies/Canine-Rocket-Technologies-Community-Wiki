@@ -15,11 +15,11 @@ Every section will have a small informative introduction to the principle overvi
 
 
 {% hint style="info" %}
-The BEST tool for you is the one you know best, and the one that fits your workflow and mission. The information here is based on OUR tools and OUR experiences. What's BEST for you is up to your assessment and research
+The BEST tool for you is the one you know best, and the one that fits your workflow and mission. The information here is based on OUR tools and OUR experiences. What's BEST for you is up to your assessment and research.
 {% endhint %}
 
 {% hint style="success" %}
-None of the products listed are a endorsement, they are simply recommendations from our personal experiences.&#x20;
+None of the products listed are a endorsement, they are simply recommendations or lists from our personal tool collection and experiences.&#x20;
 {% endhint %}
 
 ## Our Current Setup
