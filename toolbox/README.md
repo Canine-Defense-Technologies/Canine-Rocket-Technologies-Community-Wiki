@@ -6,11 +6,11 @@ coverY: 0
 
 # 🔧 Toolbox & Learning Rescources
 
-Welcome to the Toolbox! This is a library of information regarding both hardware and software tools we use in the lab! Along with offering insight into what tools we use, we have added tips, tricks, and comments based on our personal experiences. We hope the information here is helpful resource for new and experienced users alike!&#x20;
+Welcome to the Toolbox! This is a library of information regarding both hardware and software tools we use in the lab! Along with offering insight into what tools we use, we have added tips, tricks, and educational resources based on our personal experiences. We hope the information here is helpful resource for new and experienced users alike!&#x20;
 
 ### Layout
 
-Every section will have a small informative introduction to the principle overview of each tool and its intended application. Secondly we provided a short overview on when to utilize the tool and some of the downsides involved with the particular tool (written based on our experience, cater it to YOUR mission!). Next we give a short safety brief targeted towards newer users. Finally we will list the various resources and information in the respective order that fits the tooling.
+Every section will have a small informative introduction to the principle overview of each tool and its intended application. Secondly we provided a short overview on when to utilize the tool and some of the downsides involved with the particular tool (written based on our experience, read it and cater it to YOUR mission!). Next if needed we give a detailed safety brief targeted towards newer users. Finally we will list the various resources and information in the respective order that fits the tooling.&#x20;
 
 
 
