@@ -59,7 +59,7 @@ Product design online offers both paid and free online CAD courses regarding Fus
 
 ### Autodesk Fusion 360 Course
 
-Frankly in our opinon at least, the Autodesk Fusion 360 Course is not nessarily the best structured tutorial for new users. We found the overall course to be a bit lengthy with emphasis on steps that anyone even midly experienced with most softwares would  be farimilr with. To be fair, Autodesk had to adopt this format assuming some of the users will not have any prior digtial knwodlege. Our suggestion for this is to skip or skim over overly ovbious steps and move on quickly. Some users may find the Autodesk course helpful, in our opinion it serves as a great didactic tool to learn more features/processes from intermediate users.&#x20;
+In our experience the Autodesk Fusion 360 Course is not necessarily the best structured tutorial for new users. We found the overall course to be a bit lengthy with emphasis on steps that anyone even mildly experienced with most software would  be familiar with. To be fair, Autodesk had to adopt this format assuming some of the users will not have any prior digital knowledge. Our suggestion for this is to skip or skim over overly obvious steps and move on quickly. Some users may find the Autodesk course helpful, in our opinion it serves as a great didactic tool to learn more features/processes from intermediate users.&#x20;
 
 {% embed url="https://www.autodesk.com/products/fusion-360/resources" %}
 
