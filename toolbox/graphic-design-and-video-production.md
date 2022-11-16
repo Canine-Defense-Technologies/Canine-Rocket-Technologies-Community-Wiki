@@ -5,6 +5,8 @@ coverY: 38.283987915407856
 
 # Graphic Design & Video Production
 
+## Introduction&#x20;
+
 Graphic design is often the overlooked part of projects like ours. Let's be honest, if your cool project has a crappy logo or graphic, it isn't very presentable. The same applies to videos, they serve as the moving digital face of your project! Honestly we sometimes go overkill on our videos, but who doesn't want to watch a beautifully produced video! Learning some of these software we found helpful below are extremely useful skills! We like to treat out videos and graphics as an integral part of the project, and it really helps take things to the next level.
 
 ## Inkscape

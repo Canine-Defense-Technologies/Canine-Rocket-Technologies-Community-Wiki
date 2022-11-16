@@ -9,9 +9,17 @@ coverY: 0
 
 Composite Layups are a great way to make extremely strong yet lightweight parts. The basic concept is binding high tensile strength woven fibers with high compressive strength epoxy resins to form extremely stiff, lightweight, and strong parts. Composi
 
-When Should I Go With Fabricating Composite Parts?
+#### When Should I Go With Fabricating Composite Parts?
 
-Composites shine where you mass budget is very low yet the require load is high, in layman's term its great for projects where you want the part to be light but strong. Composites such as Carbon fiber vary in&#x20;
+Composites shine where you mass budget is very low yet the require load is high, in layman's term its great for projects where you want the part to be light but strong. This is why composites are so heavily used in aerospace applications. However there are reasons why composites aren't the most common sighting. Although composite material itself is often cheaper than many other materials, the manufacturing process is very time and labor consuming. Nearly all composite structures from your small model rocket parts to full sized aircraft airframes requires intensive human labor (Minus some modern automation exceptions). This means the yielding part is generally very costly to manufacture.&#x20;
+
+Composites are also limited in application by temperature. Although its strength may often exceed metal, it can not be used near very high temperature components such as near engines (Minus exceptions where very advanced composites are produced, but this isn't available to you unless you work at Skunk Works lol). The final factor we will mention is the direction of applied forces on the part. The principles of composites relies on the tensile strength of the fibers with the compressive strength of the epoxy resin. Because fibers are often joined in the form of woven fibers, composite structures are incredibly strong when the fibers are running in the direction of the applied load, but incredibly weak when running perpendicular to the applied load (Think of it like 3D printer layer lines). Parts typically need to be designed with this in mind.
+
+<figure><img src="../.gitbook/assets/image_2022-11-16_170138419 (1).png" alt=""><figcaption><p>Source: <a href="https://www.researchgate.net/figure/i-Effect-of-fibre-orientation-on-the-tensile-strength-of-E-glass-fibre-reinforced-epoxy_fig3_344263514">https://www.researchgate.net/figure/i-Effect-of-fibre-orientation-on-the-tensile-strength-of-E-glass-fibre-reinforced-epoxy_fig3_344263514</a></p></figcaption></figure>
+
+Deciding weather to utilize composites in your project is a equation of factoring in all the variables mentioned. Not even mention the tedious fabrication processes that you can view below. This is why often times in the enterprise space, composites are exclusively used for where the mass savings of composites is overall beneifical enough to justfy&#x20;
+
+
 
 {% hint style="info" %}
 Composites require a lot of time and resources. It is often not the most economical option for&#x20;
