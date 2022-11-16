@@ -7,7 +7,11 @@ coverY: 0
 
 ## Introduction
 
-Composite Layups are a great way to make extremely strong yet lightweight parts. The basic concept is binding high tensile strength woven fibers with high compressive strength epoxy resins to form extremley stiff, lightweaight, and strong parts. Composi
+Composite Layups are a great way to make extremely strong yet lightweight parts. The basic concept is binding high tensile strength woven fibers with high compressive strength epoxy resins to form extremely stiff, lightweight, and strong parts. Composi
+
+When Should I Go With Fabricating Composite Parts?
+
+Composites shine where you mass budget is very low yet the require load is high, in layman's term its great for projects where you want the part to be light but strong. Composites such as Carbon fiber vary in&#x20;
 
 {% hint style="info" %}
 Composites require a lot of time and resources. It is often not the most economical option for&#x20;

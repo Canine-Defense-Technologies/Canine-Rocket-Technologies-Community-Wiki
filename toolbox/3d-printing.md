@@ -87,4 +87,6 @@ For new users, machines like the Prusa Mini is a much better value and much more
 
 <figure><img src="../.gitbook/assets/229 (1).jpg" alt=""><figcaption></figcaption></figure>
 
-This printer is FAST! The SL1S  . Is the SL1S the best value compared to other resin printers? A fair assement would be dependant on what you value, side to side negating the higher print speed and build quality, the SL1S would offer a small marginal advantgae to other printer brands&#x20;
+This printer is FAST! The SL1S. Is the SL1S the best value compared to other resin printers? A fair assessment would be dependent on what you value, side to side (negating the higher print speed and build quality) the SL1S would offer a small marginal advantage to other printer brands. Resin printers are such a simple machine, a budget resin printer will offer you overall very good print quality when compared to higher end machines. The SL1S is in some ways a very refined machine that fits into the Prusa ecosystem very well, however it may not be the best value for most users.&#x20;
+
+{% embed url="https://www.prusa3d.com/category/original-prusa-sl1s-speed/" %}

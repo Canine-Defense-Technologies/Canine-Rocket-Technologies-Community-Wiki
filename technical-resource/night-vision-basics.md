@@ -21,3 +21,13 @@ Another great write up by Gloom Group, and a great video by T-Rex arms.
 {% embed url="https://gloomgroup.com/blogs/night-vision-info/night-vision-digital-vs-analog?_pos=1&_sid=ffda2e9a7&_ss=r" %}
 
 {% embed url="https://www.youtube.com/watch?v=CFDNEjJ0cME" %}
+
+## Night Vision Setups
+
+
+
+{% embed url="https://www.youtube.com/watch?v=ojeaBBX-Juw" %}
+
+{% embed url="https://www.youtube.com/watch?v=xLYorDf0WXU" %}
+
+{% embed url="https://www.youtube.com/watch?v=51C1-SNAlhk" %}
