@@ -4,6 +4,8 @@ coverY: 0
 
 # Laser Cutting
 
+## Introduction
+
 In our opinion laser cutting is an underrated manufacturing process. Laser cutters allow precision cutting on two-dimensional surfaces extremely quickly. Unlike CNCs since you are burning your way through, no bits or tooling is needed. If you have experience with a 3D printer of CNC, laser cutters are extremely easy to get started in!
 
 #### When Should I Use a Laser Cutter?

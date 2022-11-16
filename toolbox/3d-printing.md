@@ -5,6 +5,8 @@ coverY: 0
 
 # 3D Printing
 
+## Introduction
+
 3D printing is probably our most utilized fabrication method in the lab. 3D printing or additive manufacturing allows us to export models straight out of CAD and have usable end use prototypes and parts . Most people visiting this wiki are probably already familiar with 3D printing, so here are some factors we encourage you to asses.&#x20;
 
 #### When Should You Use 3D Printing?
