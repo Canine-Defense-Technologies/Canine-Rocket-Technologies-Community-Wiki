@@ -1,5 +1,8 @@
 ---
 description: Helpful Infromation for NVG Developers
+cover: >-
+  ../.gitbook/assets/opplanet-eotech-ground-panoramic-night-vision-goggle-gpg-000-a32.png
+coverY: 0
 ---
 
 # Night Vision Basics
@@ -14,6 +17,16 @@ One of the best explanation of a rather technical topic by Gloom Group
 
 {% embed url="https://gloomgroup.com/blogs/night-vision-info/night-vision-how-it-works" %}
 
+Once you've learned how they work, here's more articles on different options.&#x20;
+
+{% embed url="https://gloomgroup.com/blogs/night-vision-info/night-vision-green-phosphor-vs-white-phosphor?_pos=1&_sid=d4aa5f924&_ss=r" %}
+
+{% embed url="https://gloomgroup.com/blogs/night-vision-info/night-vision-filmed-vs-unfilmed-tubes?_pos=2&_sid=d4aa5f924&_ss=r" %}
+
+{% embed url="https://gloomgroup.com/blogs/night-vision-info/night-vision-single-tube-vs-dual-tubes?_pos=16&_sid=d4aa5f924&_ss=r" %}
+
+##
+
 ## Digital NVGs vs Analog
 
 Another great write up by Gloom Group, and a great video by T-Rex arms.
@@ -24,6 +37,8 @@ Another great write up by Gloom Group, and a great video by T-Rex arms.
 
 ## Night Vision Setups
 
+Great overviews by the classics: T-Rex Arms, Garand Thumb, and the Warrior Poet Society. These are great ways to learn about different night vision setups&#x20;
+
 
 
 {% embed url="https://www.youtube.com/watch?v=ojeaBBX-Juw" %}
@@ -31,3 +46,6 @@ Another great write up by Gloom Group, and a great video by T-Rex arms.
 {% embed url="https://www.youtube.com/watch?v=xLYorDf0WXU" %}
 
 {% embed url="https://www.youtube.com/watch?v=51C1-SNAlhk" %}
+
+{% embed url="https://devastratactical.com/spec-ops-dog-k9-vision-system/" %}
+
