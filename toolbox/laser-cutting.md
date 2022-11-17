@@ -22,11 +22,9 @@ The biggest deal breaker with the laser cutters in our opinion is managing the t
 Lasers can **PERMANENTLY BLIND YOU!** Make sure to always wear **certified** laser goggles designed for the **proper spectrum** when operating a laser, and do it in an area where no person or animal can be harmed from ANY stray laser light
 {% endhint %}
 
-Lasers are really dangerous to work with. Probably the most dangerous risk the user is under is permanent eye damage or blindness from equipment failure or improper usage. Always wear laser goggles that are CERTIFIED by ratings standards such as ANSI Z136.7 (Check out the manufacturers and certifier entities). A general guarantee your laser goggles or glasses are not up to spec is if it came free with a budget laser device, or is cheap ($20-30 range). Certified laser glasses can cost upwards of $100-200. It's expensive but absolutely necessary to guarantee full protection from possible permanent eye injury.
+Lasers are really dangerous to work with. Probably the most dangerous risk the user is under is permanent eye damage or blindness from equipment failure or improper usage. Always wear laser goggles that are CERTIFIED by ratings standards such as ANSI Z136.7 (Check out the manufacturers and certifier entities). NEVER trust cheap laser goggles, or the ones that come with your device. Certified laser glasses can cost upwards of $100-200. It may be very expensive initially but the only absolute way to guarantee full protection from permanent eye injury.
 
-Another factor to be well aware of is toxic fumes. You are literally burning the material and in return it give you a pleasant dose of toxic smoke. Make sure you have proper ventilation (Not a dinky fan, a full on air duct outside with a powerful inline fan) and are well versed on what material your cutting! Some materials like vinyl will produce acidic smoke that will destroy your machine. Other materials can release things like cyanide gas!&#x20;
-
-On the final note regarding laser cutters, they pose as a great fire hazard. We never operate our laser unattended and without any fire extinguishers nearby. Make sure you exercise caution especially with flammable materials!&#x20;
+Another factor to be well aware of is toxic fumes and fires. Make sure you have proper ventilation (Not a dinky fan, a full on air duct outside with a powerful inline fan) and are well versed on what material your cutting! Some materials like vinyl will produce acidic smoke that will destroy your machine. Other materials can release things like cyanide gas! Make sure you are aware of the flammability of your material and use the appropriate laser power settings, and have a fire extinguisher nearby. Never operate a laser unattended!&#x20;
 
 ## Software
 
