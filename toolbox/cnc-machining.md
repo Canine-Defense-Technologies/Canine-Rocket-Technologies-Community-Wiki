@@ -25,6 +25,8 @@ CNC machines can be dangerous to operate! The fast spinning tools and powerful m
 
 CNC machines are dangerous tools that should be used carefully. Sharp tools spinning at very fast speeds along with very powerful axis motors is a recipe for fingers flying off your pretty hands. Make sure to seek the help of more experienced CNC operators before you proceed, or practice on smaller machines. This doesn't mean small desktop CNCs are safe, keep your fingers away from moving tools and don't go beyond your comfort zone!
 
+Dust control is very important when operating a CNC machine. CNC machines produce very fine dust and chips which can be very harmful to breath in. Dust from conductive materials such as carbon fiber and metals can also damage electronics. Make sure you have a vacuum and respirator handy, or have install a dust extraction system.&#x20;
+
 ## Software
 
 ### Fusion 360 CAM
