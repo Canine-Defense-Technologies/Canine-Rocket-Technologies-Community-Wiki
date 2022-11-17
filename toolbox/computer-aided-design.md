@@ -19,17 +19,11 @@ Strangely enough, this is a topic not spoken about enough in our opinion. CAD is
 
 ## Fusion 360
 
-Fusion 360 is our primary CAD suite we use for designing, rendering, an
-
-### F360 in Hardware Development&#x20;
-
-
+Fusion 360 is our primary CAD suite we use for designing, rendering, and simulating variables. It is an extremely powerful CAD software suite with many features. It's popularity is rooted in the free license offered to hobbyist, which in turn has created and grown a huge online community. This makes it the ideal software for managing and collaborating on a more open hardware basis.&#x20;
 
 ### What F360 is NOT
 
 Fusion 360 is NOT an engineering specific software. F360 does share many engineering features with Autodesk Inventor. Inventor was catered specifically for engineering. Based on more experienced people with sufficient experience with both software suite, F360 will lacks more technical features required in advanced engineering. This does not mean F360 is not for engineering, its more of a general design software suite that includes engineering as a sub discipline. In general, Fusion 360 was highly catered for product designers (which consequently will require engineering applications). This means fusion 360 retains a good balance of features and tools for integration and fabrication of your design into manufacturing processes, basic analysis and calculations, and (this is the product design part) a great suite of tools for aesthetic works and renders.
-
-&#x20;
 
 ### F360 Student License
 
@@ -62,6 +56,24 @@ Product design online offers both paid and free online CAD courses regarding Fus
 In our experience the Autodesk Fusion 360 Course is not necessarily the best structured tutorial for new users. We found the overall course to be a bit lengthy with emphasis on steps that anyone even mildly experienced with most software would  be familiar with. To be fair, Autodesk had to adopt this format assuming some of the users will not have any prior digital knowledge. Our suggestion for this is to skip or skim over overly obvious steps and move on quickly. Some users may find the Autodesk course helpful, in our opinion it serves as a great didactic tool to learn more features/processes from intermediate users.&#x20;
 
 {% embed url="https://www.autodesk.com/products/fusion-360/resources" %}
+
+## Tinkercad
+
+Okay we know it, tinkercad is often associated with new CAD users. But did you know the starting from our legacy K-9 Landing Legs and up to the V7 TVC gimbal, they were all designed in Tinkercad
+
+### Tinkercad as a teaching tool
+
+
+
+### Tinkercad as a tool
+
+
+
+
+
+
+
+###
 
 ## 3D Connexion Space Mouse
 
