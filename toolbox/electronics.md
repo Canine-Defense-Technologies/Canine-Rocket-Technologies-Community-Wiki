@@ -31,7 +31,7 @@ In small electronics, small shocks are not a very big problem. However, as proje
 
 Contrary to popular belief, solder fumes are not lead fumes. They are however chemical fumes from the infused flux and other additives that are VERY bad for you. Lead-free solder will often have more fumes&#x20;
 
-Venting out the fumes or running it through an air filtration system **designed to clean solder fumes** ( NOT air purifiers or uncertified knockoffs) is a MUST to prevent respiratory damage and cancer.&#x20;
+Venting out the fumes or running it through an air filtration system **designed to filter out solder fumes** ( NOT air purifiers or uncertified knockoffs) is a MUST to prevent respiratory damage and cancer.&#x20;
 
 Dealing with High Voltage or High Current devices can kill or injure you. Ensure you seek guidance from a qualified individual and utilize proper safety equipment and measures!
 
