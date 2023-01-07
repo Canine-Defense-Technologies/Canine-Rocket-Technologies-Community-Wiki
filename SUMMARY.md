@@ -37,6 +37,7 @@
   * [Night Vision Basics](technical-resource/night-vision-basics.md)
   * [Radios](technical-resource/radios.md)
   * [Readme Creator](technical-resource/readme-creator.md)
+  * [Octopart (Electronics Part Library)](technical-resource/octopart-electronics-part-library.md)
 * [📑 Other Open Source Projects](other-open-source-projects/README.md)
   * [Other Awesome Projects!](other-open-source-projects/other-awesome-projects.md)
   * [Meshtastic ](other-open-source-projects/meshtastic.md)
