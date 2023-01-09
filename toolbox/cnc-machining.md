@@ -7,7 +7,7 @@ coverY: -250.58610271903322
 
 ## Introduction
 
-Computer Numerical Control Machining or CNC is a method of automated machining through computer-controlled tools. CNC Machining is what we call Subtractive Manufacturing, where parts are cut out of larger blocks of material. This is fundamentally a wasteful and time-consuming process hence the high costs, however it yields some of the strongest most optimized parts.
+Computer Numerical Control Machining or CNC is a method of automated machining through computer-controlled tools. CNC Machining is what we call Subtractive Manufacturing, where parts are cut out of larger blocks of material. This is fundamentally a wasteful and time-consuming process hence the high costs, however, it yields some of the strongest most optimized parts.
 
 #### When Should I Use CNC Machining?
 
@@ -20,12 +20,12 @@ Typically budgetary and time constraints along with part geometry will be the de
 ## Safety
 
 {% hint style="danger" %}
-CNC machines can be dangerous to operate! The fast spinning tools and powerful motors can easily cause serious injury!
+CNC machines can be dangerous to operate! The fast-spinning tools and powerful motors can easily cause serious injury!
 {% endhint %}
 
-CNC machines are dangerous tools that should be used carefully. Sharp tools spinning at very fast speeds along with very powerful axis motors is a recipe for fingers flying off your pretty hands. Make sure to seek the help of more experienced CNC operators before you proceed, or practice on smaller machines. This doesn't mean small desktop CNCs are safe, keep your fingers away from moving tools and don't go beyond your comfort zone!
+CNC machines are dangerous tools that should be used carefully. Sharp tools spinning at very fast speeds along with very powerful axis motors is a recipe for fingers flying off your pretty hands. Make sure to seek the help of more experienced CNC operators before you proceed, or practice on smaller machines. This doesn't mean small desktop CNCs are safe, keep your fingers away from moving tools, and don't go beyond your comfort zone!
 
-Dust control is very important when operating a CNC machine. CNC machines produce very fine dust and chips which can be very harmful to breath in. Dust from conductive materials such as carbon fiber and metals can also damage electronics. Make sure you have a vacuum and respirator handy, or have install a dust extraction system.&#x20;
+Dust control is very important when operating a CNC machine. CNC machines produce very fine dust and chips which can be very harmful to breathe in. Dust from conductive materials such as carbon fiber and metals can also damage electronics. Make sure you have a vacuum and respirator handy or install a dust extraction system.&#x20;
 
 ## Software
 
@@ -63,8 +63,10 @@ Open Builds Control is another great open-sourced CNC milling CAM suite we have 
 
 ### "Janky" Ender 3 CNC Conversion
 
-You heard us right, our primary CNC machine is nicknamed "Janky", its a Ender 3 converted to a CNC machine. We found this to be a cheap low cost way to get started in CNC machining and engraving for new users who enjoy tinkering. Note that the limitations of belts along with the low stiffness of the ender 3 frame makes is a less than suboptimal CNC platform. However with slow settings it works very well on wood, carbon fiber, and even aluminum.&#x20;
+<figure><img src="../.gitbook/assets/20220312_205214.jpg" alt=""><figcaption></figcaption></figure>
 
-Special thanks to [Ben ](https://www.thingiverse.com/thinngimaker)[Briesemeister](https://www.thingiverse.com/thinngimaker)[ ](https://www.thingiverse.com/thinngimaker)for writing a great guide about converting a Ender 3 to a CNC on his thingiverse page (download the PDF guide).
+You heard us right, our primary CNC machine is nicknamed "Janky", it's an Ender 3 converted to a CNC machine. We found this to be a cheap low-cost way to get started in CNC machining and engraving for new users who enjoy tinkering. Note that the limitations of belts along with the low stiffness of the ender 3 frame makes is a less than suboptimal CNC platform. However, with slow settings, it works very well on wood, carbon fiber, and even aluminum.&#x20;
+
+Special thanks to [Ben ](https://www.thingiverse.com/thinngimaker)[Briesemeister](https://www.thingiverse.com/thinngimaker)[ ](https://www.thingiverse.com/thinngimaker)for writing a great guide about converting an Ender 3 to a CNC on his Thingiverse page (download the PDF guide).
 
 {% embed url="https://www.thingiverse.com/thing:4845518" %}

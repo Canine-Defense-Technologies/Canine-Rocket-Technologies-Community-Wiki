@@ -8,7 +8,7 @@ The wiki is organized into two primary groups, information, and projects. The in
 
 The Information Library is our hub of links, recourses, and notes regarding general activities involved in hardware development. It is a lot of information, so we have included an introduction page for each respective category.&#x20;
 
-#### Toolbox
+#### Toolbox & Learning Resources
 
 {% content-ref url="../toolbox/" %}
 [toolbox](../toolbox/)
@@ -16,13 +16,13 @@ The Information Library is our hub of links, recourses, and notes regarding gene
 
 Helpful resources and experienced based information regarding small-scale fabrication, tooling, and manufacturing. Here we share what tools we use (Both software and hardware) along with some good resources to learn more about the tools!&#x20;
 
-#### Technical Resource
+#### Parts Bin
 
-{% content-ref url="../technical-resource/" %}
-[technical-resource](../technical-resource/)
+{% content-ref url="../parts-bin.md" %}
+[parts-bin.md](../parts-bin.md)
 {% endcontent-ref %}
 
-Resources and references regarding design, simulation, and documentation.
+####
 
 #### Supply Chain
 
@@ -32,6 +32,16 @@ Resources and references regarding design, simulation, and documentation.
 
 Library of suppliers and manufacturers that we have personally used directly, or heard good feedback from the community.
 
+#### Technical Resources
+
+{% content-ref url="../technical-resource/" %}
+[technical-resource](../technical-resource/)
+{% endcontent-ref %}
+
+Resources and references regarding design, simulation, and documentation.
+
+##
+
 ## Project Library
 
 The project library serves as our public hub for all information regarding our projects! The projects are divided by their respective categories in the domain of missions we cover
@@ -39,6 +49,8 @@ The project library serves as our public hub for all information regarding our p
 ### Rocketry Projects
 
 model rockets, rocket sub components & sub assemblies, launch pads, launch controllers, etc. These are hardware more centered toward hobbyist rocketry and/or small scale aerospace research.
+
+#### Technical Resource
 
 ### UAV Projects
 
