@@ -32,10 +32,10 @@ Helpful resources and experienced based information regarding small-scale fabric
 
 Library of suppliers and manufacturers that we have personally used directly, or heard good feedback from the community.
 
-#### Technical Resources
+#### Technical References
 
-{% content-ref url="../technical-references/" %}
-[technical-references](../technical-references/)
+{% content-ref url="../technical-resource-and-references/" %}
+[technical-resource-and-references](../technical-resource-and-references/)
 {% endcontent-ref %}
 
 Resources and references regarding design, simulation, and documentation.
