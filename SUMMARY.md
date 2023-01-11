@@ -5,7 +5,7 @@
   * [About Canine Rocket Tech](welcome-to-the-wiki/about-canine-rocket-tech.md)
   * [K-TECH Lab](welcome-to-the-wiki/k-tech-lab.md)
   * [FAQ](welcome-to-the-wiki/faq.md)
-  * [Canine Rocket Tech Project Structure](welcome-to-the-wiki/canine-rocket-tech-project-structure.md)
+  * [Canine Rocket Tech Program Structure](welcome-to-the-wiki/canine-rocket-tech-program-structure.md)
 * [🔧 Toolbox & Learning Rescources](toolbox/README.md)
   * [CNC Machining](toolbox/cnc-machining.md)
   * [Laser Cutting](toolbox/laser-cutting.md)

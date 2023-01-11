@@ -15,8 +15,8 @@ Most of our community members have found us via 3rd party platforms such as YouT
 
 Learn more about our management structure:
 
-{% content-ref url="welcome-to-the-wiki/canine-rocket-tech-project-structure.md" %}
-[canine-rocket-tech-project-structure.md](welcome-to-the-wiki/canine-rocket-tech-project-structure.md)
+{% content-ref url="welcome-to-the-wiki/canine-rocket-tech-program-structure.md" %}
+[canine-rocket-tech-program-structure.md](welcome-to-the-wiki/canine-rocket-tech-program-structure.md)
 {% endcontent-ref %}
 
 ###
