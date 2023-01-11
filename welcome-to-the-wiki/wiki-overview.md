@@ -34,8 +34,8 @@ Library of suppliers and manufacturers that we have personally used directly, or
 
 #### Technical Resources
 
-{% content-ref url="../technical-resource-and-references/" %}
-[technical-resource-and-references](../technical-resource-and-references/)
+{% content-ref url="../technical-references/" %}
+[technical-references](../technical-references/)
 {% endcontent-ref %}
 
 Resources and references regarding design, simulation, and documentation.
