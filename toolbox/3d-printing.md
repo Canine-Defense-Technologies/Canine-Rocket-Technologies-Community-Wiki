@@ -7,7 +7,7 @@ coverY: 0
 
 ## Introduction
 
-3D printing is probably our most utilized fabrication method in the lab. 3D printing or additive manufacturing allows us to export models straight out of CAD and have usable end use prototypes and parts . Most people visiting this wiki are probably already familiar with 3D printing, so here are some factors we encourage you to asses.&#x20;
+3D printing is probably our most utilized fabrication method in the lab. 3D printing or additive manufacturing allows us to export models straight out of CAD and have usable end-use prototypes and parts. Most people visiting this wiki are probably already familiar with 3D printing
 
 #### When Should You Use 3D Printing?
 
@@ -43,11 +43,11 @@ Improper setup of 3D printers can lead to fires, exposure to electrical shock, a
 
 #### FDM
 
-FDM 3D printers are a common sighting among However, the principle operation of FDM printers involves melting plastic, which in turn requires heating elements and high current power supplies. Both of these parts are the usual culprit of 3D printer fires. Ensure they are set up correctly, check the wiring and look for signs of wear, and make sure the printer is not in an environment where it could overheat.&#x20;
+FDM 3D printers are a common sighting however, the principle operation of FDM printers involves melting plastic, which in turn requires heating elements and high current power supplies. Both of these parts are the usual culprit of 3D printer fires. Ensure they are set up correctly, check the wiring and look for signs of wear, and make sure the printer is not in an environment where it could overheat. Another health risk to be aware of is fumes emitted during the printing process. It is well-known materials like ABS produce toxic fumes that need to be vented out, but many do not exercise the same amount of caution with more benign materials such as PLA. The fact is, yes PLA isn't inherently toxic nor will produce toxic fumes at the temperature we normally print it, but the color pigments and other additives are. It's highly recommended to flush the air in the room the printers are located. Some studied also suggest long-term respiratory problems from plastic particulates that may be airborne. A  general rule of thumb is, don't put the printer right next to where you work for long periods of time.&#x20;
 
 #### SLA
 
-SLA 3D printing involves the use of toxic resins. These resins can cause skin irritation and future health complications. Make sure you **always use the proper PPE**: Gloves, Respirators, and/or air Filtration system.
+SLA 3D printing involves the use of toxic resins. These resins can cause skin irritation and future health complications. Make sure you **always use the proper PPE and safety equipment**: Gloves, Respirators, and an air Filtration system. If you have access to a window, you can also vent the fumes outside.&#x20;
 
 ## Software
 
