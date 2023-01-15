@@ -63,11 +63,11 @@ Okay we know it, tinkercad is often associated with new CAD users. But did you k
 
 ### Tinkercad as a teaching tool
 
-
+Tinkercad is a really great teaching tool for
 
 ### Tinkercad as a tool
 
-
+Tinkercad easily imports .STL files and allows you to add ediitable geometires over it. This is extremly convenient for quikc file editing on the go. SInce its browser based, the files can be easily acessed anywhere with an internet connection.
 
 
 
