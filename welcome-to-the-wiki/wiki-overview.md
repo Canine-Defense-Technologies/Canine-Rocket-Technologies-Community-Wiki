@@ -18,8 +18,8 @@ Helpful resources and experienced based information regarding small-scale fabric
 
 #### Parts Bin
 
-{% content-ref url="../parts-bin.md" %}
-[parts-bin.md](../parts-bin.md)
+{% content-ref url="../parts-bin/" %}
+[parts-bin](../parts-bin/)
 {% endcontent-ref %}
 
 ####
@@ -34,8 +34,8 @@ Library of suppliers and manufacturers that we have personally used directly, or
 
 #### Technical References
 
-{% content-ref url="../technical-resource-and-references/" %}
-[technical-resource-and-references](../technical-resource-and-references/)
+{% content-ref url="../technical-references-and-standards/" %}
+[technical-references-and-standards](../technical-references-and-standards/)
 {% endcontent-ref %}
 
 Resources and references regarding design, simulation, and documentation.
