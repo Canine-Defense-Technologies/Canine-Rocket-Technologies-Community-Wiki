@@ -55,8 +55,7 @@
 
 ## 🚁 UAV Projects
 
-* [Valor UAV](uav-projects/valor-uav.md)
-* [BANDIT UAV](uav-projects/bandit-uav.md)
+* [Valor sUAS](uav-projects/valor-suas.md)
 
 ## 🪖 Tactical Projects
 

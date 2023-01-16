@@ -1,6 +1,6 @@
 ---
 cover: ../.gitbook/assets/IMG_20220709_155858.jpg
-coverY: -250.58610271903322
+coverY: -174.58610271903322
 ---
 
 # CNC Machining
