@@ -51,16 +51,6 @@ Easy EDA is a free and open-sourced web browser-based EDA software under the JLC
 
 
 
-
-
-
-
-
-
-### Eagle
-
-
-
 ## Microcontroller
 
 Microcontrollers are the heart of many of our small projects, in fact, they are the heart of many of our appliances and tools all around us everyday! Learning the basics of microcontrollers is a extremely helpful skill

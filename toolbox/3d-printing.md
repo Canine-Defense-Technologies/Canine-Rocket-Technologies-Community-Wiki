@@ -75,7 +75,7 @@ By far our favorite FDM 3D printer ever created in the Prusa i3 mk3s. It is the 
 
 <figure><img src="../.gitbook/assets/61L4aoIqYOL.jpg" alt=""><figcaption></figcaption></figure>
 
-The Ender 3 is probably the most popular beginner 3D printer dur to its low cost. We wouldn't call it a great beginner machine, it takes a lot of tinkering and basic understanding of 3D printers to get started in. With the price of Creality machines going down, it's a pretty high value deal for the acceptable print quality these machines offer. We would recommend the Ender 3 as a low cost supplementary machine when your scaling up your print operations.&#x20;
+The Ender 3 is probably the most popular beginner 3D printer due to its low cost. We wouldn't call it a great beginner machine, it takes a lot of tinkering and at the very least a basic understanding of 3D printers to get started with by any practical means. With the price of Creality machines going down, it's a pretty high value deal for the more than acceptable print quality these machines yield. However personally based on our own experience, we would recommend the Ender 3 as a low cost supplementary machine when your scaling up your print operations rather than a beginner machine.&#x20;
 
 {% hint style="info" %}
 For new users, machines like the Prusa Mini is a much better value and easier to get started with
