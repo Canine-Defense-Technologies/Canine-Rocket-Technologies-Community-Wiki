@@ -78,7 +78,7 @@ By far our favorite FDM 3D printer ever created in the Prusa i3 mk3s. It is the 
 The Ender 3 is probably the most popular beginner 3D printer dur to its low cost. We wouldn't call it a great beginner machine, it takes a lot of tinkering and basic understanding of 3D printers to get started in. With the price of Creality machines going down, it's a pretty high value deal for the acceptable print quality these machines offer. We would recommend the Ender 3 as a low cost supplementary machine when your scaling up your print operations.&#x20;
 
 {% hint style="info" %}
-For new users, machines like the Prusa Mini is a much better value and much more easier to get started with
+For new users, machines like the Prusa Mini is a much better value and easier to get started with
 {% endhint %}
 
 {% embed url="https://www.creality3dofficial.com/products/creality-ender-3-pro-3d-printer" %}
@@ -87,11 +87,11 @@ For new users, machines like the Prusa Mini is a much better value and much more
 
 <figure><img src="../.gitbook/assets/229 (1).jpg" alt=""><figcaption></figcaption></figure>
 
-This printer is FAST! The SL1S. Is the SL1S the best value compared to other resin printers? A fair assessment would be dependent on what you value, side to side (negating the higher print speed and build quality) the SL1S would offer a small marginal advantage to other printer brands. Resin printers are such a simple machine, a budget resin printer will offer you overall very good print quality when compared to higher end machines. The SL1S is in some ways a very refined machine that fits into the Prusa ecosystem very well, however it may not be the best value for most users.&#x20;
+This printer is FAST! The SL1S. Is the SL1S the best value compared to other resin printers? A fair assessment would be dependent on what you value, side to side (negating the higher print speed and build quality) the SL1S would offer a small marginal advantage to other printer brands. Resin printers are simple machines, so a budget resin printer will offer you very good print quality just like an expensive one. The SL1S is in some ways a very refined machine that fits into the Prusa ecosystem very well, however it may not be the best value for most users.&#x20;
 
 {% embed url="https://www.prusa3d.com/category/original-prusa-sl1s-speed/" %}
 
-## Peripherals And Accessories&#x20;
+## Slicer&#x20;
 
 
 

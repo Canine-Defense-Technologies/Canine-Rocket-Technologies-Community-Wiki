@@ -7,15 +7,15 @@ coverY: -174.58610271903322
 
 ## Introduction
 
-Computer Numerical Control Machining or CNC is a method of automated machining through computer-controlled tools. CNC Machining is what we call Subtractive Manufacturing, where parts are cut out of larger blocks of material. This is fundamentally a wasteful and time-consuming process hence the high costs, however, it yields some of the strongest most optimized parts.
+Computer Numerical Control Machining or CNC is a method of automated machining through computer-controlled tools (from the acrynoym, go figure). CNC Machining is what we call Subtractive Manufacturing, where parts are cut out of larger blocks of material. This is fundamentally a wasteful and time-consuming process hence the high costs, however, it yields some of the strongest most optimized parts. Thre removal of material as opposed to the addition of material often allows unmatched strengths, since from the beggining the mass of material is in a uniform and stable state.&#x20;
 
 #### When Should I Use CNC Machining?
 
-Though CNC machining is neither the most efficient nor elegant manufacturing process, it often yields extremely strong consistent parts compared to other novel manufacturing processes such as 3D printing. We often try to avoid CNC machining due to the time and cost, but when part reliability and strength are critical, it's often the best manufacturing method to go with.&#x20;
+Though CNC machining is neither the most efficient nor elegant manufacturing process, it often yields extremely strong consistent parts compared to other novel manufacturing processes such as 3D printing. We often try to avoid CNC machining due to the time and cost, but when part reliability and strength are critical to the overall goal, it's often the best manufacturing method to go with.
 
 #### Disadvantaged of CNC Machining
 
-Typically budgetary and time constraints along with part geometry will be the determining factor as to whether CNC machining a part is feasible. Much like how some part geometries simply must be designed in certain ways to be 3D printed, the same applies to CNC machined parts but with even greater restrictions. Anyone mildly experienced with CNC machining will realize how simple additions of features in a part could lead to a complex chain of different tool changes and settings.&#x20;
+Typically budgetary and time constraints along with part geometry will be the determining factor as to whether CNC machining a part is feasible and practicle. Much like how some part geometries simply must be designed in certain ways to be 3D printed, the same applies to CNC machined parts but with perhaps arguably even greater restrictions. Designing a part to be CNCed will invole the careful consideration of the neccesary tool changes, tool paths, and tolerances the machine is capable of handling. As limmiting as this may sound, applying this knowldged can only be learned through experience or by consulting with a experienced machinist.
 
 ## Safety
 

@@ -20,7 +20,7 @@
 * [📘 Technical References](technical-references/README.md)
   * [K-Tech Fastener Standard](technical-references/k-tech-fastener-standard.md)
   * [K-Tech Dev Log Template](technical-references/k-tech-dev-log-template.md)
-  * [K-Tech 3D Printing Design Tolerance](technical-references/k-tech-3d-printing-design-tolerance.md)
+  * [K-Tech 3D Printing Tolerance & Setting Guide](technical-references/k-tech-3d-printing-tolerance-and-setting-guide.md)
   * [Pinouts Book](technical-references/pinouts-book.md)
   * [Octopart (Electronics Part Library)](technical-references/octopart-electronics-part-library.md)
   * [DIY Lithium Batteries](technical-references/diy-lithium-batteries.md)
