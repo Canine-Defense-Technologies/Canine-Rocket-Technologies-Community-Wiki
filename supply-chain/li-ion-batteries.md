@@ -1,7 +1,7 @@
 # Li Ion Batteries
 
 {% hint style="danger" %}
-Buying Li Ion cells from nonreputable sellers can be dangerous! Often times cheaper prices mean the cells being sold are counterfeit!&#x20;
+Buying Li-Ion cells from non-reputable sellers can be dangerous! Often times cheaper prices or near-impossible technical specs are strong indicators that the cells being sold are counterfeit!&#x20;
 {% endhint %}
 
 ## 18650 Battery Store
