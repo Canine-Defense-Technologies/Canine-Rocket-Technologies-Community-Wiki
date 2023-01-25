@@ -55,7 +55,8 @@
 
 ## 🚁 UAV Projects
 
-* [Valor sUAS](uav-projects/valor-suas.md)
+* [Valor sUAS](uav-projects/valor-suas/README.md)
+  * [Introduction to Valor sUAs](uav-projects/valor-suas/introduction-to-valor-suas.md)
 
 ## 🪖 Tactical Projects
 
