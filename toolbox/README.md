@@ -6,11 +6,11 @@ coverY: 0
 
 # 🔧 Toolbox & Learning Rescources
 
-Welcome to the Toolbox! This is a library of information regarding both hardware and software tools we use in the lab! Along with offering insight into what tools we use, we have added tips, tricks, and educational resources based on our personal experiences. We hope the information here is helpful resource for new and experienced users alike!&#x20;
+Welcome to the Toolbox! This is a library of information regarding both hardware and software tools we use in the lab! Along with offering insight into what tools we use, we have added tips, tricks, and educational resources based on our personal experiences. We hope the information here is helpful for new and experienced users alike!&#x20;
 
 ### Layout
 
-Every section will have a small informative introduction to the principle overview of each tool and its intended application. Secondly we provided a short overview on when to utilize the tool and some of the downsides involved with the particular tool (written based on our experience, read it and cater it to YOUR mission!). Next if needed we give a detailed safety brief targeted towards newer users. Finally we will list the various resources and information in the respective order that fits the tooling.&#x20;
+Every section will have a small informative introduction to the principal overview of each tool and its intended application. Secondly, we provided a short overview regarding when to utilize the tool and some of the downsides involved with the particular tool (written based on our experience, read it, and cater it to YOUR mission!). Next if needed we give a detailed safety brief targeted toward newer users who may not be aware of the risks involved. Finally, we will list the various resources and information in the respective order that fits the tooling.&#x20;
 
 
 
@@ -19,7 +19,7 @@ The BEST tool for you is the one you know best, and the one that fits your workf
 {% endhint %}
 
 {% hint style="success" %}
-None of the products listed are a endorsement, they are simply recommendations or lists from our personal tool collection and experiences.&#x20;
+None of the products listed is an endorsement, they are simply recommendations or lists from our personal tool collection and experiences.&#x20;
 {% endhint %}
 
 ## Our Current Setup
