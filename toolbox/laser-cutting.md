@@ -1,3 +1,7 @@
+---
+description: Sharks with frickin lasers attached to their head
+---
+
 # Laser Cutting
 
 ## Introduction

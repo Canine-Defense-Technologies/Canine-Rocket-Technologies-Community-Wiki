@@ -1,4 +1,5 @@
 ---
+description: Precision liquid plastic squiters
 cover: ../.gitbook/assets/MVI_3624_Moment.jpg
 coverY: 0
 ---
@@ -7,17 +8,17 @@ coverY: 0
 
 ## Introduction
 
-3D printing is probably our most utilized fabrication method in the lab. 3D printing or additive manufacturing allows us to export models straight out of CAD and have usable end-use prototypes and parts. Most people visiting this wiki are probably already familiar with 3D printing
+3D printing is probably our most utilized fabrication method in the lab. 3D printing is an additive manufacturing method that allows us to export models straight out of CAD and have usable end-use prototypes and parts. Most people visiting this wiki are probably already familiar with 3D printing, but we'll provide an overview nonetheless. The basic concept of 3D printing is layer-by-layer manufacturing of parts, whether its physically melting plastic filaments and laying it down precisely layer by layer (FDM or Fused Deposit Molding), or curing liquid resin layer by layer with a UV light source (SLA or Stereolithography). There are other methods such as sintering a polymer or metal powder layer by layer (SLS or Selective Laser Sintering), but that's not something available to consumers at a practical level just yet.&#x20;
 
 #### When Should You Use 3D Printing?
 
-Because of how easy it is to 3D print something, often mistakes made by many makers are 3D printing EVERY part of their project. This can often lead to comprises both in creativity and capabilities of the end product. Remember there are many other manufacturing methods, they should all be considered before you proceed to straight up print every part. As en example we found ourselves printing a lot of flat stencils in the lab, only to realize these stencils could have been laser cut out of waste cardboard for much cheaper and faster.
+Because of how easy it is to 3D print something, often mistakes made by many makers are 3D printing EVERY part of their project. This can often compromise both creativity and capabilities for the end product. Remember there are many other manufacturing methods, and they should all be considered before proceeding with simply printing the part. As an example we found ourselves printing a lot of flat stencils in the lab, only to realize these stencils could have been laser cut out of waste cardboard at a much cheaper cost and at much faster speeds (A few minutes as opposed to a few seconds). Always look into alternatives before becoming dependent on the 3D printer!
 
-Where 3D printing shines is in complex geometries, automated manuftcuring, and small scale prodctuions.&#x20;
+After consideration of the alternatives, the question of when to use 3D printing is simply a question of how&#x20;
 
 #### Disadvantages of 3D Printing.
 
-3D printing was supposed to be like the new steam engine, the tech that would kick off the 2nd industrial revolution, but the only factor holding it back from winning the title is speed. Although there's more and more faster 3D printing technology, it still is a rather slow process, something that often isn't practical beyond low volume productions (Exceptions apply). 3D printing is also very limited in what material can be printed. At the hobbyist level, you are limited to mostly resins or plastics with very particular and meticulous settings.&#x20;
+3D printing was supposed to be like the new steam engine, the tech that would kick off the 2nd industrial revolution, but the only factor holding it back from winning that title is speed. Although that's changing as 3D printing technology is only getting faster, it still is a rather slow process. At its current practical form, it remains impractical beyond low-volume productions (Exceptions apply). 3D printing is also very limited in what material can be printed. At the hobbyist level, you are limited to mostly resins or plastics with limited performance in temperature resistance and mechanical properties. Consequently, layer-by-layer manufacturing leads to non-isotropic (In layman's terms, non-consistent mechanical strength throughout all axises) parts. They often tend to crack along the layer lines when under stress, and this needs to be carefully accounted for during the design of the 3D-printed part. Of course, there are exceptions, SLS or MJF printing technology has allowed parts to be a shocking 95% isotropic, but these technologies aren't available at any practical level to the consumer just yet.&#x20;
 
 #### Choosing a 3D printer.
 

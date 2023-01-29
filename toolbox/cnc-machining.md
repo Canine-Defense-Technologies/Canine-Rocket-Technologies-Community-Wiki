@@ -1,4 +1,5 @@
 ---
+description: CNC go brrrrrrrrrrrrrr
 cover: ../.gitbook/assets/IMG_20220709_155858.jpg
 coverY: -174.58610271903322
 ---
