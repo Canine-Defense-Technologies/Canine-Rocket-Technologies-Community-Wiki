@@ -6,16 +6,16 @@ coverY: 0
 # 🐺 Welcome to the Wiki!
 
 {% hint style="warning" %}
-Please be aware that this wiki is still a WIP
+This Wiki is a Work In Progress
 {% endhint %}
 
-Welcome to the Canine Rocket Technologies Community Wiki! This platform serves as our dedicated documentation hub to accelerate development in collaborative projects, provide the public with experience-proven information, and assist with our open source project management.&#x20;
+Welcome to the Canine Rocket Technologies Community Wiki! This platform serves as our dedicated documentation hub to accelerate development in collaborative projects, provide the public with experience-proven information, and assist with our open-source project management.&#x20;
 
 
 
 ### How does the Wiki Differ from K-Tech's other platforms?
 
-Most of our community members have found us via 3rd party platforms such as YouTube or Hackaday.io . These sites are more or less for sharing projects and the associated files. The wiki is more focused on managing and documenting every aspect of our projects from the R\&D process to the finished projects, along with organizing a library of different sources we rely on to learn new things! Think about it this way, this is a place where we dump our knowledge and resources, but present it in an organized clean manner for you (and our team) to easily access!&#x20;
+Most of our community members have found us via 3rd party platforms such as YouTube or Hackaday.io. These sites are more or less for sharing projects and the associated files. The wiki is more focused on managing and documenting every aspect of our projects from the R\&D process to the finished projects, along with organizing a library of different sources we rely on to learn new things! Think about it this way, this is a place where we dump our knowledge and resources, but present it in an organized clean manner for you (and our team) to easily access!&#x20;
 
 Learn more about our management structure:
 
@@ -27,11 +27,7 @@ Learn more about our management structure:
 
 ### What Kind of Content is in the Wiki?
 
-Documentation is a general term. We have dedicated libraries of useful links, internal databases, design files, public resources, other projects, and more! The wiki may also be used to oragnized more technical and detailed documentration, but it in itself isnt&#x20;
-
-
-
-### How to Use the Wiki?
+Documentation is a general term. We have dedicated libraries of useful links, internal databases, design files, public resources, other projects, and more! The wiki may also be used to organize more technical and detailed documentation, but it in itself is&#x20;
 
 Head over to the [Wiki Index](welcome-to-the-wiki/wiki-overview.md) and head over to the categories of your interest!
 

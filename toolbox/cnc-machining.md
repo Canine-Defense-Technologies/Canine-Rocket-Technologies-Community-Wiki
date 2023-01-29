@@ -36,7 +36,7 @@ Fusion 360 has an advanced integrated CAM (Computer Aided Manufacturing) suite o
 
 {% embed url="https://youtu.be/Y-OU0yaD62w" %}
 
-For more information on Fusion 360, check out our documentation in the page below
+For more information on Fusion 360, check out our documentation in the page below.
 
 {% content-ref url="computer-aided-design.md" %}
 [computer-aided-design.md](computer-aided-design.md)
