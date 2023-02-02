@@ -53,7 +53,7 @@ dddddd
 
 ### Step 1
 
-<figure><img src="../../.gitbook/assets/ertrtrrt.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/ertrtrrt (1).png" alt=""><figcaption></figcaption></figure>
 
 Grab the fan enclosure and heat set nine m3x3 threaded inserts into the holes highlighted above.
 
@@ -61,15 +61,25 @@ Grab the fan enclosure and heat set nine m3x3 threaded inserts into the holes hi
 
 <figure><img src="../../.gitbook/assets/ereette.png" alt=""><figcaption></figcaption></figure>
 
-Now face the part upward and heat set two m3x6 threaded inserts into the holes hihglighted above.
+Now face the component upward and heat set two m3x6 threaded inserts into the holes highlighted above. Then repeat the process on the foward part of th&#x20;
 
 ### Step 3
 
 <figure><img src="../../.gitbook/assets/hddghsghd.png" alt=""><figcaption></figcaption></figure>
 
-ddddd
+Flip the part so the largest opening faces up, and heat set eight m3x6 threaded inserts into the holes highlighted above.
 
+### Step 4
 
+<div>
+
+<figure><img src="../../.gitbook/assets/20230126_221302.jpg" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../../.gitbook/assets/20230126_221804.jpg" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 dddd
 
