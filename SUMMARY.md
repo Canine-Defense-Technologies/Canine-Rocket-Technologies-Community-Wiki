@@ -46,18 +46,23 @@
   * [Open HD](other-open-source-projects/open-hd.md)
   * [Ardupilot](other-open-source-projects/ardupilot.md)
 
-## 🚀 Rocketry Projects
+## Rocketry Projects
 
 * [K-9 TVC Gen 2](rocketry-projects/k-9-tvc-gen-2.md)
 * [K-9 TVC V8](rocketry-projects/k-9-tvc-v8.md)
 * [Model Rocket Landing Legs](rocketry-projects/model-rocket-landing-legs.md)
 * [WOOF Launch Computer](rocketry-projects/woof-launch-computer.md)
 
-## 🚁 UAV Projects
+## UAV Projects
 
 * [Valor sUAS](uav-projects/valor-suas/README.md)
   * [Introduction to Valor sUAs](uav-projects/valor-suas/introduction-to-valor-suas.md)
 
-## 🪖 Tactical Projects
+## Tactical Projects
 
 * [K-TAC RTE-1](tactical-projects/k-tac-rte-1.md)
+
+## Other Projects
+
+* [K-FLOW Powered Air Purifying Respirator](other-projects/k-flow-powered-air-purifying-respirator/README.md)
+  * [Blower Module Assembly Manual](other-projects/k-flow-powered-air-purifying-respirator/blower-module-assembly-manual.md)
