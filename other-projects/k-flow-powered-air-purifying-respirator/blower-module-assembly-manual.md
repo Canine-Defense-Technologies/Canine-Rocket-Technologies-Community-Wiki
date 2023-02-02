@@ -44,6 +44,7 @@ kkk
 | 1-1/4" Vaccume Hose                         | 1.5 Meter |      |
 | M3x3 Threaded Insert                        |           |      |
 | M3x6 Threaded Insert                        |           |      |
+| M3x7 Tampered Head Screw                    | 4x        |      |
 
 
 
@@ -59,17 +60,19 @@ Grab the fan enclosure and heat set nine m3x3 threaded inserts into the holes hi
 
 ### Step 2
 
+<div>
+
 <figure><img src="../../.gitbook/assets/ereette.png" alt=""><figcaption></figcaption></figure>
 
-Now face the component upward and heat set two m3x6 threaded inserts into the holes highlighted above. Then repeat the process on the foward part of th&#x20;
+ 
+
+<figure><img src="../../.gitbook/assets/ertrtrrt.png" alt=""><figcaption></figcaption></figure>
+
+</div>
+
+Now face the component upward and heat set two m3x6 threaded inserts into the holes highlighted above. Then repeat the process on the forward part of the component into the eight highlighted holes.
 
 ### Step 3
-
-<figure><img src="../../.gitbook/assets/hddghsghd.png" alt=""><figcaption></figcaption></figure>
-
-Flip the part so the largest opening faces up, and heat set eight m3x6 threaded inserts into the holes highlighted above.
-
-### Step 4
 
 <div>
 
@@ -77,13 +80,39 @@ Flip the part so the largest opening faces up, and heat set eight m3x6 threaded 
 
  
 
+<figure><img src="../../.gitbook/assets/20230126_221559.jpg" alt=""><figcaption></figcaption></figure>
+
+</div>
+
+Now it's time to move on to the motor assembly. Grab the motor mount, the motor, and four tampered M3x7 screws. Fish the motor power lines out the hole on the sidewall of the motor mount.
+
+{% hint style="info" %}
+In the photo, you can see we trimmed the bullet connectors that come with the motor so it can be directly soldered onto the ESC. This is not required but recommended. It will make it easier to &#x20;
+{% endhint %}
+
+### Step 4
+
+<div>
+
+<figure><img src="../../.gitbook/assets/20230126_221821.jpg" alt=""><figcaption></figcaption></figure>
+
+ 
+
 <figure><img src="../../.gitbook/assets/20230126_221804.jpg" alt=""><figcaption></figcaption></figure>
 
 </div>
 
-dddd
+Align the four motor mounting points with the screw holes on the motor mount. Fill the holes with silicone sealant before screwing in the m3x7 tampered head screws.
 
-ddd
+### Step 5
+
+<figure><img src="../../.gitbook/assets/20230126_222115.jpg" alt=""><figcaption></figcaption></figure>
+
+Seal the gap between the motor wires and the motor mount walls with silicone sealant. A syringe with a blunt needle is really useful for this job.
+
+{% hint style="danger" %}
+Be careful not to have sealant drip onto the motor itself&#x20;
+{% endhint %}
 
 ddd
 
