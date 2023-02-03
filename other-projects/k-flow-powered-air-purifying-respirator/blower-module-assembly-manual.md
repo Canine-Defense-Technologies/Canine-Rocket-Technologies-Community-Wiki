@@ -111,12 +111,28 @@ Align the four motor mounting points with the screw holes on the motor mount. Fi
 Seal the gap between the motor wires and the motor mount walls with silicone sealant. A syringe with a blunt needle is really useful for this job.
 
 {% hint style="danger" %}
-Be careful not to have sealant drip onto the motor itself&#x20;
+Be careful not to have sealant drip onto the motor itself!
 {% endhint %}
 
-ddd
+Step 6
 
-ddd
+<div>
+
+<figure><img src="../../.gitbook/assets/20230126_222335.jpg" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../../.gitbook/assets/20230126_222607.jpg" alt=""><figcaption></figcaption></figure>
+
+</div>
+
+Apply a generous amount of silicone sealant around the mounting ring of the motor mount.&#x20;
+
+Step 7
+
+<figure><img src="../../.gitbook/assets/20230126_222624.jpg" alt=""><figcaption></figcaption></figure>
+
+Align the motor mounting ring to the six brass threaded inserts on the backside of the fan enclosure.&#x20;
 
 d
 
