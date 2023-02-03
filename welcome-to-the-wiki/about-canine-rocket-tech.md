@@ -2,7 +2,11 @@
 
 ### <mark style="color:blue;">Our Mission</mark>: Rapidly build, test, and deploy open architecture hardware solutions for the most demanding missions.
 
-We are an amateur student-run hardware technology development project engaging in accelerated hardware R\&D. We build solutions ranging from small scale rocketry hardware to deployable tactical solutions.
+We are an amateur student-run hardware technology development project engaging in accelerated hardware R\&D. We build solutions ranging from small-scale rocketry hardware to deployable tactical solutions.
+
+
+
+{% embed url="https://linktr.ee/caninerockettechnologies" %}
 
 ### Links
 

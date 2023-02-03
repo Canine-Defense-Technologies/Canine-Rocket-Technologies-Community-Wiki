@@ -65,6 +65,7 @@
 ## Other Projects
 
 * [K-FLOW Powered Air Purifying Respirator](other-projects/k-flow-powered-air-purifying-respirator/README.md)
+  * [Testing the PAPR](other-projects/k-flow-powered-air-purifying-respirator/testing-the-papr.md)
   * [Untitled](other-projects/k-flow-powered-air-purifying-respirator/untitled.md)
   * [Blower Module Assembly Manual](other-projects/k-flow-powered-air-purifying-respirator/blower-module-assembly-manual.md)
   * [Battery Module Assembly Manual](other-projects/k-flow-powered-air-purifying-respirator/battery-module-assembly-manual.md)
