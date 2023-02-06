@@ -7,5 +7,5 @@ The K-FLOW PAPR (Powered Air Purifying Respirator) is an open sourced for .
 
 
 {% hint style="danger" %}
-Careful design consideration was put into this, but this is a DIY Respitory Protection Device.&#x20;
+This is a DIY Respirator device, it is not certified by any offical certifer such as NIOSH or OSHA. USE AT YOUR OWN RISK
 {% endhint %}
