@@ -43,8 +43,6 @@ Head over to the [Wiki Index](welcome-to-the-wiki/wiki-overview.md) and head ove
 
 {% hint style="success" %}
 Wiki Author: Yukon
-
-Wiki Manager:
 {% endhint %}
 
 ## ****
