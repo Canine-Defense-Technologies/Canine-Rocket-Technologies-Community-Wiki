@@ -18,8 +18,8 @@ Helpful resources and experienced based information regarding small-scale fabric
 
 #### Parts Bin
 
-{% content-ref url="../parts-bin/" %}
-[parts-bin](../parts-bin/)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
 ####
