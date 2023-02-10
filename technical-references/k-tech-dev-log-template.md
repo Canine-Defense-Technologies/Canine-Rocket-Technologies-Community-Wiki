@@ -22,7 +22,7 @@ The Dev Log is our internal daily journal system to both accelerate development 
 
 _(Copy Paste into Dev Log for each day)_
 
-**00/00/22**
+**00/00/2023**
 
 **Progress Location:**
 
