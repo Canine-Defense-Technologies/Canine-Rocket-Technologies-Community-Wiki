@@ -37,7 +37,7 @@ None of the products listed is an endorsement, they are simply recommendations o
 
 * Atomstack A5 Laser Engraver
 
-### [CAD & 3D Design Software:](../digital-tools/computer-aided-design.md)
+### [CAD & 3D Design Software:](../design-and-simulation/computer-aided-design.md)
 
 * Fusion 360
 * Tinkercad&#x20;
