@@ -33,14 +33,14 @@ Keep in mind the long turnaround time! Make sure to cross-check pricing with Dig
 {% endhint %}
 
 {% hint style="danger" %}
-Security Risk Supplier for sensitive projects!
+Not a secure service for senstivie projects!
 {% endhint %}
 
 {% embed url="https://lcsc.com/" %}
 
 ## Adafruit
 
-Adafruit is one of our go-to suppliers for breakout boards and prefabbed plug-and-play components. Adafruit supplies reliable and quality components. We would say most of the parts are fairly priced, however, don't forget to cross-check prices. Some components were marked up higher than usual. We do not recommend purchasing more generic components from Adafruit.
+Adafruit is one of our go-to suppliers for breakout boards and prefabbed plug-and-play components. Adafruit supplies reliable and quality components. We would say most of the parts are fairly priced, however, don't forget to cross-check prices. Some components were marked up higher than usual, so we do not recommend purchasing more generic components from Adafruit.
 
 {% hint style="info" %}
 Adafruit is most useful/known for their custom-developed breakout boards with unique features not found by other suppliers. Don't forget to check out suppliers like Digikey who also carry Adafruit products.
