@@ -1,7 +1,3 @@
----
-description: Basically your projects non biological bones
----
-
 # Hardware Components
 
 ## McMaster Carr
@@ -13,10 +9,6 @@ McMaster Carr offers free CAD models of all their parts! Super handy! Don't wast
 {% endhint %}
 
 {% embed url="https://www.mcmaster.com" %}
-
-## Home Depot
-
-Believe it or not, Home Depot, yes the orange home improvement store near you, carries a lot more hardware components for small hardware dev projects than you think at cheap prices.&#x20;
 
 
 

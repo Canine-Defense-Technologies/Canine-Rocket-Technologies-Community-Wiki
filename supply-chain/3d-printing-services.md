@@ -18,4 +18,4 @@ Do not use JLCPCB for printing or manufacturing any parts that are security sens
 
 Jaws Tec is an American 3D small scale manufacturing company. They offer competively priced MJF and SLS 3D printing services that we use for our top priority projects. They have excellent customer service and have redone some of our parts that came with deformities at no cost.
 
-[https://www.jawstec.com/](https://www.jawstec.com/)
+{% embed url="https://www.jawstec.com/" %}
