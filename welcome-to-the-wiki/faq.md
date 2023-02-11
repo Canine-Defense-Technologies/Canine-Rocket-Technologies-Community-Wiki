@@ -20,7 +20,7 @@ Just because I use these things doesn't mean it’s good. There are many options
 
 
 
-For more details head on over to the [fabrication](../fabrication/ "mention")&#x20;
+For more details head on over to the [manufacturing-and-fabrication](../manufacturing-and-fabrication/ "mention")&#x20;
 
 CAD- Fusion 360
 

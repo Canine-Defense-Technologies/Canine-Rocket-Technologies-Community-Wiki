@@ -4,7 +4,7 @@ cover: ../.gitbook/assets/20190318_203424_edited.jpg
 coverY: 0
 ---
 
-# 🔧 Fabrication
+# 🔧 Manufacturing & Fabrication
 
 Welcome to the Toolbox! This is a library of information regarding both hardware and software tools we use in the lab! Along with offering insight into what tools we use, we have added tips, tricks, and educational resources based on our personal experiences. We hope the information here is helpful for new and experienced users alike!&#x20;
 
@@ -24,7 +24,7 @@ None of the products listed is an endorsement, they are simply recommendations o
 
 ## Our Current Setup
 
-### [3D Printer:](3d-printing.md)
+### [3D Printer:](3d-printing/)
 
 * Prusa i3 Mk3S
 * Prusa SL1S

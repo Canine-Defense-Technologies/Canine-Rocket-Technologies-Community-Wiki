@@ -1,6 +1,6 @@
 ---
 description: Precision liquid plastic squiters
-cover: ../.gitbook/assets/MVI_3624_Moment.jpg
+cover: ../../.gitbook/assets/MVI_3624_Moment.jpg
 coverY: 0
 ---
 
@@ -66,7 +66,7 @@ For new users, we would highly recommend Prusa Slicer
 
 ### Prusa i3 mk3S
 
-<figure><img src="../.gitbook/assets/2365.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/2365.jpg" alt=""><figcaption></figcaption></figure>
 
 By far our favorite FDM 3D printer ever created in the Prusa i3 mk3s. It is the closest printer that almost works out of the box with simple basic maintenance. Prusa Research has done such a good job on documentation that both troubleshooting and print setting tuning is almost too easy. Our Prusa i3 has been an absolute workhorse, with over 11km of filament and 900 days of continuous print operation, and no printer-related issues outside of mechanical wear and regular part maintenance. The printer is a little expensive but cheaper in the long run. Upgrading something like an Ender 3 to print as reliably as the Prusa will require upgrades and tinkering which will usually break even or surpass the initially higher price of the Prusa i3.&#x20;
 
@@ -74,7 +74,7 @@ By far our favorite FDM 3D printer ever created in the Prusa i3 mk3s. It is the 
 
 ### Ender 3
 
-<figure><img src="../.gitbook/assets/61L4aoIqYOL.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/61L4aoIqYOL.jpg" alt=""><figcaption></figcaption></figure>
 
 The Ender 3 is probably the most popular beginner 3D printer due to its low cost. We wouldn't call it a great beginner machine, it takes a lot of tinkering and at the very least a basic understanding of 3D printers to get started with by any practical means. With the price of Creality machines going down, it's a pretty high-value deal for the more than acceptable print quality these machines yield. However personally based on our own experience, we would recommend the Ender 3 as a low-cost supplementary machine when you're scaling up your print operations rather than a beginner machine.&#x20;
 
@@ -86,7 +86,7 @@ For new users, machines like the Prusa Mini are a much better value and easier t
 
 ### Prusa SL1S
 
-<figure><img src="../.gitbook/assets/229 (1).jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/229 (1).jpg" alt=""><figcaption></figcaption></figure>
 
 This printer is FAST! The SL1S. Is the SL1S the best value compared to other resin printers? A fair assessment would be dependent on what you value, side to side (negating the higher print speed and build quality) the SL1S would offer a small marginal advantage to other printer brands. Resin printers are simple machines, so a budget resin printer will offer you very good print quality just like an expensive one. The SL1S is in some ways a very refined machine that fits into the Prusa ecosystem very well, however, it may not be the best value for most users.&#x20;
 
