@@ -21,6 +21,7 @@
   * [DIY Lithium Batteries](software-and-electronics/diy-lithium-batteries.md)
   * [Software Dev](software-and-electronics/software-dev.md)
 * [🖥 Design & Simulation](design-and-simulation/README.md)
+  * [Page 2](design-and-simulation/page-2.md)
   * [Computer Aided Design](design-and-simulation/computer-aided-design.md)
   * [Parachute Design](design-and-simulation/parachute-design.md)
 * [📘 Testing & Documentation](testing-and-documentation/README.md)
