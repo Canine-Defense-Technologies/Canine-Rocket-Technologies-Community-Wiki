@@ -4,7 +4,7 @@ cover: ../.gitbook/assets/20190318_203424_edited.jpg
 coverY: 0
 ---
 
-# 🔧 Toolbox & Learning Rescources
+# 🔧 Fabrication
 
 Welcome to the Toolbox! This is a library of information regarding both hardware and software tools we use in the lab! Along with offering insight into what tools we use, we have added tips, tricks, and educational resources based on our personal experiences. We hope the information here is helpful for new and experienced users alike!&#x20;
 
@@ -37,7 +37,7 @@ None of the products listed is an endorsement, they are simply recommendations o
 
 * Atomstack A5 Laser Engraver
 
-### [CAD & 3D Design Software:](computer-aided-design.md)
+### [CAD & 3D Design Software:](../digital-tools/computer-aided-design.md)
 
 * Fusion 360
 * Tinkercad&#x20;

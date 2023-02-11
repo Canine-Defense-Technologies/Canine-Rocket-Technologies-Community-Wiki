@@ -38,8 +38,8 @@ Fusion 360 has an advanced integrated CAM (Computer Aided Manufacturing) suite o
 
 For more information on Fusion 360, check out our documentation in the page below.
 
-{% content-ref url="computer-aided-design.md" %}
-[computer-aided-design.md](computer-aided-design.md)
+{% content-ref url="../digital-tools/computer-aided-design.md" %}
+[computer-aided-design.md](../digital-tools/computer-aided-design.md)
 {% endcontent-ref %}
 
 ### Easel
