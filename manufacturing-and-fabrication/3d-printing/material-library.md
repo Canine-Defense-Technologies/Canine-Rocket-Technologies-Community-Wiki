@@ -6,11 +6,13 @@
 
 <summary>Stats</summary>
 
-**Print Temp:** 210-215°C (Hotend) 50-70°C (Bed)
+### Polylactic Acid&#x20;
 
-**Glass Transition Temperature:** \~60°C
+**Print Temp:** 215-260°C (Hotend) 60-80°C (Bed)
 
-**Density:** 1.25-1.3 g/cm^3
+**Glass Transition Temperature:** \~85°C
+
+**Density:** 1.27 g/cm^3
 
 **Tensile Strength:** \~37 GPA
 
@@ -19,8 +21,6 @@
 **Elongation:** \~4%
 
 **Hyrdoscopic:** Yes
-
-
 
 </details>
 
@@ -39,6 +39,22 @@ PLA is&#x20;
 <details>
 
 <summary>Stats</summary>
+
+
+
+**Print Temp:** 215-260°C (Hotend) 60-80°C (Bed)
+
+**Glass Transition Temperature:** \~85°C
+
+**Density:** 1.27 g/cm^3
+
+**Tensile Strength:** \~37 GPA
+
+**Flexural Modulus:** \~4 GPA
+
+**Elongation:** \~4%
+
+**Hyrdoscopic:** Yes
 
 
 
