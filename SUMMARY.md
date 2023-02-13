@@ -41,6 +41,7 @@
   * [Drone Components](supply-chain/drone-components.md)
   * [Composites](supply-chain/composites.md)
   * [Li Ion Batteries](supply-chain/li-ion-batteries.md)
+* [Page 3](page-3.md)
 * [📑 Other Open Source Projects](other-open-source-projects/README.md)
   * [Other Awesome Projects!](other-open-source-projects/other-awesome-projects.md)
   * [Meshtastic ](other-open-source-projects/meshtastic.md)

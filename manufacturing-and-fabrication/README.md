@@ -6,13 +6,9 @@ coverY: 0
 
 # 🔧 Manufacturing & Fabrication
 
-Welcome to the Toolbox! This is a library of information regarding both hardware and software tools we use in the lab! Along with offering insight into what tools we use, we have added tips, tricks, and educational resources based on our personal experiences. We hope the information here is helpful for new and experienced users alike!&#x20;
+pagThis is a library of information regarding hardware tools we use to manufacture and fabricate components. Along with offering insight into what tools we use, we have added tips, tricks, and educational resources we found helpful from our own personal experiences. We hope the information here is helpful for new and experienced users alike!&#x20;
 
-### Layout
-
-Every section will have a small informative introduction to the principal overview of each tool and its intended application. Secondly, we provided a short overview regarding when to utilize the tool and some of the downsides involved with the particular tool (written based on our experience, read it, and cater it to YOUR mission!). Next if needed we give a detailed safety brief targeted toward newer users who may not be aware of the risks involved. Finally, we will list the various resources and information in the respective order that fits the tooling.&#x20;
-
-
+### Pages
 
 {% hint style="info" %}
 The BEST tool for you is the one you know best, and the one that fits your workflow and mission. The information here is based on OUR tools and OUR experiences. What's BEST for you is up to your assessment and research.
@@ -22,7 +18,9 @@ The BEST tool for you is the one you know best, and the one that fits your workf
 None of the products listed is an endorsement, they are simply recommendations or lists from our personal tool collection and experiences.&#x20;
 {% endhint %}
 
-## Our Current Setup
+<table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td>CNC Machining</td><td></td><td></td><td><a href="cnc-machining.md">cnc-machining.md</a></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr></tbody></table>
+
+Our Current Setup
 
 ### [3D Printer:](3d-printing/)
 
