@@ -12,6 +12,8 @@
 
 **Density:** 1.25-1.3 g/cm^3
 
+**Tensile Strength:** \~37 GPA
+
 **Flexural Modulus:** \~4 GPA
 
 **Elongation:** \~4%
