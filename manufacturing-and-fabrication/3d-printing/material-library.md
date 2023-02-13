@@ -12,7 +12,7 @@
 
 **Glass Transition Temperature:** \~85°C
 
-**Density:** 1.27 g/cm^3
+**Density:** 1.24 g/cm^3
 
 **Tensile Strength:** \~37 GPA
 
@@ -48,11 +48,11 @@ PLA is&#x20;
 
 **Density:** 1.27 g/cm^3
 
-**Tensile Strength:** \~37 GPA
+**Tensile Strength:** \~28 GPA
 
-**Flexural Modulus:** \~4 GPA
+**Flexural Modulus:** \~64 GPA
 
-**Elongation:** \~4%
+**Elongation:** \~25%
 
 **Hyrdoscopic:** Yes
 
