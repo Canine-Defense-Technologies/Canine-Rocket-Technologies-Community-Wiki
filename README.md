@@ -6,7 +6,7 @@ coverY: 0
 # 🐺 Welcome to the Wiki!
 
 {% hint style="warning" %}
-This Wiki is a Work In Progress
+This Wiki is a Work In Progress. If you somehow found it before the release (Unless Yukon sent you a link) DM us via Twitter (BLAZER) to claim your prize. Good luck!
 {% endhint %}
 
 Welcome to the Canine Rocket Technologies Community Wiki! This platform serves as our dedicated documentation hub to accelerate development in collaborative projects, provide the public with experience-proven information, and assist with our open-source project management.&#x20;
