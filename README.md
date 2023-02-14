@@ -12,36 +12,24 @@ This Wiki is a Work In Progress. If you somehow found it before the release (Unl
 
 ## Introduction
 
-Welcome to the Canine Rocket Technologies Wiki, our resource hub for all our projects
+Welcome to the Canine Rocket Technologies Wiki, our resource hub for all our projects and reference for both our team members and the community to acess and view.&#x20;
 
-Most of the community has found us through Twitter, YouTube, or Hackaday.io. The wiki is more focused on managing and documenting our projects and resources in more detail in a more centralized hub to make it easier for users to find the information they need, and simplify collaborative projects.&#x20;
+{% hint style="info" %}
+Learn more about Canine Rocket Technologies [here](welcome-to-the-wiki/about-canine-rocket-tech.md)
+{% endhint %}
 
-Learn more about our management structure:
+Most of the community has found us through Twitter, YouTube, or Hackaday.io. The wiki is more focused on managing and documenting our projects and resources in more detail in a more centralized hub to make it easier for users to find the information they need, simplify collaborative projects, and acrchive our progress. Learn more about our how we organize and manage Canine Rocket Technologies [here](welcome-to-the-wiki/canine-rocket-tech-program-structure.md).
 
-{% content-ref url="welcome-to-the-wiki/canine-rocket-tech-program-structure.md" %}
-[canine-rocket-tech-program-structure.md](welcome-to-the-wiki/canine-rocket-tech-program-structure.md)
-{% endcontent-ref %}
-
-###
-
-## Wiki Content
-
-The wiki will include all our public data such as internal databases, design files, public resources, other projects, and more.
-
-Head over to the [Wiki Index](welcome-to-the-wiki/wiki-overview.md) and head over to the categories of your interest!
+The wiki will include all our public data such as internal databases, design files, public resources, other projects, and more. Head over to the [Wiki Index](welcome-to-the-wiki/wiki-overview.md) and head over to the categories of your interes
 
 
-
-{% content-ref url="welcome-to-the-wiki/wiki-overview.md" %}
-[wiki-overview.md](welcome-to-the-wiki/wiki-overview.md)
-{% endcontent-ref %}
 
 
 
 ## Wiki Info
 
-{% hint style="success" %}
-Wiki Author: Yukon
-{% endhint %}
+Wiki Manager: Yukon
+
+License: [CC BY-NC 3.0](https://creativecommons.org/licenses/by-nc/3.0/)
 
 ## ****
