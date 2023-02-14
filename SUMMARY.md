@@ -11,7 +11,7 @@
   * [Laser Cutting](manufacturing-and-fabrication/laser-cutting.md)
   * [3D Printing](manufacturing-and-fabrication/3d-printing/README.md)
     * [Material Library](manufacturing-and-fabrication/3d-printing/material-library.md)
-    * [K-Tech 3D Printing Tolerance](manufacturing-and-fabrication/3d-printing/k-tech-3d-printing-tolerance.md)
+    * [3D Printing Tolerance Guide](manufacturing-and-fabrication/3d-printing/3d-printing-tolerance-guide.md)
     * [K-Tech 3D Print Settings](manufacturing-and-fabrication/3d-printing/k-tech-3d-print-settings.md)
   * [Composite Layups](manufacturing-and-fabrication/composite-layups.md)
   * [K-Tech Fastener Standard](manufacturing-and-fabrication/k-tech-fastener-standard.md)

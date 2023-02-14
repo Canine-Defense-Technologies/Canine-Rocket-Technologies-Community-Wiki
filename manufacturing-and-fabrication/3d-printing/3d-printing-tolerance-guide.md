@@ -1,6 +1,8 @@
-# K-Tech 3D Printing Design Tolerance
+# 3D Printing Tolerance Guide
 
-
+{% hint style="info" %}
+This is our internally research and developed reference
+{% endhint %}
 
 ### FDM
 
