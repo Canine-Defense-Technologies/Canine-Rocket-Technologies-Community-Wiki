@@ -14,7 +14,7 @@
     * [3D Printing Tolerance Guide](manufacturing-and-fabrication/3d-printing/3d-printing-tolerance-guide.md)
     * [K-Tech 3D Print Settings](manufacturing-and-fabrication/3d-printing/k-tech-3d-print-settings.md)
   * [Composite Layups](manufacturing-and-fabrication/composite-layups.md)
-  * [K-Tech Fastener Standard](manufacturing-and-fabrication/k-tech-fastener-standard.md)
+  * [Fasteners](manufacturing-and-fabrication/fasteners.md)
 * [⚙ Software & Electronics](software-and-electronics/README.md)
   * [Electronics](manufacturing-and-fabrication/electronics.md)
   * [Graphic Design & Video Production](software-and-electronics/graphic-design-and-video-production.md)
