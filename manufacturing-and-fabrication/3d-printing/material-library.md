@@ -18,9 +18,9 @@ This is our internally research and developed reference
 
 **Density:** 1.24 g/cm^3
 
-**Tensile Strength:** \~37 GPa
+**Tensile Strength:** \~37 GPA
 
-**Flexural Modulus:** \~4 GPa
+**Flexural Modulus:** \~4 GPA
 
 **Elongation:** \~4%
 
@@ -44,7 +44,7 @@ PLA is&#x20;
 
 <summary>Stats</summary>
 
-## Polyethylene Terephthalate Glycol
+
 
 **Print Temp:** 215-260°C (Hotend) 60-80°C (Bed)
 
@@ -52,9 +52,9 @@ PLA is&#x20;
 
 **Density:** 1.27 g/cm^3
 
-**Tensile Strength:** \~28 GPa
+**Tensile Strength:** \~28 GPA
 
-**Flexural Modulus:** \~64 GPa
+**Flexural Modulus:** \~64 GPA
 
 **Elongation:** \~25%
 
@@ -73,28 +73,3 @@ PLA is&#x20;
 </details>
 
 <table><thead><tr><th>Model</th><th data-type="rating" data-max="5"></th><th>Price per KG</th><th>Notes</th></tr></thead><tbody><tr><td>Inland PETG</td><td>4</td><td>$19</td><td></td></tr><tr><td>Overture PETG</td><td>4</td><td>$25</td><td></td></tr></tbody></table>
-
-## ASA
-
-<details>
-
-<summary>Stats</summary>
-
-
-
-</details>
-
-<details>
-
-<summary>Best Applications</summary>
-
-Contrary to popular belief, ASA isn't the king of&#x20;
-
-</details>
-
-<table><thead><tr><th>Model</th><th data-type="rating" data-max="5"></th><th>Price per KG</th><th></th></tr></thead><tbody><tr><td>Inland ASA</td><td>3</td><td>25</td><td></td></tr><tr><td></td><td>null</td><td></td><td></td></tr><tr><td></td><td>null</td><td></td><td></td></tr></tbody></table>
-
-
-
-
-
