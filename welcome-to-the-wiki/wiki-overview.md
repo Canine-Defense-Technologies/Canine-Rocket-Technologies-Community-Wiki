@@ -4,15 +4,15 @@
 
 <summary><a href="../">Home</a></summary>
 
-
+Homepage and landing page for the wiki
 
 </details>
 
 <details>
 
-<summary><a href="../manufacturing-and-fabrication/">Manufacturing &#x26; Electronics</a></summary>
+<summary><a href="../manufacturing-and-fabrication/">Manufacturing &#x26; Fabrication</a></summary>
 
-
+Library of resources and reference about 3D printing,&#x20;
 
 </details>
 
@@ -26,7 +26,23 @@
 
 <details>
 
-<summary></summary>
+<summary><a href="../supply-chain/">Supply Chain</a></summary>
+
+
+
+</details>
+
+<details>
+
+<summary><a href="../testing-and-documentation/">Testing &#x26; Documentation</a></summary>
+
+
+
+</details>
+
+<details>
+
+<summary><a href="../page-3.md">Research Resources</a></summary>
 
 
 
