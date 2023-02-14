@@ -21,23 +21,3 @@ Just because I use these things doesn't mean it’s good. There are many options
 
 
 For more details head on over to the [manufacturing-and-fabrication](../manufacturing-and-fabrication/ "mention")&#x20;
-
-CAD- Fusion 360
-
-Rendering - Fusion 360
-
-3D Slicer - Prusaslicer
-
-3D Printer - Prusa i3 mk3s
-
-3D Printer Filament - Inland, Prusament, Overture
-
-CNC - DIY Ender 3 Conversion
-
-PCB Design - Easy EDA
-
-Soldering Iron - Hakko FX-888D
-
-Code - Arduino IDE, Python IDLE
-
-Video Editing - Shotcut

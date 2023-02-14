@@ -1,7 +1,5 @@
 # Parachute Design
 
-We've fabricated a lot of small scale parachutes for model rocketry
-
 {% hint style="info" %}
 All credits to the respective authors, make sure to give them the credit they deserve.
 {% endhint %}

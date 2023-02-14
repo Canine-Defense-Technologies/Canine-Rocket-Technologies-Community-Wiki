@@ -27,3 +27,7 @@ DRI (Detection, Recognition, & Identifcation)
 {% embed url="https://youtu.be/e4N5Ox4PTBk" %}
 
 {% embed url="https://youtu.be/AgoNfAYlrmI" %}
+
+## MWIR & LWIR
+
+{% embed url="https://youtu.be/dzWbZ3GNbxU" %}
