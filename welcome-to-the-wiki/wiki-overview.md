@@ -1,44 +1,36 @@
 # Wiki Index
 
-The wiki is organized into two primary groups, information, and projects. The information pages&#x20;
+<details>
+
+<summary><a href="../">Home</a></summary>
 
 
 
-## Information Library
+</details>
 
-The Information Library is our hub of links, recourses, and notes regarding general activities involved in hardware development. It is a lot of information, so we have included an introduction page for each respective category.&#x20;
+<details>
 
-#### Toolbox & Learning Resources
+<summary><a href="../manufacturing-and-fabrication/">Manufacturing &#x26; Electronics</a></summary>
 
-{% content-ref url="../manufacturing-and-fabrication/" %}
-[manufacturing-and-fabrication](../manufacturing-and-fabrication/)
-{% endcontent-ref %}
 
-Helpful resources and experienced based information regarding small-scale fabrication, tooling, and manufacturing. Here we share what tools we use (Both software and hardware) along with some good resources to learn more about the tools!&#x20;
 
-#### Parts Bin
+</details>
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
-{% endcontent-ref %}
+<details>
 
-####
+<summary><a href="../software-and-electronics/">Software &#x26; Electronics</a></summary>
 
-#### Supply Chain
 
-{% content-ref url="../supply-chain/" %}
-[supply-chain](../supply-chain/)
-{% endcontent-ref %}
 
-Library of suppliers and manufacturers that we have personally used directly, or heard good feedback from the community.
+</details>
 
-#### Technical References
+<details>
 
-{% content-ref url="../testing-and-documentation/" %}
-[testing-and-documentation](../testing-and-documentation/)
-{% endcontent-ref %}
+<summary></summary>
 
-Resources and references regarding design, simulation, and documentation.
+
+
+</details>
 
 ##
 
