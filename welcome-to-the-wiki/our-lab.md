@@ -1,8 +1,8 @@
-# K-TECH Lab
+# Our Lab
 
 
 
-## Take a Virtual VR Tour
+## Virtual VR Tour
 
 {% embed url="https://skfb.ly/oCFqT" %}
 
