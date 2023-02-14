@@ -12,7 +12,7 @@ Homepage and landing page for the wiki
 
 <summary><a href="../manufacturing-and-fabrication/">Manufacturing &#x26; Fabrication</a></summary>
 
-Library of resources and reference about 3D printing,&#x20;
+Library of resources and reference about 3D printing, CNC machining, and anything manufacturing or fabrication.
 
 </details>
 
