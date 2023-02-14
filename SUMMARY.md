@@ -3,7 +3,7 @@
 * [🐺 Welcome to the Wiki!](README.md)
   * [Wiki Index](welcome-to-the-wiki/wiki-overview.md)
   * [About Canine Rocket Tech](welcome-to-the-wiki/about-canine-rocket-tech.md)
-  * [K-TECH Lab](welcome-to-the-wiki/k-tech-lab.md)
+  * [Our Lab](welcome-to-the-wiki/our-lab.md)
   * [FAQ](welcome-to-the-wiki/faq.md)
   * [Canine Rocket Tech Program Structure](welcome-to-the-wiki/canine-rocket-tech-program-structure.md)
 * [🔧 Manufacturing & Fabrication](manufacturing-and-fabrication/README.md)
