@@ -1,4 +1,5 @@
 ---
+description: Everything you need to know about our open source projects and more
 cover: .gitbook/assets/nbbcn.png
 coverY: 0
 ---
@@ -6,16 +7,14 @@ coverY: 0
 # 🐺 Welcome to the Wiki!
 
 {% hint style="warning" %}
-This Wiki is a Work In Progress. If you somehow found it before the release (Unless Yukon sent you a link) DM us via Twitter (BLAZER) to claim your prize. Good luck!
+This Wiki is a Work In Progress. If you somehow found it before the release (Unless Yukon sent you a link) DM us the word "Gothca" via twitter to claim your prize
 {% endhint %}
 
-Welcome to the Canine Rocket Technologies Community Wiki! This platform serves as our dedicated documentation hub to accelerate development in collaborative projects, provide the public with experience-proven information, and assist with our open-source project management.&#x20;
+## Introduction
 
+Welcome to the Canine Rocket Technologies Wiki, our resource hub for all our projects
 
-
-### How does the Wiki Differ from K-Tech's other platforms?
-
-Most of our community members have found us via 3rd party platforms such as YouTube or Hackaday.io. These sites are more or less for sharing projects and the associated files. The wiki is more focused on managing and documenting every aspect of our projects from the R\&D process to the finished projects, along with organizing a library of different sources we rely on to learn new things! Think about it this way, this is a place where we dump our knowledge and resources, but present it in an organized clean manner for you (and our team) to easily access!&#x20;
+Most of the community has found us through Twitter, YouTube, or Hackaday.io. The wiki is more focused on managing and documenting our projects and resources in more detail in a more centralized hub to make it easier for users to find the information they need, and simplify collaborative projects.&#x20;
 
 Learn more about our management structure:
 
@@ -25,9 +24,9 @@ Learn more about our management structure:
 
 ###
 
-### What Kind of Content is in the Wiki?
+## Wiki Content
 
-Documentation is a general term. We have dedicated libraries of useful links, internal databases, design files, public resources, other projects, and more! The wiki may also be used to organize more technical and detailed documentation, but it in itself is&#x20;
+The wiki will include all our public data such as internal databases, design files, public resources, other projects, and more.
 
 Head over to the [Wiki Index](welcome-to-the-wiki/wiki-overview.md) and head over to the categories of your interest!
 
@@ -39,7 +38,7 @@ Head over to the [Wiki Index](welcome-to-the-wiki/wiki-overview.md) and head ove
 
 
 
-
+## Wiki Info
 
 {% hint style="success" %}
 Wiki Author: Yukon

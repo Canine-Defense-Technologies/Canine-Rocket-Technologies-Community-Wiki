@@ -1,5 +1,9 @@
 # Wiki Index
 
+{% hint style="success" %}
+Click the left drop down tab for more info regarding each page
+{% endhint %}
+
 <details>
 
 <summary><a href="../">Home</a></summary>
