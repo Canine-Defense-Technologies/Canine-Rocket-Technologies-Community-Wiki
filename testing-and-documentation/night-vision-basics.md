@@ -9,7 +9,11 @@ coverY: 0
 
 ## Introduction
 
-If you are developing night vision or have interest in it, here are some resource we found immensely helpful with getting started. Researching about not only the technical aspects of night vision, but how different setups work will always make you a better developer. For more in depth overviews on electro optics, check out this page [here.](thermal-and-electro-optics.md)
+If you are developing night vision or have interest in it, here are some resource we found immensely helpful with getting started. Researching about not only the technical aspects of night vision, but how different setups work will always make you a better developer. For more in depth overviews on electro optics, check out this page [here.](../research-resources/thermal-and-electro-optics.md)
+
+{% hint style="info" %}
+All credits to the respective authors, make sure to give them the credit they deserve.
+{% endhint %}
 
 ## How Analog Night Vision Works
 

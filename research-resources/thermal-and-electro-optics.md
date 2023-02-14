@@ -1,5 +1,11 @@
 # Thermal & Electro-Optics
 
+Whether you're designing a targeting pod for a drone or on a long range survelliance system, having a basic understanding of both thermal and electro optics is a critical skill to have. Here are some of our favorite resources that helped us get started in our research.
+
+{% hint style="info" %}
+All credits to the respective authors, make sure to give them the credit they deserve.
+{% endhint %}
+
 ## Basic Principles & Concepts
 
 {% embed url="https://youtu.be/pDEKfOmJkCo" %}
