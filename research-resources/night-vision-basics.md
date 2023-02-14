@@ -9,7 +9,7 @@ coverY: 0
 
 ## Introduction
 
-At K-Tech we've been playing around, developing, and contributing to multiple night vision projects. Night vision technology may be many decades old, but still is relevant to this day. If your developing night vision or have interest in it, here are some resource we found immensely helpful with getting started. Researching about not only the technical aspects of night vision, but how different setups work will always make you a better developer.&#x20;
+If you are developing night vision or have interest in it, here are some resource we found immensely helpful with getting started. Researching about not only the technical aspects of night vision, but how different setups work will always make you a better developer. For more in depth overviews on electro optics, check out this page [here.](thermal-and-electro-optics.md)
 
 ## How Analog Night Vision Works
 
