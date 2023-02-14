@@ -1,7 +1,7 @@
 # Wiki Index
 
 {% hint style="success" %}
-Click the left drop down tab for more info regarding each page
+Click the left drop down tab for a quick page summary
 {% endhint %}
 
 <details>
