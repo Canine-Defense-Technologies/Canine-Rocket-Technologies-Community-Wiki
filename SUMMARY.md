@@ -1,11 +1,11 @@
 # Table of contents
 
-* [🐺 Welcome to the Wiki!](README.md)
-  * [Wiki Index](welcome-to-the-wiki/wiki-overview.md)
-  * [About Canine Rocket Tech](welcome-to-the-wiki/about-canine-rocket-tech.md)
-  * [Our Lab](welcome-to-the-wiki/our-lab.md)
-  * [FAQ](welcome-to-the-wiki/faq.md)
-  * [Canine Rocket Tech Program Structure](welcome-to-the-wiki/canine-rocket-tech-program-structure.md)
+* [🐺 Canine Rocket Technologies Wiki - Public](README.md)
+  * [Wiki Index](canine-rocket-technologies-wiki-public/wiki-index.md)
+  * [About Canine Rocket Tech](canine-rocket-technologies-wiki-public/about-canine-rocket-tech.md)
+  * [Our Lab](canine-rocket-technologies-wiki-public/our-lab.md)
+  * [FAQ](canine-rocket-technologies-wiki-public/faq.md)
+  * [Canine Rocket Tech Program Structure](canine-rocket-technologies-wiki-public/canine-rocket-tech-program-structure.md)
 * [🔧 Manufacturing & Fabrication](manufacturing-and-fabrication/README.md)
   * [CNC Machining](manufacturing-and-fabrication/cnc-machining.md)
   * [Laser Cutting](manufacturing-and-fabrication/laser-cutting.md)
