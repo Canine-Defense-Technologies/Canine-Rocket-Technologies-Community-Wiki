@@ -1,3 +1,7 @@
+---
+layout: landing
+---
+
 # 🚚 Supply Chain
 
 ## Introduction

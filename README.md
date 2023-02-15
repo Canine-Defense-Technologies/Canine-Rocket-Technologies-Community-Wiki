@@ -2,9 +2,12 @@
 description: Everything you need to know about our open source projects and more
 cover: .gitbook/assets/nbbcn.png
 coverY: 0
+layout: landing
 ---
 
 # 🐺 Canine Rocket Technologies Wiki
+
+
 
 {% hint style="warning" %}
 This Wiki is a Work In Progress. If you somehow found it before the release (Unless Yukon sent you a link) DM us the word "Gothca" via twitter to claim your prize

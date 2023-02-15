@@ -1,2 +1,6 @@
+---
+layout: landing
+---
+
 # ⚙ Software & Electronics
 
