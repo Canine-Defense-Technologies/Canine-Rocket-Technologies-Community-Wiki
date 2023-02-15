@@ -1,6 +1,6 @@
 ---
 description: CNC go brrrrrrrrrrrrrr
-cover: ../.gitbook/assets/IMG_20220709_155858.jpg
+cover: ../../.gitbook/assets/IMG_20220709_155858.jpg
 coverY: -174.58610271903322
 ---
 
@@ -38,8 +38,8 @@ Fusion 360 has an advanced integrated CAM (Computer Aided Manufacturing) suite o
 
 For more information on Fusion 360, check out our documentation in the page below.
 
-{% content-ref url="../design-and-simulation/computer-aided-design.md" %}
-[computer-aided-design.md](../design-and-simulation/computer-aided-design.md)
+{% content-ref url="../../design-and-simulation/computer-aided-design.md" %}
+[computer-aided-design.md](../../design-and-simulation/computer-aided-design.md)
 {% endcontent-ref %}
 
 ### Easel
@@ -64,7 +64,7 @@ Open Builds Control is another great open-sourced CNC milling CAM suite we have 
 
 ### "Janky" Ender 3 CNC Conversion
 
-<figure><img src="../.gitbook/assets/20220312_205214.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/20220312_205214.jpg" alt=""><figcaption></figcaption></figure>
 
 You heard us right, our primary CNC machine is nicknamed "Janky", it's an Ender 3 converted to a CNC machine. We found this to be a cheap low-cost way to get started in CNC machining and engraving for new users who enjoy tinkering. Note that the limitations of belts along with the low stiffness of the ender 3 frame makes is a less than suboptimal CNC platform. However, with slow settings, it works very well on wood, carbon fiber, and even aluminum.&#x20;
 

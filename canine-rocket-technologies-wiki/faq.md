@@ -20,4 +20,4 @@ Just because I use these things doesn't mean it’s good. There are many options
 
 
 
-For more details head on over to the [manufacturing-and-fabrication](../manufacturing-and-fabrication/ "mention")&#x20;
+For more details head on over to the [manufacturing-and-fabrication](../resource-library/manufacturing-and-fabrication/ "mention")&#x20;

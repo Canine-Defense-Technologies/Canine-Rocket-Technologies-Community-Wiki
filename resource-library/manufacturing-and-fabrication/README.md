@@ -1,7 +1,8 @@
 ---
 description: Learn about tools and how to use them!
-cover: ../.gitbook/assets/20190318_203424_edited.jpg
+cover: ../../.gitbook/assets/20190318_203424_edited.jpg
 coverY: 0
+layout: landing
 ---
 
 # 🔧 Manufacturing & Fabrication
@@ -31,11 +32,11 @@ Our Current Setup
 
 * "Janky" Ender 3 CNC conversion
 
-### [Laser Cutter:](../supply-chain/laser-and-cnc-cutting.md)
+### [Laser Cutter:](../../supply-chain/laser-and-cnc-cutting.md)
 
 * Atomstack A5 Laser Engraver
 
-### [CAD & 3D Design Software:](../design-and-simulation/computer-aided-design.md)
+### [CAD & 3D Design Software:](../../design-and-simulation/computer-aided-design.md)
 
 * Fusion 360
 * Tinkercad&#x20;

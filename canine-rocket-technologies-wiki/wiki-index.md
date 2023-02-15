@@ -14,7 +14,7 @@ Homepage and landing page for the wiki
 
 <details>
 
-<summary><a href="../manufacturing-and-fabrication/">Manufacturing &#x26; Fabrication</a></summary>
+<summary><a href="../resource-library/manufacturing-and-fabrication/">Manufacturing &#x26; Fabrication</a></summary>
 
 Library of resources and reference about 3D printing, CNC machining, and anything manufacturing or fabrication.
 
@@ -22,7 +22,7 @@ Library of resources and reference about 3D printing, CNC machining, and anythin
 
 <details>
 
-<summary><a href="../software-and-electronics/">Software &#x26; Electronics</a></summary>
+<summary><a href="../resource-library/software-and-electronics/">Software &#x26; Electronics</a></summary>
 
 
 

@@ -42,7 +42,7 @@ A Note on Open Frame Laser Cutters/Engravers: Open Frame laser cutters/engravers
 
 ### Atomstack A5 Laser Engraver
 
-<figure><img src="../.gitbook/assets/image_2022-11-15_164839646.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image_2022-11-15_164839646.png" alt=""><figcaption></figcaption></figure>
 
 We found the atomstack as a good balance between price and performance, however as warned above it is a open frame laser engraver and should be used with extreme caution! The engraver is capable of cutting through thin plywood, fabric, paper, cardboard, and dark acrylic, however it is relatively slow due to the low power output of the diode laser. However as an engraver, its more than capable. The price of the machine is tempting, but unless your well aware on the dangers of open diode lasers, it's frankly increibley dangerous to use.
 

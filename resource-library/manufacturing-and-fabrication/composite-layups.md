@@ -1,5 +1,5 @@
 ---
-cover: ../.gitbook/assets/20200229_223147.jpg
+cover: ../../.gitbook/assets/20200229_223147.jpg
 coverY: 0
 ---
 
@@ -15,7 +15,7 @@ Composites shine where you mass budget is very low yet the require load is high,
 
 Composites are also limited in application by temperature. Although its strength may often exceed metal, it can not be used near very high temperature components such as near engines (Minus exceptions where very advanced composites are produced, but this isn't available to you unless you work at Skunk Works lol). The final factor we will mention is the direction of applied forces on the part. The principles of composites relies on the tensile strength of the fibers with the compressive strength of the epoxy resin. Because fibers are often joined in the form of woven fibers, composite structures are incredibly strong when the fibers are running in the direction of the applied load, but incredibly weak when running perpendicular to the applied load (Think of it like 3D printer layer lines). Parts typically need to be designed with this in mind.
 
-<figure><img src="../.gitbook/assets/image_2022-11-16_170138419.png" alt=""><figcaption><p>Source: <a href="https://www.researchgate.net/figure/i-Effect-of-fibre-orientation-on-the-tensile-strength-of-E-glass-fibre-reinforced-epoxy_fig3_344263514">https://www.researchgate.net/figure/i-Effect-of-fibre-orientation-on-the-tensile-strength-of-E-glass-fibre-reinforced-epoxy_fig3_344263514</a></p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image_2022-11-16_170138419.png" alt=""><figcaption><p>Source: <a href="https://www.researchgate.net/figure/i-Effect-of-fibre-orientation-on-the-tensile-strength-of-E-glass-fibre-reinforced-epoxy_fig3_344263514">https://www.researchgate.net/figure/i-Effect-of-fibre-orientation-on-the-tensile-strength-of-E-glass-fibre-reinforced-epoxy_fig3_344263514</a></p></figcaption></figure>
 
 Deciding weather to utilize composites in your project is a equation of factoring in all the variables mentioned. Not even mentioning the tedious fabrication processes there is a lot of work involved in planning and designing composite parts. This is why often times in the enterprise space, composites are exclusively used only when the mass savings of composites is overall beneficial enough to justify the long expensive process (Or for the sake of making something luxurious and expensive because carbon fiber = +1000 more cool points).
 
@@ -49,6 +49,6 @@ The CLR is our universal documentation sheet to keep track of all the parameters
 
 {% embed url="https://docs.google.com/document/d/1vflaiViq9LIDnayfiXA2to1ytlysW8m4rNeX7GJBGrY/edit?usp=sharing" %}
 
-{% file src="../.gitbook/assets/Composite Layup Record (CLR)v1.1.pdf" %}
+{% file src="../../.gitbook/assets/Composite Layup Record (CLR)v1.1.pdf" %}
 
 {% embed url="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FG026OYCX48grrACKRfQG%2Fuploads%2FtgkrS9qXj5zQZGSjRwhp%2FComposite%20Layup%20Record%20(CLR)v1.1.pdf?alt=media&token=0149b6d1-50f3-4c98-ab1f-2e162980a13c" %}
