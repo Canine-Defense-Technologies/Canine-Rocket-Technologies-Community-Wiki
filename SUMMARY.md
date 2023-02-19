@@ -9,12 +9,12 @@
 ## Resource Library
 
 * [🔧 Manufacturing & Fabrication 1](resource-library/manufacturing-and-fabrication/README.md)
-  * [CNC Machining 1](resource-library/manufacturing-and-fabrication-1/cnc-machining-1.md)
-  * [Laser Cutting 1](resource-library/manufacturing-and-fabrication-1/laser-cutting-1.md)
-  * [3D Printing 1](resource-library/manufacturing-and-fabrication-1/3d-printing-1/README.md)
-    * [Material Library](resource-library/manufacturing-and-fabrication-1/3d-printing-1/material-library.md)
-    * [3D Printing Tolerance Guide 1](resource-library/manufacturing-and-fabrication-1/3d-printing-1/3d-printing-tolerance-guide-1.md)
-    * [3D Print Settings](resource-library/manufacturing-and-fabrication-1/3d-printing-1/3d-print-settings.md)
+  * [CNC Machining 1](resource-library/manufacturing-and-fabrication/cnc-machining.md)
+  * [Laser Cutting 1](resource-library/manufacturing-and-fabrication/laser-cutting.md)
+  * [3D Printing 1](resource-library/manufacturing-and-fabrication/3d-printing/README.md)
+    * [Material Library](resource-library/manufacturing-and-fabrication/3d-printing/material-library.md)
+    * [3D Printing Tolerance Guide 1](resource-library/manufacturing-and-fabrication/3d-printing/3d-printing-tolerance-guide.md)
+    * [3D Print Settings](resource-library/manufacturing-and-fabrication/3d-printing/k-tech-3d-print-settings.md)
   * [Composite Layups](resource-library/manufacturing-and-fabrication/composite-layups.md)
   * [Fasteners](resource-library/manufacturing-and-fabrication/fasteners.md)
 * [⚙ Software & Electronics](resource-library/software-and-electronics/README.md)

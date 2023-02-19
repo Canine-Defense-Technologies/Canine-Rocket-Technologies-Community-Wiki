@@ -26,6 +26,8 @@ This is our internal research and developed reference
 
 **Hyrdoscopic:** Yes
 
+**Enclosure:** Not Needed
+
 </details>
 
 <details>
@@ -60,6 +62,8 @@ PLA is the best general purpose material. It's low cost, easy to print, and pret
 
 **Hyrdoscopic:** Yes
 
+**Enclosure:** Not needed but good to have
+
 
 
 </details>
@@ -80,7 +84,23 @@ Though not as strong as PLA, PETG has superior temperature resistance. It's a gr
 
 <summary>Stats</summary>
 
+## Acrylonitrile Styrene Acrylate&#x20;
 
+**Print Temp:** 220-250°C (Hotend) 90-100°C (Bed)
+
+**Glass Transition Temperature:** \~100°C
+
+**Density:** 1.07 g/cm^3
+
+**Tensile Strength:** \~30 GPa
+
+**Flexural Modulus:** \~38 GPa
+
+**Elongation:** \~5%
+
+**Hyrdoscopic:** Yes
+
+**Enclosure:** Needed
 
 </details>
 
