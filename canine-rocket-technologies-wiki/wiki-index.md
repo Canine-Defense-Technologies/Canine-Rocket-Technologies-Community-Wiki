@@ -28,15 +28,7 @@ Library of resources and reference about 3D printing, CNC machining, and anythin
 
 <summary><a href="../resource-library/software-and-electronics/">Software &#x26; Electronics</a></summary>
 
-
-
-</details>
-
-<details>
-
-<summary><a href="../supply-chain/">Supply Chain</a></summary>
-
-
+Library of resources about electronics and software.
 
 </details>
 
@@ -44,7 +36,7 @@ Library of resources and reference about 3D printing, CNC machining, and anythin
 
 <summary><a href="../testing-and-documentation/">Testing &#x26; Documentation</a></summary>
 
-
+Tools and references for testing and validation along with documentation&#x20;
 
 </details>
 
@@ -52,15 +44,23 @@ Library of resources and reference about 3D printing, CNC machining, and anythin
 
 <summary><a href="../page-3.md">Research Resources</a></summary>
 
-
+Library of resources to research various topics for projects. This includes studying basic theory and application.&#x20;
 
 </details>
 
 <details>
 
-<summary>Open Source Bases</summary>
+<summary><a href="../open-source-bases/">Open Source Bases</a></summary>
 
+List and resources of other open source projects and design architectures we utilize in our projects.&#x20;
 
+</details>
+
+<details>
+
+<summary><a href="../supply-chain/">Supply Chain</a></summary>
+
+List of suppliers with our personal reviews along with Bills of Material tools.
 
 </details>
 
@@ -68,18 +68,40 @@ Library of resources and reference about 3D printing, CNC machining, and anythin
 
 ## Project Library
 
-The project library serves as our public hub for all information regarding our projects! The projects are divided by their respective categories in the domain of missions we cover
+<details>
 
-### Rocketry Projects
+<summary>Rocketry Projects</summary>
 
-model rockets, rocket sub components & sub assemblies, launch pads, launch controllers, etc. These are hardware more centered toward hobbyist rocketry and/or small scale aerospace research.
+K-9 TVC V8
 
-#### Technical Resource
+K-9 TVC Gen 2
 
-### UAV Projects
+K-9 TVC Mega
 
-Drones, drone controllers, drone ground systems, etc.&#x20;
+K-9 TVC Hopper
 
-### Tactical Projects
+Model Rocket Landing Legs
 
-Body armor, radios, helmets, IR Strobes, you name it!
+WOOF Launch Computer
+
+Model Rocket GCS
+
+</details>
+
+<details>
+
+<summary>UAV Projects</summary>
+
+Modular UAV Teststand
+
+Valor sUAS
+
+</details>
+
+<details>
+
+<summary>Other Projects</summary>
+
+
+
+</details>

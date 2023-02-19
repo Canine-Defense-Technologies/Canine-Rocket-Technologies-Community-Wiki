@@ -27,6 +27,22 @@
 
 ***
 
+* [📘 Testing & Documentation](testing-and-documentation/README.md)
+  * [K-Tech Dev Log Template](testing-and-documentation/k-tech-dev-log-template.md)
+  * [Readme Creator](design-and-simulation/readme-creator.md)
+  * [April Tags](testing-and-documentation/april-tags.md)
+* [🖥 Design & Simulation](design-and-simulation/README.md)
+  * [Page 2](design-and-simulation/page-2.md)
+  * [Computer Aided Design](design-and-simulation/computer-aided-design.md)
+* [💡 Research Resources](page-3.md)
+  * [Parachute Design](design-and-simulation/parachute-design.md)
+  * [Thermal & Electro-Optics](research-resources/thermal-and-electro-optics.md)
+  * [Body Armor Basics](testing-and-documentation/body-armor-basics.md)
+  * [Night Vision Basics](testing-and-documentation/night-vision-basics.md)
+* [📑 Open Source Bases](open-source-bases/README.md)
+  * [Meshtastic ](open-source-bases/meshtastic.md)
+  * [Open HD](open-source-bases/open-hd.md)
+  * [Ardupilot](open-source-bases/ardupilot.md)
 * [🚚 Supply Chain](supply-chain/README.md)
   * [Electronics Component](supply-chain/electronics-component/README.md)
     * [RPI Locator](supply-chain/electronics-component/rpi-locator.md)
@@ -38,29 +54,16 @@
   * [Drone Components](supply-chain/drone-components.md)
   * [Composites](supply-chain/composites.md)
   * [Li Ion Batteries](supply-chain/li-ion-batteries.md)
-* [🖥 Design & Simulation](design-and-simulation/README.md)
-  * [Page 2](design-and-simulation/page-2.md)
-  * [Computer Aided Design](design-and-simulation/computer-aided-design.md)
-* [📘 Testing & Documentation](testing-and-documentation/README.md)
-  * [K-Tech Dev Log Template](testing-and-documentation/k-tech-dev-log-template.md)
-  * [Readme Creator](design-and-simulation/readme-creator.md)
-  * [April Tags](testing-and-documentation/april-tags.md)
-* [💡 Research Resources](page-3.md)
-  * [Parachute Design](design-and-simulation/parachute-design.md)
-  * [Thermal & Electro-Optics](research-resources/thermal-and-electro-optics.md)
-  * [Body Armor Basics](testing-and-documentation/body-armor-basics.md)
-  * [Night Vision Basics](testing-and-documentation/night-vision-basics.md)
-* [📑 Open Source Bases](open-source-bases/README.md)
-  * [Meshtastic ](open-source-bases/meshtastic.md)
-  * [Open HD](open-source-bases/open-hd.md)
-  * [Ardupilot](open-source-bases/ardupilot.md)
 
 ## Rocketry Projects
 
-* [K-9 TVC Gen 2](rocketry-projects/k-9-tvc-gen-2.md)
 * [K-9 TVC V8](rocketry-projects/k-9-tvc-v8.md)
+* [K-9 TVC Gen 2](rocketry-projects/k-9-tvc-gen-2.md)
+* [K-9 TVC Mega](rocketry-projects/k-9-tvc-mega.md)
+* [K-9 TVC Hopper](rocketry-projects/k-9-tvc-hopper.md)
 * [Model Rocket Landing Legs](rocketry-projects/model-rocket-landing-legs.md)
 * [WOOF Launch Computer](rocketry-projects/woof-launch-computer.md)
+* [Model Rocket GCS](rocketry-projects/model-rocket-gcs.md)
 
 ## UAV Projects
 
