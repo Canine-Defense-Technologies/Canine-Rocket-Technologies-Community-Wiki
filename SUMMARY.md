@@ -21,10 +21,10 @@
   * [Electronics Basics](resource-library/software-and-electronics/electronics.md)
   * [Arduino & Other Microcontrollers](resource-library/software-and-electronics/arduino-and-other-microcontrollers.md)
   * [PCBs](resource-library/software-and-electronics/pcbs.md)
-  * [Pinouts Book](resource-library/software-and-electronics/pinouts-book.md)
-  * [DIY Lithium Batteries](resource-library/software-and-electronics/diy-lithium-batteries.md)
+  * [Pinouts Book 1](resource-library/software-and-electronics/pinouts-book-1.md)
+  * [DIY Lithium Batteries 1](resource-library/software-and-electronics/diy-lithium-batteries-1.md)
   * [Software Dev](resource-library/software-and-electronics/software-dev.md)
-  * [Graphic Design & Video Production](resource-library/software-and-electronics/graphic-design-and-video-production.md)
+  * [Graphic Design & Video Production 1](resource-library/software-and-electronics/graphic-design-and-video-production-1.md)
 
 ***
 
@@ -44,17 +44,17 @@
   * [Meshtastic ](open-source-bases/meshtastic.md)
   * [Open HD](open-source-bases/open-hd.md)
   * [Ardupilot](open-source-bases/ardupilot.md)
-* [🚚 Supply Chain](supply-chain/README.md)
-  * [Electronics Component](supply-chain/electronics-component/README.md)
-    * [RPI Locator](supply-chain/electronics-component/rpi-locator.md)
-    * [Octopart](supply-chain/electronics-component/octopart-electronics-part-library.md)
-  * [PCB Frabrication](supply-chain/pcb.md)
-  * [Laser and CNC Cutting](supply-chain/laser-and-cnc-cutting.md)
-  * [3D Printing Services](supply-chain/3d-printing.md)
-  * [Hardware Components](supply-chain/hardware-components.md)
-  * [Drone Components](supply-chain/drone-components.md)
-  * [Composites](supply-chain/composites.md)
-  * [Li Ion Batteries](supply-chain/li-ion-batteries.md)
+* [🚚 Supply Chain 1](supply-chain-1/README.md)
+  * [Electronics Component 1](supply-chain-1/electronics-component-1/README.md)
+    * [RPI Locator 1](supply-chain-1/electronics-component-1/rpi-locator-1.md)
+    * [Octopart 1](supply-chain-1/electronics-component-1/octopart-1.md)
+  * [PCB Frabrication 1](supply-chain-1/pcb-frabrication-1.md)
+  * [Laser and CNC Cutting 1](supply-chain-1/laser-and-cnc-cutting-1.md)
+  * [3D Printing Services 1](supply-chain-1/3d-printing-services-1.md)
+  * [Hardware Components 1](supply-chain-1/hardware-components-1.md)
+  * [Drone Components 1](supply-chain-1/drone-components-1.md)
+  * [Composites 1](supply-chain-1/composites-1.md)
+  * [Li Ion Batteries 1](supply-chain-1/li-ion-batteries-1.md)
 
 ## Rocketry Projects
 

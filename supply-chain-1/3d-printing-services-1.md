@@ -1,7 +1,7 @@
-# 3D Printing Services
+# 3D Printing Services 1
 
 {% hint style="success" %}
-A tip we wished we knew sooner! We found out that for most online 3D printing services if you upload .3mf or .stl, the same exact parts are cheaper than when you upload .STEP
+We found out that for most online 3D printing services if you upload .3mf or .stl, the same exact parts are cheaper than when you upload .STEP
 {% endhint %}
 
 ## JLCPCB

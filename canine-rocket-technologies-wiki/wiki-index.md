@@ -58,7 +58,7 @@ List and resources of other open source projects and design architectures we uti
 
 <details>
 
-<summary><a href="../supply-chain/">Supply Chain</a></summary>
+<summary><a href="../supply-chain-1/">Supply Chain</a></summary>
 
 List of suppliers with our personal reviews along with Bills of Material tools.
 

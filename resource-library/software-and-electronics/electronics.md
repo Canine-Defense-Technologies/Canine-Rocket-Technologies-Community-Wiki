@@ -3,7 +3,7 @@ cover: ../../.gitbook/assets/soldering.jpg
 coverY: 0
 ---
 
-# Electronics
+# Electronics Basics
 
 ## Introduction
 
@@ -61,7 +61,7 @@ Electronic Design Automation is where all Printed Circuit Board (PCB) projects s
 
 ### Easy EDA
 
-Easy EDA is a free and open-sourced web browser-based EDA software under the JLCPCB and LCSC's ecosystem (More info on [here](../../supply-chain/electronics-component/#lcsc)). This makes designing and ordering the parts with their services extremely streamlined and easy. However, this also means if one would like to purchase components from other suppliers such as Digikey, a lot of the automatic features and libraries may not be accessible.&#x20;
+Easy EDA is a free and open-sourced web browser-based EDA software under the JLCPCB and LCSC's ecosystem (More info on [here](../../supply-chain-1/electronics-component-1/#lcsc)). This makes designing and ordering the parts with their services extremely streamlined and easy. However, this also means if one would like to purchase components from other suppliers such as Digikey, a lot of the automatic features and libraries may not be accessible.&#x20;
 
 {% embed url="https://easyeda.com/" %}
 
