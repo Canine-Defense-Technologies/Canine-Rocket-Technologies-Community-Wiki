@@ -31,3 +31,15 @@ DRI (Detection, Recognition, & Identifcation)
 ## MWIR & LWIR
 
 {% embed url="https://youtu.be/dzWbZ3GNbxU" %}
+
+## Real World Examples
+
+{% embed url="https://youtu.be/-FajSFRlkIo" %}
+
+{% embed url="https://youtu.be/yotbnhfRgMY" %}
+
+## Product Examples
+
+{% embed url="https://www.trilliumeng.com" %}
+
+{% embed url="https://www.avinc.com/uas/payloads" %}
