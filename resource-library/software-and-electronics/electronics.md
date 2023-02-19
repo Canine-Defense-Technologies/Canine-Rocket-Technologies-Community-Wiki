@@ -3,7 +3,7 @@ cover: ../../.gitbook/assets/soldering.jpg
 coverY: 0
 ---
 
-# Electronics
+# Electronics Basics
 
 ## Introduction
 
