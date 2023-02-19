@@ -1,7 +1,7 @@
 # Wiki Index
 
 {% hint style="success" %}
-Click the left drop down tab for a quick page summary
+Click the left drop down tab for a quick page summary. Click on the pages of interest or navigate using the outline on the left or the search bar on the top right.
 {% endhint %}
 
 ## Introduction
