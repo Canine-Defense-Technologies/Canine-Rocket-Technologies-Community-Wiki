@@ -1,2 +1,2 @@
-# 3D Print Settings
+# K-Tech 3D Print Settings
 

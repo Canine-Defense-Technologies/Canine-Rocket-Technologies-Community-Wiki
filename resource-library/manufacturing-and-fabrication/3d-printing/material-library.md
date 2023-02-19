@@ -80,6 +80,10 @@ Though not as strong as PLA, PETG has superior temperature resistance. It's a gr
 
 ## ASA
 
+{% hint style="danger" %}
+Produces Toxic Fumes when printing! Make sure to ventilate!
+{% endhint %}
+
 <details>
 
 <summary>Stats</summary>
@@ -120,7 +124,23 @@ Contrary to popular belief, ASA isn't the king of&#x20;
 
 <summary>Stats</summary>
 
+## Acrylonitrile Styrene Acrylate&#x20;
 
+**Print Temp:** 250-300°C (Hotend) 90-100°C (Bed)
+
+**Glass Transition Temperature:** \~50-90°C
+
+**Density:** 1.07 g/cm^3
+
+**Tensile Strength:** \~30 GPa
+
+**Flexural Modulus:** \~38 GPa
+
+**Elongation:** \~20-40%
+
+**Hyrdoscopic:** Yes
+
+**Enclosure:** Needed
 
 </details>
 
