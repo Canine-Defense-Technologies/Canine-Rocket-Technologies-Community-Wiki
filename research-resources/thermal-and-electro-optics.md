@@ -9,10 +9,14 @@ All credits to the respective authors, make sure to give them the credit they de
 ## Basic Principles & Concepts
 
 {% embed url="https://youtu.be/pDEKfOmJkCo" %}
+A great overiew into the basic principles of military EO/IR by Dr. Johnathan Partee.
+{% endembed %}
 
 ## Thermal Camoflouge
 
 {% embed url="https://youtu.be/8fbKZze_J4c" %}
+An overview on thermal camo along with a detailed lesson on the principles of thermal.
+{% endembed %}
 
 
 
@@ -35,8 +39,12 @@ DRI (Detection, Recognition, & Identifcation)
 ## Real World Examples
 
 {% embed url="https://youtu.be/-FajSFRlkIo" %}
+SAR mission using a thermal pod on a police helicopter
+{% endembed %}
 
 {% embed url="https://youtu.be/yotbnhfRgMY" %}
+Tactical warfare with thermal on a Apache Attack Helicopter
+{% endembed %}
 
 ## Product Examples
 

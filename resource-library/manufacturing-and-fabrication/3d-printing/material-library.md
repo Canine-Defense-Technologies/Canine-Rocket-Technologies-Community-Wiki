@@ -1,7 +1,7 @@
 # Material Library
 
 {% hint style="info" %}
-This is our internally research and developed reference
+This is our internal research and developed reference
 {% endhint %}
 
 ## PLA
@@ -36,7 +36,7 @@ PLA is&#x20;
 
 </details>
 
-<table><thead><tr><th>Model</th><th data-type="rating" data-max="5"></th><th>Price per KG</th><th>Notes</th></tr></thead><tbody><tr><td>Inland PLA</td><td>3</td><td>$18</td><td>Okay for general use, however tends to be very brittle. Horrible temperature resistance.</td></tr><tr><td>Inland PLA+</td><td>4</td><td>$19</td><td>Best general purpose PLA at a decent price.</td></tr><tr><td>Inland PLA Tough</td><td>4</td><td>$25</td><td>Stronger than normal PLA and has higher heat resistance</td></tr><tr><td>Prusament PLA</td><td>5</td><td>$30</td><td>Best PLA all around, premium feel and</td></tr></tbody></table>
+<table><thead><tr><th>Model</th><th data-type="rating" data-max="5">Our Rating</th><th>Price per KG</th><th>Notes</th></tr></thead><tbody><tr><td>Inland PLA</td><td>3</td><td>$18</td><td>Okay for general use, however tends to be very brittle. Horrible temperature resistance.</td></tr><tr><td>Inland PLA+</td><td>4</td><td>$19</td><td>Best general purpose PLA at a decent price.</td></tr><tr><td>Inland PLA Tough</td><td>4</td><td>$25</td><td>Stronger than normal PLA and has higher heat resistance</td></tr><tr><td>Prusament PLA</td><td>5</td><td>$30</td><td>Best PLA all around, premium feel and</td></tr></tbody></table>
 
 ## PETG
 
@@ -72,7 +72,7 @@ PLA is&#x20;
 
 </details>
 
-<table><thead><tr><th>Model</th><th data-type="rating" data-max="5"></th><th>Price per KG</th><th>Notes</th></tr></thead><tbody><tr><td>Inland PETG</td><td>4</td><td>$19</td><td></td></tr><tr><td>Overture PETG</td><td>4</td><td>$25</td><td></td></tr></tbody></table>
+<table><thead><tr><th>Model</th><th data-type="rating" data-max="5">Our Rating</th><th>Price per KG</th><th>Notes</th></tr></thead><tbody><tr><td>Inland PETG</td><td>4</td><td>$19</td><td></td></tr><tr><td>Overture PETG</td><td>4</td><td>$25</td><td></td></tr></tbody></table>
 
 ## ASA
 
@@ -92,9 +92,27 @@ Contrary to popular belief, ASA isn't the king of&#x20;
 
 </details>
 
-<table><thead><tr><th>Model</th><th data-type="rating" data-max="5"></th><th>Price per KG</th><th></th></tr></thead><tbody><tr><td>Inland ASA</td><td>3</td><td>25</td><td></td></tr><tr><td></td><td>null</td><td></td><td></td></tr><tr><td></td><td>null</td><td></td><td></td></tr></tbody></table>
+<table><thead><tr><th>Model</th><th data-type="rating" data-max="5">Our Rating</th><th>Price per KG</th><th>Notes</th></tr></thead><tbody><tr><td>Inland ASA</td><td>3</td><td>25</td><td></td></tr><tr><td></td><td>null</td><td></td><td></td></tr><tr><td></td><td>null</td><td></td><td></td></tr></tbody></table>
+
+## PA (Nylon)
+
+<details>
+
+<summary>Stats</summary>
 
 
+
+</details>
+
+<details>
+
+<summary>Best Applications</summary>
+
+
+
+</details>
+
+<table><thead><tr><th>Model</th><th data-type="rating" data-max="5">Our Rating</th><th>Price per KG</th><th>Notes</th></tr></thead><tbody><tr><td>Polymaker Polymide PA12-CF</td><td>5</td><td>$140</td><td></td></tr><tr><td>Polymaker Polymide PA6-CF</td><td>5</td><td>$70</td><td></td></tr><tr><td></td><td>null</td><td></td><td></td></tr><tr><td></td><td>null</td><td></td><td></td></tr><tr><td></td><td>null</td><td></td><td></td></tr></tbody></table>
 
 
 

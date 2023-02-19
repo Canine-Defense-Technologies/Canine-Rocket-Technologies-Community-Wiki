@@ -4,6 +4,8 @@
 Click the left drop down tab for a quick page summary
 {% endhint %}
 
+## Introduction
+
 <details>
 
 <summary><a href="../">Home</a></summary>
@@ -11,6 +13,8 @@ Click the left drop down tab for a quick page summary
 Homepage and landing page for the wiki
 
 </details>
+
+## Resource Library
 
 <details>
 
@@ -47,6 +51,14 @@ Library of resources and reference about 3D printing, CNC machining, and anythin
 <details>
 
 <summary><a href="../page-3.md">Research Resources</a></summary>
+
+
+
+</details>
+
+<details>
+
+<summary>Open Source Bases</summary>
 
 
 

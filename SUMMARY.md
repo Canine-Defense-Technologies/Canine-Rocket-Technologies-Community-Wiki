@@ -50,10 +50,10 @@
   * [Thermal & Electro-Optics](research-resources/thermal-and-electro-optics.md)
   * [Body Armor Basics](testing-and-documentation/body-armor-basics.md)
   * [Night Vision Basics](testing-and-documentation/night-vision-basics.md)
-* [📑 Open Source Projects & Resources](open-source-projects-and-resources/README.md)
-  * [Meshtastic ](open-source-projects-and-resources/meshtastic.md)
-  * [Open HD](open-source-projects-and-resources/open-hd.md)
-  * [Ardupilot](open-source-projects-and-resources/ardupilot.md)
+* [📑 Open Source Bases](open-source-bases/README.md)
+  * [Meshtastic ](open-source-bases/meshtastic.md)
+  * [Open HD](open-source-bases/open-hd.md)
+  * [Ardupilot](open-source-bases/ardupilot.md)
 
 ## Rocketry Projects
 
