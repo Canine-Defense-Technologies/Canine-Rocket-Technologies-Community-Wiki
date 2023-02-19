@@ -1,4 +1,4 @@
-# K-Tech Fastener Standard
+# Fasteners
 
 ## M3-0.5 Hex Machine Screw
 

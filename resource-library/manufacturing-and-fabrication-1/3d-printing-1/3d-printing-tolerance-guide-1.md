@@ -1,7 +1,7 @@
-# 3D Printing Tolerance Guide
+# 3D Printing Tolerance Guide 1
 
 {% hint style="info" %}
-This is our internally research and developed reference
+This is our internally researched and developed reference
 {% endhint %}
 
 ### FDM

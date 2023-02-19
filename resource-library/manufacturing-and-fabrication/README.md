@@ -5,7 +5,7 @@ coverY: 0
 layout: landing
 ---
 
-# 🔧 Manufacturing & Fabrication
+# 🔧 Manufacturing & Fabrication 1
 
 {% hint style="info" %}
 The BEST tool for you is the one you know best, and the one that fits your workflow and mission. The information here is based on OUR tools and OUR experiences. What's BEST for you is up to your assessment and research.
@@ -17,7 +17,7 @@ None of the products listed is an endorsement, they are simply recommendations o
 
 ### Pages
 
-<table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td>CNC Machining</td><td></td><td></td><td><a href="cnc-machining.md">cnc-machining.md</a></td></tr><tr><td>Laser Cutting</td><td></td><td></td><td></td></tr><tr><td>3D Printing</td><td></td><td></td><td></td></tr><tr><td>Composite Layup</td><td></td><td></td><td></td></tr><tr><td>Fasteners</td><td></td><td></td><td></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td>CNC Machining</td><td></td><td></td><td><a href="../manufacturing-and-fabrication-1/cnc-machining-1.md">cnc-machining-1.md</a></td></tr><tr><td>Laser Cutting</td><td></td><td></td><td></td></tr><tr><td>3D Printing</td><td></td><td></td><td></td></tr><tr><td>Composite Layup</td><td></td><td></td><td></td></tr><tr><td>Fasteners</td><td></td><td></td><td></td></tr></tbody></table>
 
 
 
