@@ -12,7 +12,7 @@
   * [CNC Machining 1](resource-library/manufacturing-and-fabrication/cnc-machining.md)
   * [Laser Cutting 1](resource-library/manufacturing-and-fabrication/laser-cutting.md)
   * [3D Printing 1](resource-library/manufacturing-and-fabrication/3d-printing/README.md)
-    * [Material Library](resource-library/manufacturing-and-fabrication/3d-printing/material-library.md)
+    * [Material Library 1](resource-library/manufacturing-and-fabrication-1/3d-printing-1/material-library-1.md)
     * [3D Printing Tolerance Guide 1](resource-library/manufacturing-and-fabrication/3d-printing/3d-printing-tolerance-guide.md)
     * [3D Print Settings](resource-library/manufacturing-and-fabrication/3d-printing/k-tech-3d-print-settings.md)
   * [Composite Layups](resource-library/manufacturing-and-fabrication/composite-layups.md)

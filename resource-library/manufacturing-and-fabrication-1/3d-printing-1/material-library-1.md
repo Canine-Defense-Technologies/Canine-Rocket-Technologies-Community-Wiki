@@ -1,4 +1,4 @@
-# Material Library
+# Material Library 1
 
 {% hint style="info" %}
 This is our internal research and developed reference
@@ -14,11 +14,11 @@ This is our internal research and developed reference
 
 **Print Temp:** 215-260°C (Hotend) 60-80°C (Bed)
 
-**Glass Transition Temperature:** \~85°C
+**Glass Transition Temperature:** \~65°C
 
 **Density:** 1.24 g/cm^3
 
-**Tensile Strength:** \~37 GPa
+**Tensile Strength:** \~37 MPa
 
 **Flexural Modulus:** \~4 GPa
 
@@ -50,13 +50,13 @@ PLA is the best general purpose material. It's low cost, easy to print, and pret
 
 **Print Temp:** 215-260°C (Hotend) 60-80°C (Bed)
 
-**Glass Transition Temperature:** \~85°C
+**Glass Transition Temperature:** \~80°C
 
 **Density:** 1.27 g/cm^3
 
-**Tensile Strength:** \~28 GPa
+**Tensile Strength:** \~28 MPa
 
-**Flexural Modulus:** \~64 GPa
+**Flexural Modulus:** \~2 GPa
 
 **Elongation:** \~25%
 
@@ -96,9 +96,9 @@ Produces Toxic Fumes when printing! Make sure to ventilate!
 
 **Density:** 1.07 g/cm^3
 
-**Tensile Strength:** \~30 GPa
+**Tensile Strength:** \~30 MPa
 
-**Flexural Modulus:** \~38 GPa
+**Flexural Modulus:** \~2 GPa
 
 **Elongation:** \~5%
 
@@ -112,11 +112,11 @@ Produces Toxic Fumes when printing! Make sure to ventilate!
 
 <summary>Best Applications</summary>
 
-Contrary to popular belief, ASA isn't the king of&#x20;
+Contrary to popular belief, ASA isn't the king of strong 3D prints, as we can see from it's rather poor tensile strength, it's a rather brittle material. However its primary advantage is at heat and weather resistance, making it a rather durable material for outdoor applications that won't require very high loads. Keep in mind it's not the easiest material to work with due to it's likeliness to warp and toxic fumes produced during printing.
 
 </details>
 
-<table><thead><tr><th>Model</th><th data-type="rating" data-max="5">Our Rating</th><th>Price per KG</th><th>Notes</th></tr></thead><tbody><tr><td>Inland ASA</td><td>3</td><td>25</td><td></td></tr></tbody></table>
+<table><thead><tr><th>Model</th><th data-type="rating" data-max="5">Our Rating</th><th>Price per KG</th><th>Notes</th></tr></thead><tbody><tr><td>Inland ASA</td><td>3</td><td>25</td><td>Cheap ASA good for general high temp parts, though not the best finish.</td></tr></tbody></table>
 
 ## PA (Nylon)
 
@@ -124,19 +124,19 @@ Contrary to popular belief, ASA isn't the king of&#x20;
 
 <summary>Stats</summary>
 
-## Acrylonitrile Styrene Acrylate&#x20;
+## Nylon&#x20;
 
 **Print Temp:** 250-300°C (Hotend) 90-100°C (Bed)
 
-**Glass Transition Temperature:** \~50-90°C
+**Glass Transition Temperature:** \~70-80°C
 
-**Density:** 1.07 g/cm^3
+**Density:** 1.15 g/cm^3 (May vary for fiber reinforced)
 
-**Tensile Strength:** \~30 GPa
+**Tensile Strength:** \~76 MPa (\~150 Mpa for fiber reinforced)
 
-**Flexural Modulus:** \~38 GPa
+**Flexural Modulus:** \~110 GPa
 
-**Elongation:** \~20-40%
+**Elongation:** \~90%
 
 **Hyrdoscopic:** Yes
 
@@ -148,11 +148,11 @@ Contrary to popular belief, ASA isn't the king of&#x20;
 
 <summary>Best Applications</summary>
 
-
+Nylon isn't an easy material to work with and can be very expensive, but it yields amazing qualities in terms of strength and overall performance. It yields incredibly durable parts. However it's flexibility may limit its usable applications. There are many Glass Fiber and Carbon Fiber reinforced Nylons that can yield very stiff parts while retaining many of the great qualities of nylon. As stated earlier, it is a very expensive material to work with, hence why we reserve it for final parts rather than prototyping.
 
 </details>
 
-<table><thead><tr><th>Model</th><th data-type="rating" data-max="5">Our Rating</th><th>Price per KG</th><th>Notes</th></tr></thead><tbody><tr><td>Polymaker Polymide PA12-CF</td><td>5</td><td>$140</td><td></td></tr><tr><td>Polymaker Polymide PA6-CF</td><td>5</td><td>$70</td><td></td></tr><tr><td></td><td>null</td><td></td><td></td></tr><tr><td></td><td>null</td><td></td><td></td></tr><tr><td></td><td>null</td><td></td><td></td></tr></tbody></table>
+<table><thead><tr><th>Model</th><th data-type="rating" data-max="5">Our Rating</th><th>Price per KG</th><th>Notes</th></tr></thead><tbody><tr><td>Polymaker Polymide PA12-CF</td><td>4</td><td>$140</td><td>Best Carbon Fiber reinforced nylon for humid applications, absolutely durable prints, but very expensive.</td></tr><tr><td>Polymaker Polymide PA6-CF</td><td>5</td><td>$70</td><td>Best Carbon Fiber reinforced nylon overall in terms of price and performance. Being PA-6, it will absorb more moisture. Has better mechanical properties than PA-12.</td></tr></tbody></table>
 
 
 
