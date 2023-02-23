@@ -134,17 +134,23 @@ Apply a generous amount of silicone sealant around the mounting ring of the moto
 
 Align the motor mounting ring to the six brass threaded inserts on the backside of the fan enclosure.&#x20;
 
-Step 8
+### Step 8
 
 <figure><img src="../../.gitbook/assets/20230126_222838.jpg" alt=""><figcaption></figcaption></figure>
 
-Screw in six M3x6 mm screws to retain the motor mount. It is optimal to have some silicone bleed out the edged in a relatively uniform manner to guarantee an air-tight seal.&#x20;
+Screw in six M3x6 mm screws to retain the motor mount. It is optimal to have some silicone bleed out the edge in a relatively uniform manner to guarantee an air-tight seal.&#x20;
 
-Step 9
+### Step 9
 
-d
+<figure><img src="../../.gitbook/assets/20230127_135957.jpg" alt=""><figcaption></figcaption></figure>
 
-d
+Turn the fan enclosure towards the front and push in the fan blades into the motor shaft.
+
+{% hint style="info" %}
+If the fit is tight, use a rubber mallet and tap very lightly. If the fit is tight, use a dab of epoxy on the motor shaft.&#x20;
+{% endhint %}
+
+### Step 10
 
 d
 
