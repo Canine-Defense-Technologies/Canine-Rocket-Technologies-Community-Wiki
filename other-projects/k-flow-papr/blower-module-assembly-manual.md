@@ -41,6 +41,7 @@ kkk
 | Parts                                       | Quantity  | Link |
 | ------------------------------------------- | --------- | ---- |
 | Electronic (or food grade) Silicone Sealant | 1x tube   |      |
+| 3M Respirator Replacment Gasket             | 2x        |      |
 | 1-1/4" Vaccume Hose                         | 1.5 Meter |      |
 | M3x3 Threaded Insert                        |           |      |
 | M3x6 Threaded Insert                        |           |      |
@@ -152,11 +153,35 @@ If the fit is tight, use a rubber mallet and tap very lightly. If the fit is tig
 
 ### Step 10
 
-d
+<div>
 
-d
+<figure><img src="../../.gitbook/assets/20230130_212753.jpg" alt=""><figcaption></figcaption></figure>
 
-d
+ 
+
+<figure><img src="../../.gitbook/assets/20230130_212809.jpg" alt=""><figcaption></figcaption></figure>
+
+</div>
+
+Now it's time to grab the dual filter mount and two 3M respirator gaskets. Gently insert the gaskets onto the 2 filter mounts.
+
+### Step 11
+
+<div>
+
+<figure><img src="../../.gitbook/assets/20230130_212814.jpg" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../../.gitbook/assets/20230130_212820.jpg" alt=""><figcaption></figcaption></figure>
+
+</div>
+
+Flip the dual filter mount inside out, and apply a generous bead of silicone around the inner perimeter.&#x20;
+
+{% hint style="warning" %}
+Make sure a bead is aligned to the inner edge not the outer, that way we can ensure a proper seal that is not compromised by the screw holes.&#x20;
+{% endhint %}
 
 d
 
