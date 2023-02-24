@@ -4,7 +4,7 @@
 
 <figure><img src="../../.gitbook/assets/erwr (2).png" alt=""><figcaption></figcaption></figure>
 
-kkk
+
 
 ## Parts
 
@@ -153,6 +153,12 @@ If the fit is tight, use a rubber mallet and tap very lightly. If the fit is tig
 
 ### Step 10
 
+<figure><img src="../../.gitbook/assets/20230124_202115.jpg" alt=""><figcaption></figcaption></figure>
+
+Grab the XT-60 mount and the panel mount XT-60 connector. Align the connector ensuring the positive side of the XT-60 connector is facing the side of the mount with 2 holes. Use two m3x12mm screws from the backside andfasten&#x20;
+
+### Step&#x20;
+
 <div>
 
 <figure><img src="../../.gitbook/assets/20230130_212753.jpg" alt=""><figcaption></figcaption></figure>
@@ -165,7 +171,7 @@ If the fit is tight, use a rubber mallet and tap very lightly. If the fit is tig
 
 Now it's time to grab the dual filter mount and two 3M respirator gaskets. Gently insert the gaskets onto the 2 filter mounts.
 
-### Step 11
+### Step&#x20;
 
 <div>
 
@@ -180,9 +186,28 @@ Now it's time to grab the dual filter mount and two 3M respirator gaskets. Gentl
 Flip the dual filter mount inside out, and apply a generous bead of silicone around the inner perimeter.&#x20;
 
 {% hint style="warning" %}
-Make sure a bead is aligned to the inner edge not the outer, that way we can ensure a proper seal that is not compromised by the screw holes.&#x20;
+Make sure the silicone bead is aligned to the inner edge not the outer, that way we can ensure a proper seal that is not compromised by the screw holes.&#x20;
 {% endhint %}
 
-d
+### Step&#x20;
 
-d
+<div>
+
+<figure><img src="../../.gitbook/assets/sdgh.png" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../../.gitbook/assets/20230130_213001.jpg" alt=""><figcaption></figcaption></figure>
+
+</div>
+
+Now grab the center frame. Align the dual filter mount (Ensuring the 2 upper filter lock prongs are facing up) and gently align the&#x20;
+
+
+
+
+
+
+
+
+
