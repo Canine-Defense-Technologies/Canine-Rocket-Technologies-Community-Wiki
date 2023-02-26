@@ -32,4 +32,12 @@ Wiki Manager: Yukon
 
 License: [CC BY-NC 3.0](https://creativecommons.org/licenses/by-nc/3.0/)
 
+
+
+
+
+
+
+1 Peter 3:14
+
 ## ****
