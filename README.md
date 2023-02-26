@@ -2,7 +2,6 @@
 description: Everything you need to know about our open source projects and more
 cover: .gitbook/assets/nbbcn.png
 coverY: 0
-layout: landing
 ---
 
 # 🐺 Canine Rocket Technologies Wiki
@@ -26,8 +25,6 @@ Click "Wiki Index" below to get started!
 {% content-ref url="canine-rocket-technologies-wiki/wiki-index.md" %}
 [wiki-index.md](canine-rocket-technologies-wiki/wiki-index.md)
 {% endcontent-ref %}
-
-
 
 ## Wiki Info
 
