@@ -16,7 +16,7 @@
     * [3D Printing Tolerance Guide 1](resource-library/manufacturing-and-fabrication/3d-printing/3d-printing-tolerance-guide.md)
     * [3D Print Settings](resource-library/manufacturing-and-fabrication/3d-printing/k-tech-3d-print-settings.md)
   * [Composite Layups 1](resource-library/manufacturing-and-fabrication-1/composite-layups-1.md)
-  * [Fasteners](resource-library/manufacturing-and-fabrication/fasteners.md)
+  * [Fasteners 1](resource-library/manufacturing-and-fabrication-1/fasteners-1.md)
 * [⚙ Software & Electronics](resource-library/software-and-electronics/README.md)
   * [Electronics Basics](resource-library/software-and-electronics/electronics.md)
   * [Arduino & Other Microcontrollers](resource-library/software-and-electronics/arduino-and-other-microcontrollers.md)

@@ -36,8 +36,8 @@ License: [CC BY-NC 3.0](https://creativecommons.org/licenses/by-nc/3.0/)
 
 
 
+_Freedom Isn't Free._
 
-
-1 Peter 3:14
+_1 Peter 3:14_
 
 ## ****
