@@ -34,6 +34,8 @@ License: [CC BY-NC 3.0](https://creativecommons.org/licenses/by-nc/3.0/)
 
 
 
+For 3rd party content linked or shared on this wiki, all credits go to the respective creators. Linking or sharing of 3rd party content on this wiki is neither an endorsement nor affiliation by Canine Rocket Technologies unless explicitly disclosed for each article of content.&#x20;
+
 
 
 _Freedom Isn't Free._
