@@ -26,7 +26,7 @@ Library of resources and reference about 3D printing, CNC machining, and anythin
 
 <details>
 
-<summary><a href="../resource-library/software-and-electronics/">Software &#x26; Electronics</a></summary>
+<summary><a href="../resource-library/software-and-electronics-1/">Software &#x26; Electronics</a></summary>
 
 Library of resources about electronics and software.
 

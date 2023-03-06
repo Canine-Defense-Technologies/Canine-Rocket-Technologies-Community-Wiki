@@ -3,7 +3,7 @@ cover: ../../.gitbook/assets/soldering.jpg
 coverY: 0
 ---
 
-# Electronics Basics
+# Electronics Basics 1
 
 ## Introduction
 
@@ -55,28 +55,16 @@ Contrary to popular belief, solder fumes are not lead fumes. They are however ch
 
 Solder contains lead, and we all know what happened to people during the days of lead pipes 🙃! Often around electronic solder workstations, you will notice a lot of lead particulates that splash off your workpiece building up on surfaces around you. We recommend having something such as a shop vacuum to clean up these particulates frequently. Do not have food or drinks near your electronic workstations (I'm talking about you EEs who drink coffee while soldering) and wash your hands thoroughly after handling electronics and soldering. &#x20;
 
-## EDA
-
-Electronic Design Automation is where all Printed Circuit Board (PCB) projects start. It's basically like CAD but for circuit boards. The basic process is the same, you start by designing a schematic, then you convert it into a PCB outline, place the components, and trace the various connections.&#x20;
-
-### Easy EDA
-
-Easy EDA is a free and open-sourced web browser-based EDA software under the JLCPCB and LCSC's ecosystem (More info on [here](../../supply-chain-1/electronics-component-1/#lcsc)). This makes designing and ordering the parts with their services extremely streamlined and easy. However, this also means if one would like to purchase components from other suppliers such as Digikey, a lot of the automatic features and libraries may not be accessible.&#x20;
-
-{% embed url="https://easyeda.com/" %}
-
-
-
-## Microcontroller
-
-Microcontrollers are the heart of many of our small projects, in fact, they are the heart of many of our appliances and tools all around us every day! Learning the basics of microcontrollers is an extremely helpful skill
-
-
-
 
 
 ## Soldering Tools
 
+{% hint style="warning" %}
+**The general rule of thumb:** Don't cheap out on soldering tools, many of the cheaper options out on the market are fire hazards
+{% endhint %}
+
 ### Hakko FX888D Soldering Station
 
-We LOVE our Hakko
+<figure><img src="../../.gitbook/assets/dsc04526_edit.jpg" alt=""><figcaption></figcaption></figure>
+
+The Hakko FX888D soldering station is the best soldering iron we have ever used. It may be a little bit more expensive than many options out on the market, but it's worth it! We highly recommend the Hakko soldering station to both new and expeienced users alike. We really don't recocmedn cheaper solderign station&#x20;

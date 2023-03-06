@@ -16,14 +16,15 @@
     * [3D Printing Tolerance Guide 1](resource-library/manufacturing-and-fabrication/3d-printing/3d-printing-tolerance-guide.md)
   * [Composite Layups 1](resource-library/manufacturing-and-fabrication-1/composite-layups-1.md)
   * [Fasteners 1](resource-library/manufacturing-and-fabrication-1/fasteners-1.md)
-* [⚙ Software & Electronics](resource-library/software-and-electronics/README.md)
-  * [Electronics Basics](resource-library/software-and-electronics/electronics.md)
-  * [Arduino & Other Microcontrollers](resource-library/software-and-electronics/arduino-and-other-microcontrollers.md)
-  * [PCBs 1](resource-library/software-and-electronics/pcbs-1.md)
-  * [Pinouts Book 1](resource-library/software-and-electronics/pinouts-book-1.md)
-  * [DIY Lithium Batteries 1](resource-library/software-and-electronics/diy-lithium-batteries-1.md)
-  * [Software Dev 1](resource-library/software-and-electronics/software-dev-1.md)
-  * [Graphic Design & Video Production 1](resource-library/software-and-electronics/graphic-design-and-video-production-1.md)
+* [⚙ Software & Electronics 1](resource-library/software-and-electronics-1/README.md)
+  * [Electronics Basics 1](resource-library/software-and-electronics-1/electronics-basics-1.md)
+  * [Microcontrollers](resource-library/software-and-electronics-1/microcontrollers.md)
+  * [Single Board Computers](resource-library/software-and-electronics-1/single-board-computers.md)
+  * [PCBs 1](resource-library/software-and-electronics-1/pcbs-1.md)
+  * [Pinouts Book 1](resource-library/software-and-electronics-1/pinouts-book-1.md)
+  * [DIY Lithium Batteries 1](resource-library/software-and-electronics-1/diy-lithium-batteries-1.md)
+  * [Software Dev 1](resource-library/software-and-electronics-1/software-dev-1.md)
+  * [Graphic Design & Video Production 1](resource-library/software-and-electronics-1/graphic-design-and-video-production-1.md)
 
 ***
 
@@ -75,6 +76,7 @@
 ## Tactical Projects
 
 * [K-TAC RTE-1](tactical-projects/k-tac-rte-1.md)
+* [Page 3](tactical-projects/page-3.md)
 
 ## Other Projects
 
