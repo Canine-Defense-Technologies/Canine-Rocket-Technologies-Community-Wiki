@@ -14,16 +14,15 @@
   * [3D Printing 1](resource-library/manufacturing-and-fabrication/3d-printing/README.md)
     * [Material Library 1](resource-library/manufacturing-and-fabrication-1/3d-printing-1/material-library-1.md)
     * [3D Printing Tolerance Guide 1](resource-library/manufacturing-and-fabrication/3d-printing/3d-printing-tolerance-guide.md)
-    * [3D Print Settings](resource-library/manufacturing-and-fabrication/3d-printing/k-tech-3d-print-settings.md)
   * [Composite Layups 1](resource-library/manufacturing-and-fabrication-1/composite-layups-1.md)
   * [Fasteners 1](resource-library/manufacturing-and-fabrication-1/fasteners-1.md)
 * [⚙ Software & Electronics](resource-library/software-and-electronics/README.md)
   * [Electronics Basics](resource-library/software-and-electronics/electronics.md)
   * [Arduino & Other Microcontrollers](resource-library/software-and-electronics/arduino-and-other-microcontrollers.md)
-  * [PCBs](resource-library/software-and-electronics/pcbs.md)
+  * [PCBs 1](resource-library/software-and-electronics/pcbs-1.md)
   * [Pinouts Book 1](resource-library/software-and-electronics/pinouts-book-1.md)
   * [DIY Lithium Batteries 1](resource-library/software-and-electronics/diy-lithium-batteries-1.md)
-  * [Software Dev](resource-library/software-and-electronics/software-dev.md)
+  * [Software Dev 1](resource-library/software-and-electronics/software-dev-1.md)
   * [Graphic Design & Video Production 1](resource-library/software-and-electronics/graphic-design-and-video-production-1.md)
 
 ***

@@ -3,11 +3,11 @@ cover: ../../.gitbook/assets/DSCN2407.jpg
 coverY: 38.283987915407856
 ---
 
-# Graphic Design & Video Production
+# Graphic Design & Video Production 1
 
 ## Introduction&#x20;
 
-Graphic design is often the overlooked part of projects like ours. Let's be honest, if your cool project has a crappy logo or graphic, it isn't very presentable. The same applies to videos, they serve as the moving digital face of your project! Honestly, we sometimes go overkill on our videos, but who doesn't want to watch a beautifully produced video? Learning some of this software we found helpful below are extremely useful skills! We like to treat our videos and graphics as an integral part of the project, and it really helps take things to the next level.
+We like to treat our videos and graphics as an integral part of the project. No matter how great your project may be, if it lacks good visual communication it is often challenging to gain attention. Here we have provided you with a list of some great open-sourced or free tools we use to help us develop and produce various video and graphic content.&#x20;
 
 ## Inkscape
 
