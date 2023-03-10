@@ -2,8 +2,6 @@
 
 k
 
-<figure><img src="broken-reference" alt=""><figcaption></figcaption></figure>
-
 {% embed url="https://youtu.be/md_iz1bsaz8" %}
 
 

@@ -11,6 +11,10 @@ coverY: 7.617625093353249
 
 Status: In Development
 
+Development Phase:&#x20;
+
+Start Date:&#x20;
+
 ##
 
 ## Articles About This Project
