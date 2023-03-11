@@ -41,15 +41,13 @@
 | Parts                                       | Quantity  | Link |
 | ------------------------------------------- | --------- | ---- |
 | Electronic (or food grade) Silicone Sealant | 1x tube   |      |
-| 3M Respirator Replacment Gasket             | 2x        |      |
-| 1-1/4" Vaccume Hose                         | 1.5 Meter |      |
+| 3M Respirator Replacement Gasket            | 2x        |      |
+| 1-1/4" Vacuum Hose                          | 1.5 Meter |      |
 | M3x3 Threaded Insert                        |           |      |
 | M3x6 Threaded Insert                        |           |      |
 | M3x7 Tampered Head Screw                    | 4x        |      |
 
 
-
-dddddd
 
 
 
@@ -88,7 +86,7 @@ Now face the component upward and heat set two m3x6 threaded inserts into the ho
 Now it's time to move on to the motor assembly. Grab the motor mount, the motor, and four tampered M3x7 screws. Fish the motor power lines out the hole on the sidewall of the motor mount.
 
 {% hint style="info" %}
-In the photo, you can see we trimmed the bullet connectors that come with the motor so it can be directly soldered onto the ESC. This is not required but recommended. It will make it easier to &#x20;
+In the photo, you can see we trimmed the bullet connectors that come with the motor so it can be directly soldered onto the ESC. This is not required but recommended. It will make it easier to push the motor lines through the motor mount hole.
 {% endhint %}
 
 ### Step 4
@@ -109,7 +107,7 @@ Align the four motor mounting points with the screw holes on the motor mount. Fi
 
 <figure><img src="../../.gitbook/assets/20230126_222115.jpg" alt=""><figcaption></figcaption></figure>
 
-Seal the gap between the motor wires and the motor mount walls with silicone sealant. A syringe with a blunt needle is really useful for this job.
+Seal the motor wire hole with silicone sealant.&#x20;
 
 {% hint style="danger" %}
 Be careful not to have sealant drip onto the motor itself!
@@ -148,14 +146,26 @@ Screw in six M3x6 mm screws to retain the motor mount. It is optimal to have som
 Turn the fan enclosure towards the front and push in the fan blades into the motor shaft.
 
 {% hint style="info" %}
-If the fit is tight, use a rubber mallet and tap very lightly. If the fit is tight, use a dab of epoxy on the motor shaft.&#x20;
+If the fit is tight, use a rubber mallet and tap very lightly. If the fit is loose, use a dab of epoxy on the motor shaft.&#x20;
 {% endhint %}
 
 ### Step 10
 
-<figure><img src="../../.gitbook/assets/20230124_202115.jpg" alt=""><figcaption></figcaption></figure>
+<div>
 
-Grab the XT-60 mount and the panel mount XT-60 connector. Align the connector ensuring the positive side of the XT-60 connector is facing the side of the mount with 2 holes. Use two m3x12mm screws from the backside and fasten&#x20;
+<figure><img src="../../.gitbook/assets/20230124_202115 (1).jpg" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../../.gitbook/assets/20230124_202946.jpg" alt=""><figcaption></figcaption></figure>
+
+</div>
+
+Grab the XT-60 mount and the panel mount XT-60 connector. Align the connector ensuring the positive side of the XT-60 connector is facing the side of the mount with 2 holes. Use two m3x12mm screws from the backside and fasten the XT-60 connector with 2 square nuts. Fasten the XT-60 mount assembly with three m3x6 mm screws.
+
+{% hint style="info" %}
+Most XT-60 Panel mounts have a stainless steel hex nut inside the connector, this should be removed. It can be pushed out with a screw driver or allen key.&#x20;
+{% endhint %}
 
 ### Step&#x20;
 
@@ -205,7 +215,7 @@ Now grab the center frame. Align the dual filter mount (Ensuring the 2 upper fil
 
 ## Step
 
-
+<figure><img src="../../.gitbook/assets/20230130_210137.jpg" alt=""><figcaption></figcaption></figure>
 
 
 
