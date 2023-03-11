@@ -155,7 +155,7 @@ If the fit is tight, use a rubber mallet and tap very lightly. If the fit is tig
 
 <figure><img src="../../.gitbook/assets/20230124_202115.jpg" alt=""><figcaption></figcaption></figure>
 
-Grab the XT-60 mount and the panel mount XT-60 connector. Align the connector ensuring the positive side of the XT-60 connector is facing the side of the mount with 2 holes. Use two m3x12mm screws from the backside andfasten&#x20;
+Grab the XT-60 mount and the panel mount XT-60 connector. Align the connector ensuring the positive side of the XT-60 connector is facing the side of the mount with 2 holes. Use two m3x12mm screws from the backside and fasten&#x20;
 
 ### Step&#x20;
 
@@ -201,7 +201,9 @@ Make sure the silicone bead is aligned to the inner edge not the outer, that way
 
 </div>
 
-Now grab the center frame. Align the dual filter mount (Ensuring the 2 upper filter lock prongs are facing up) and gently align the&#x20;
+Now grab the center frame. Align the dual filter mount (Ensuring the 2 upper filter lock prongs are facing up) and gently place it onto the recessed upper center mounting area of the center frame. Ensure the four screw holes are aligned.&#x20;
+
+## Step
 
 
 

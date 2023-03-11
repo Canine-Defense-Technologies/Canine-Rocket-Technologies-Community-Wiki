@@ -77,7 +77,8 @@
 ## Tactical Projects
 
 * [K-TAC RTE-1](tactical-projects/k-tac-rte-1.md)
-* [Page 3](tactical-projects/page-3.md)
+* [K-TAC Urban Defender](tactical-projects/k-tac-urban-defender/README.md)
+  * [Page 3](tactical-projects/k-tac-urban-defender/page-3.md)
 
 ## Other Projects
 
