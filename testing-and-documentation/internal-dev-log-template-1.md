@@ -33,5 +33,3 @@ _(Copy Paste into Dev Log for each day)_
 **Links:**
 
 **Images & Notes:**
-
-****

@@ -50,7 +50,7 @@ Library of resources to research various topics for projects. This includes stud
 
 <details>
 
-<summary><a href="../open-development-platforms/">Open Source Bases</a></summary>
+<summary><a href="../open-source-bases/">Open Source Bases</a></summary>
 
 List and resources of other open source projects and design architectures we utilize in our projects.&#x20;
 

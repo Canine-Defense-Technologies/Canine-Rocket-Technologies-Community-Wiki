@@ -7,7 +7,7 @@ coverY: 38.283987915407856
 
 ## Introduction&#x20;
 
-We like to treat our videos and graphics as an integral part of the project. No matter how great your project may be, if it lacks good visual communication it is often challenging to gain attention. Here we have provided you with a list of some great open-sourced or free tools we use to help us develop and produce various video and graphic content.&#x20;
+We like to treat our videos and graphics as an integral part of the project. No matter how great your project may be, if it lacks good visual communication it is often challenging to gain attention. Here, we have provided you with a list of some great open-sourced or free tools we use to help us develop and produce various video and graphic content.&#x20;
 
 ## Inkscape
 
@@ -31,6 +31,6 @@ We have found Shotcut to be glitchy, especially after updates! To prevent lost p
 
 ## Stickermule Tools
 
-Stickermule offers free browser-based tools for simple graphic editing! Stickermule Studio has been a really great tool for creating graphics in a rush on the go for us personally. The background remover and upscale tool is also really handy for general use (in our experience it works better than some of the graphics tools we use every day!).&#x20;
+Stickermule offers free browser-based tools for simple graphic editing! Stickermule Studio has been a really great tool for creating graphics in a rush on the go for us personally. The background remover and upscale tool is also really handy for general use (in our experience, it works better than some of the graphics tools we use every day!).&#x20;
 
 {% embed url="https://www.stickermule.com/tools" %}

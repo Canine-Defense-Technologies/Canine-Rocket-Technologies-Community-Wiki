@@ -8,15 +8,15 @@ coverY: -174.58610271903322
 
 ## Introduction
 
-Computer Numerical Control Machining or CNC is a method of automated machining through computer-controlled tools (from the acrynoym, go figure). CNC Machining is what we call Subtractive Manufacturing, where parts are cut out of larger blocks of material. This is fundamentally a wasteful and time-consuming process hence the high costs, however, it yields some of the strongest most optimized parts. Thre removal of material as opposed to the addition of material often allows unmatched strengths, since from the beggining the mass of material is in a uniform and stable state.&#x20;
+Computer Numerical Control Machining or CNC is a method of automated machining through computer-controlled tools (from the acronym, go figure). CNC machining is what we call Subtractive Manufacturing, where parts are cut out of larger blocks of material. This is fundamentally a wasteful and time-consuming process hence the high costs, however, it yields some of the strongest most optimized parts. The removal of material as opposed to the addition of material often allows unmatched strengths, since from the beginning the mass of material is in a uniform and stable state.&#x20;
 
 #### When Should I Use CNC Machining?
 
-Though CNC machining is neither the most efficient nor elegant manufacturing process, it often yields extremely strong consistent parts compared to other novel manufacturing processes such as 3D printing. We often try to avoid CNC machining due to the time and cost, but when part reliability and strength are critical to the overall goal, it's often the best manufacturing method to go with.
+Though CNC machining is neither the most efficient nor elegant manufacturing process, it typically yields extremely strong, consistent parts compared to other novel manufacturing processes such as 3D printing. We regularly try to avoid CNC machining due to the time and cost, but when part reliability and strength are critical to the overall goal, it's often the best manufacturing method to go with.
 
 #### Disadvantaged of CNC Machining
 
-Typically budgetary and time constraints along with part geometry will be the determining factor as to whether CNC machining a part is feasible and practicle. Much like how some part geometries simply must be designed in certain ways to be 3D printed, the same applies to CNC machined parts but with perhaps arguably even greater restrictions. Designing a part to be CNCed will invole the careful consideration of the neccesary tool changes, tool paths, and tolerances the machine is capable of handling. As limmiting as this may sound, applying this knowldged can only be learned through experience or by consulting with a experienced machinist.
+Typically, budgetary and time constraints along with part geometry will be the determining factor whether CNC machining a part is feasible and practice. Much like how some part geometries simply must be designed in certain ways to be 3D printed, the same applies to CNC machined parts but with perhaps arguably even greater restrictions. Designing a part to be CNCed will involve the careful consideration of the necessary tool changes, tool paths, and tolerances the machine is capable of handling. As limiting as this may sound, applying this knowledge can only be learned through experience or by consulting with an experienced machinist.
 
 ## Safety
 
@@ -26,20 +26,20 @@ CNC machines can be dangerous to operate! The fast-spinning tools and powerful m
 
 CNC machines are dangerous tools that should be used carefully. Sharp tools spinning at very fast speeds along with very powerful axis motors is a recipe for fingers flying off your pretty hands. Make sure to seek the help of more experienced CNC operators before you proceed, or practice on smaller machines. This doesn't mean small desktop CNCs are safe, keep your fingers away from moving tools, and don't go beyond your comfort zone!
 
-Dust control is very important when operating a CNC machine. CNC machines produce very fine dust and chips which can be very harmful to breathe in. Dust from conductive materials such as carbon fiber and metals can also damage electronics. Make sure you have a vacuum and respirator handy or install a dust extraction system.&#x20;
+Dust control is very important when operating a CNC machine. CNC machines produce very fine dust and chips, which can be very harmful to breathe in. Dust from conductive materials such as carbon fiber and metals can also damage electronics. Make sure you have a vacuum and respirator handy or install a dust extraction system.&#x20;
 
 ## Software
 
 ### Fusion 360 CAM
 
-Fusion 360 has an advanced integrated CAM (Computer Aided Manufacturing) suite offering a smooth transition from CAD design to machining operations. Below is a video for some of the more relevant operations home CNC users may come across.
+Fusion 360 has an advanced integrated CAM (Computer Aided Manufacturing) suite, offering a smooth transition from CAD design to machining operations. Below is a video for some of the more relevant operations home CNC users may come across.
 
 {% embed url="https://youtu.be/Y-OU0yaD62w" %}
 
 For more information on Fusion 360, check out our documentation in the page below.
 
-{% content-ref url="../../design-and-simulation/computer-aided-design-1.md" %}
-[computer-aided-design-1.md](../../design-and-simulation/computer-aided-design-1.md)
+{% content-ref url="../../design-and-simulation/computer-aided-design.md" %}
+[computer-aided-design.md](../../design-and-simulation/computer-aided-design.md)
 {% endcontent-ref %}
 
 ### Easel
@@ -50,7 +50,7 @@ Easel is a browser-based CAM software primarily for 2D CNC operations and mild 3
 
 ### Estlcam
 
-Estlcam is a completely free open-source CAM software specifically for milling operations. We have had a relatively good experience as new users with Estlcam, it is by far the closest CAM software to Easel. However unlike Easel, it is not browser-based, it's completely free, and its UI is a little messier. We think Estlcam is a good CAM suite for intermediate CNC users like ourselves.&#x20;
+Estlcam is a completely free open-source CAM software specifically for milling operations. We have had a relatively good experience as new users with Estlcam, it is by far the closest CAM software to Easel. However, unlike Easel, it is not browser-based, it's completely free, and its UI is a little messier. We think Estlcam is a good CAM suite for intermediate CNC users like ourselves.&#x20;
 
 {% embed url="https://www.estlcam.de/" %}
 
@@ -66,7 +66,7 @@ Open Builds Control is another great open-sourced CNC milling CAM suite we have 
 
 <figure><img src="../../.gitbook/assets/20220312_205214.jpg" alt=""><figcaption></figcaption></figure>
 
-You heard us right, our primary CNC machine is nicknamed "Janky", it's an Ender 3 converted to a CNC machine. We found this to be a cheap low-cost way to get started in CNC machining and engraving for new users who enjoy tinkering. Note that the limitations of belts along with the low stiffness of the ender 3 frame makes is a less than suboptimal CNC platform. However, with slow settings, it works very well on wood, carbon fiber, and even aluminum.&#x20;
+You heard us right, our primary CNC machine is nicknamed "Janky", it's an Ender 3 converted to a CNC machine. We found this to be a cheap, low-cost way to get started in CNC machining and engraving for new users who enjoy tinkering. Note that the limitations of belts along with the low stiffness of the ender 3 frame makes is a less than suboptimal CNC platform. However, with slow settings, it works very well on wood, carbon fiber, and even aluminum.&#x20;
 
 Special thanks to [Ben ](https://www.thingiverse.com/thinngimaker)[Briesemeister](https://www.thingiverse.com/thinngimaker)[ ](https://www.thingiverse.com/thinngimaker)for writing a great guide about converting an Ender 3 to a CNC on his Thingiverse page (download the PDF guide).
 

@@ -1,10 +1,10 @@
 ---
-description: Precision liquid plastic squiters
+description: Precision liquid plastic squirters
 cover: ../../../.gitbook/assets/MVI_3624_Moment.jpg
 coverY: 0
 ---
 
-# 3D Printing
+# 3D Printing 1
 
 ## Introduction
 
@@ -12,7 +12,7 @@ coverY: 0
 
 #### When Should You Use 3D Printing?
 
-Because of how easy it is to 3D print something, often mistakes made by many makers are 3D printing EVERY part of their project. This can often compromise both creativity and capabilities for the end product. Remember there are many other manufacturing methods, and they should all be considered before proceeding with simply printing the part. As an example we found ourselves printing a lot of flat stencils in the lab, only to realize these stencils could have been laser cut out of waste cardboard at a much cheaper cost and at much faster speeds (A few minutes as opposed to a few seconds). Always look into alternatives before becoming dependent on the 3D printer!
+Because of how easy it is to 3D print something, often mistakes made by many makers are 3D printing EVERY part of their project. This can typically compromise both creativity and capabilities for the end product. Remember, there are many other manufacturing methods, and they should all be considered before proceeding with simply printing the part. As an example, we found ourselves printing a lot of flat stencils in the lab, only to realize these stencils could have been laser cut out of waste cardboard at a much cheaper cost and at much faster speeds (A few minutes as opposed to a few seconds). Always look into alternatives before becoming dependent on the 3D printer!
 
 After consideration of the alternatives, the question of when to use 3D printing is simply a question of how many parts you need out of plastic! 3D printing is extremely convenient, hence the ease of falling into the fallacy described in the short essay above. When used effectively, it can be a very powerful tool.&#x20;
 
@@ -22,7 +22,7 @@ After consideration of the alternatives, the question of when to use 3D printing
 
 #### Choosing a 3D printer
 
-3D printers all accomplish the same goal, but the overall options available are extremely broad. In general sticking to tried and true brands rather than companies selling niche printers with exotic features is a much better bet. But at the end of the day, it comes down to what you're looking for, what applications you're planning on using your machine for, how often you will print, and your budget. Make sure you do your research, and you can consult with people who are more experienced with 3D printers.&#x20;
+3D printers all accomplish the same goal, but the overall options available are extremely broad. In general, sticking to tried and true brands rather than companies selling niche printers with exotic features is a much better bet. But at the end of the day, it comes down to what you're looking for, what applications you're planning on using your machine for, how often you will print, and your budget. Make sure you do your research, and you can consult with people who are more experienced with 3D printers.&#x20;
 
 Here are some great 3D printer reviewers/resources to help with your research!
 
@@ -54,7 +54,7 @@ SLA 3D printing involves the use of toxic resins. These resins can cause skin ir
 
 ### Prusa Slicer
 
-Prusa Slicer is by far our favorite Slicer Software. Despite its branding, we found Prusa Slicer integrating with other printer ecosystems very effectively. One of the key features that make Prusa Slicer great for new users is the ability to set three different modes: Simple, Advanced, and Expert. This allows users to mask the UI to their comfort level and prevent users from being overwhelmed with long lists of jargon and features. One of our favorite things about Prusa Slicer is the huge library of print settings catered for our Prusa i3 already tested by Prusa. Of c
+Prusa Slicer is by far our favorite Slicer Software. Despite its branding, we found Prusa Slicer integrating with other printer ecosystems very effectively. One of the key features that make Prusa Slicer great for new users is the ability to set three different modes: Simple, Advanced, and Expert. This allows users to mask the UI to their comfort level and prevent users from being overwhelmed with long lists of jargon and features. One of our favorite things about Prusa Slicer is the huge library of print settings catered for our Prusa i3 already tested by Prusa.
 
 {% hint style="success" %}
 For new users, we would highly recommend Prusa Slicer
@@ -68,7 +68,7 @@ For new users, we would highly recommend Prusa Slicer
 
 <figure><img src="../../../.gitbook/assets/2365.jpg" alt=""><figcaption></figcaption></figure>
 
-By far our favorite FDM 3D printer ever created in the Prusa i3 mk3s. It is the closest printer that almost works out of the box with simple basic maintenance. Prusa Research has done such a good job on documentation that both troubleshooting and print setting tuning is almost too easy. Our Prusa i3 has been an absolute workhorse, with over 11km of filament and 900 days of continuous print operation, and no printer-related issues outside of mechanical wear and regular part maintenance. The printer is a little expensive but cheaper in the long run. Upgrading something like an Ender 3 to print as reliably as the Prusa will require upgrades and tinkering which will usually break even or surpass the initially higher price of the Prusa i3.&#x20;
+By far our favorite FDM 3D printer ever created in the Prusa i3 mk3s. It is the closest printer that almost works out of the box with simple, basic maintenance. Prusa Research has done such a good job on documentation that both troubleshooting and print setting tuning is almost too easy. Our Prusa i3 has been an absolute workhorse, with over 11k11 km of filament and 900 days of continuous print operation, and no printer-related issues outside mechanical wear and regular part maintenance. The printer is a little expensive, but cheaper in the long run. Upgrading something like an Ender 3 to print as reliably as the Prusa will require upgrades and tinkering, which will usually break even or surpass the initially higher price of the Prusa i3.&#x20;
 
 {% embed url="https://www.prusa3d.com/product/original-prusa-i3-mk3s-kit-3/" %}
 
@@ -76,7 +76,7 @@ By far our favorite FDM 3D printer ever created in the Prusa i3 mk3s. It is the 
 
 <figure><img src="../../../.gitbook/assets/61L4aoIqYOL.jpg" alt=""><figcaption></figcaption></figure>
 
-The Ender 3 is probably the most popular beginner 3D printer due to its low cost. We wouldn't call it a great beginner machine, it takes a lot of tinkering and at the very least a basic understanding of 3D printers to get started with by any practical means. With the price of Creality machines going down, it's a pretty high-value deal for the more than acceptable print quality these machines yield. However personally based on our own experience, we would recommend the Ender 3 as a low-cost supplementary machine when you're scaling up your print operations rather than a beginner machine.&#x20;
+The Ender 3 is probably the most popular beginner 3D printer due to its low cost. We wouldn't call it a great beginner machine, it takes a lot of tinkering and at the very least a basic understanding of 3D printers to get started with by any practical means. With the price of Creality machines going down, it's a pretty high-value deal for the more than acceptable print quality these machines yield. However, personally based on our own experience, we would recommend the Ender 3 as a low-cost supplementary machine when you're scaling up your print operations rather than a beginner machine.&#x20;
 
 {% hint style="info" %}
 For new users, machines like the Prusa Mini are a much better value and easier to get started with, with some sacrifices regarding build volume.&#x20;

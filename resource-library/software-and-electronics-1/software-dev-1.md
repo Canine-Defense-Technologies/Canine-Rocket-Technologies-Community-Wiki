@@ -27,13 +27,6 @@ The free version has limits on how many times you can flash the code onto a boar
 
 ### Python
 
-You will come across the popular python ecosystem in one format or the other. Python is well supported and well maintained. It is also utilized by many other open source projects, especially those utilizing raspberry pis.&#x20;
+You will come across the popular python ecosystem in one format or the other. Python is well-supported and well maintained. It is also utilized by many other open source projects, especially those utilizing raspberry pis.&#x20;
 
 {% embed url="https://www.python.org/downloads/" %}
-
-
-
-
-
-
-
