@@ -28,15 +28,13 @@ Click "Wiki Index" below to get started!
 
 ## Wiki Info
 
-Wiki Manager: Yukon
+**Wiki Manager:** Yukon
 
-License: [CC BY-NC 3.0](https://creativecommons.org/licenses/by-nc/3.0/)
+**License:** [CC BY-NC 3.0](https://creativecommons.org/licenses/by-nc/3.0/)
 
-
-
-For 3rd party content linked or shared on this wiki, all credits go to the respective creators. Linking or sharing of 3rd party content on this wiki is neither an endorsement nor affiliation by Canine Rocket Technologies unless explicitly disclosed for each article of content.&#x20;
-
-
+{% hint style="info" %}
+**For 3rd party content linked or shared on this wiki, all credits goes to the respective creators. Linking or sharing of 3rd party content on this wiki is neither an endorsement nor affiliation by Canine Rocket Technologies unless explicitly disclosed accordingly to an individual article of content.**&#x20;
+{% endhint %}
 
 _Freedom Isn't Free._
 

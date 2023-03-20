@@ -1,34 +1,34 @@
-# Project Stats Template
-
-##
+# Project Stats Template 1
 
 ## Stat List Format
 
 **Status:** (Active, Retired, Replaced: _Provide page link here_)
 
-**Dev Time Period:**
+**Dev Time Period:** (Start date to either end date or current.)
 
 **Type:** (UAV, rocketry component, rocket, etc.)
 
-**Based On:**
+**Architecture:** (development ecosystem, ROS, Ardupilot, Meshtastic, etc.)
 
 **Associated Project(s):**
 
 **Weight:** (kg, grams)
 
-**Dimensions:** (meters or mm)
+**Dimensions:** (xyz, meters or mm)
 
 ## Stat List Template
 
+_(copy paste into each project entry.)_
+
 ## Stats
 
-**Status:** (Active, Retired, Replaced: _Provide page link here_)
+**Status:**&#x20;
 
 **Dev Time Period:**
 
-**Type:** (UAV, rocketry component, rocket, etc.)
+**Type:**&#x20;
 
-**Based On:**
+**Architecture:**
 
 **Associated Project(s):**
 

@@ -29,7 +29,7 @@
 ***
 
 * [📘 Testing & Documentation](testing-and-documentation/README.md)
-  * [Project Stats Template](testing-and-documentation/project-stats-template.md)
+  * [Project Stats Template 1](testing-and-documentation/project-stats-template-1.md)
   * [Internal Dev Log Template 1](testing-and-documentation/internal-dev-log-template-1.md)
   * [Readme Creator](design-and-simulation/readme-creator.md)
   * [April Tags](testing-and-documentation/april-tags.md)
