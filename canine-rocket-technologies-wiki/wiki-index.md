@@ -34,7 +34,7 @@ Library of resources about electronics and software.
 
 <details>
 
-<summary><a href="../testing-and-documentation/">Testing &#x26; Documentation</a></summary>
+<summary><a href="../testing-and-documentation-1/">Testing &#x26; Documentation</a></summary>
 
 Tools and references for testing and validation along with documentation&#x20;
 
