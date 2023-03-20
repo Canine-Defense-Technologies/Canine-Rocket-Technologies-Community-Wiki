@@ -1,7 +1,8 @@
 # Table of contents
 
 * [🐺 Canine Rocket Technologies Wiki](README.md)
-  * [Wiki Index](canine-rocket-technologies-wiki/wiki-index.md)
+  * [Wiki Index](canine-rocket-technologies-wiki/wiki-index/README.md)
+    * [TO DO](canine-rocket-technologies-wiki/wiki-index/to-do.md)
   * [About Canine Rocket Tech](canine-rocket-technologies-wiki/about-canine-rocket-tech.md)
   * [Our Lab](canine-rocket-technologies-wiki/our-lab.md)
   * [Canine Rocket Tech Program Structure](canine-rocket-technologies-wiki/canine-rocket-tech-program-structure.md)
@@ -39,7 +40,6 @@
 * [💡 Research Resources](page-3.md)
   * [Parachute Design](design-and-simulation/parachute-design.md)
   * [Thermal & Electro-Optics](research-resources/thermal-and-electro-optics.md)
-  * [Body Armor Basics](testing-and-documentation/body-armor-basics.md)
   * [Night Vision Basics](testing-and-documentation/night-vision-basics.md)
 * [📑 Open Development Platforms](open-source-bases/README.md)
   * [VESC](open-development-platforms/vesc.md)
