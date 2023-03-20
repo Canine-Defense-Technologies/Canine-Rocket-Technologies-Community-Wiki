@@ -67,3 +67,6 @@ Another great write up by Gloom Group, and a great video by T-Rex arms.
 
 {% embed url="https://devastratactical.com/spec-ops-dog-k9-vision-system/" %}
 
+## Product examples
+
+{% embed url="https://tnvc.com/shop/category/night-vision/night-vision-goggles/" %}

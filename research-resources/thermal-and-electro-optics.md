@@ -1,6 +1,6 @@
 # Thermal & Electro-Optics
 
-Whether you're designing a targeting pod for a drone or on a long range survelliance system, having a basic understanding of both thermal and electro optics is a critical skill to have. Here are some of our favorite resources that helped us get started in our research.
+Whether you're designing a targeting pod for a drone or on a long range surveillance system, having a basic understanding of both thermal and electro optics is a critical skill to have. Here are some of our favorite resources that helped us get started in our research.
 
 {% hint style="info" %}
 All credits to the respective authors, make sure to give them the credit they deserve.
@@ -12,7 +12,7 @@ All credits to the respective authors, make sure to give them the credit they de
 A great overiew into the basic principles of military EO/IR by Dr. Johnathan Partee.
 {% endembed %}
 
-## Thermal Camoflouge
+## Thermal Camouflage
 
 {% embed url="https://youtu.be/8fbKZze_J4c" %}
 An overview on thermal camo along with a detailed lesson on the principles of thermal.
@@ -24,7 +24,7 @@ An overview on thermal camo along with a detailed lesson on the principles of th
 
 <figure><img src="../.gitbook/assets/DRI Chart.png" alt=""><figcaption></figcaption></figure>
 
-DRI (Detection, Recognition, & Identifcation)
+DRI (Detection, Recognition, & Identification)
 
 {% embed url="https://www.infinitioptics.com/dri" %}
 

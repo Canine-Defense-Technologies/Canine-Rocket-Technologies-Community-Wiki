@@ -1,10 +1,6 @@
 # Parachute Design
 
-{% hint style="info" %}
-All credits to the respective authors, make sure to give them the credit they deserve.
-{% endhint %}
-
-## Parachute Recovery Systems Design Manual
+Parachute Recovery Systems Design Manual
 
 Really cool document that has basically all the fundamentals of most parachute recovery systems. A great reference for even small-scale parachute development.
 
