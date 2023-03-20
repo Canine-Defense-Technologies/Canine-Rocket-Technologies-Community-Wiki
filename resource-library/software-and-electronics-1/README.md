@@ -10,4 +10,4 @@ None of the products listed is an endorsement, they are simply recommendations o
 
 ## Pages
 
-<table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-type="content-ref"></th></tr></thead><tbody><tr><td></td><td>Electronics</td><td></td><td></td></tr><tr><td></td><td>Graphic Design &#x26; Video Production</td><td></td><td></td></tr><tr><td></td><td>Pinouts Book</td><td></td><td></td></tr><tr><td></td><td>DIY Lithium Batteries</td><td></td><td></td></tr><tr><td></td><td>Software Dev Tools</td><td></td><td></td></tr><tr><td></td><td>PCBs</td><td></td><td></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th></tr></thead><tbody><tr><td><a href="electronics-basics-1.md">Electronics</a></td></tr><tr><td><a href="graphic-design-and-video-production-1.md">Graphic Design &#x26; Video Production</a></td></tr><tr><td><a href="pinouts-book-1.md">Pinouts Book</a></td></tr><tr><td><a href="diy-lithium-batteries-1.md">DIY Lithium Batteries</a></td></tr><tr><td><a href="software-dev-1.md">Software Dev Tools</a></td></tr><tr><td><a href="pcbs-1.md">PCBs</a></td></tr></tbody></table>
