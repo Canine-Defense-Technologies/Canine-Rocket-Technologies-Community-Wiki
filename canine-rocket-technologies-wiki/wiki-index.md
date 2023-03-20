@@ -8,7 +8,7 @@ Click the left drop down tab for a quick page summary. Click on the pages of int
 
 <details>
 
-<summary><a href="../../">Home</a></summary>
+<summary><a href="../">Home</a></summary>
 
 Homepage and landing page for the wiki
 
@@ -18,7 +18,7 @@ Homepage and landing page for the wiki
 
 <details>
 
-<summary><a href="../../resource-library/manufacturing-and-fabrication/">Manufacturing &#x26; Fabrication</a></summary>
+<summary><a href="../resource-library/manufacturing-and-fabrication/">Manufacturing &#x26; Fabrication</a></summary>
 
 Library of resources and reference about 3D printing, CNC machining, and anything manufacturing or fabrication.
 
@@ -26,7 +26,7 @@ Library of resources and reference about 3D printing, CNC machining, and anythin
 
 <details>
 
-<summary><a href="../../resource-library/software-and-electronics-1/">Software &#x26; Electronics</a></summary>
+<summary><a href="../resource-library/software-and-electronics-1/">Software &#x26; Electronics</a></summary>
 
 Library of resources about electronics and software.
 
@@ -34,7 +34,7 @@ Library of resources about electronics and software.
 
 <details>
 
-<summary><a href="../../testing-and-documentation/">Testing &#x26; Documentation</a></summary>
+<summary><a href="../testing-and-documentation/">Testing &#x26; Documentation</a></summary>
 
 Tools and references for testing and validation along with documentation&#x20;
 
@@ -42,7 +42,7 @@ Tools and references for testing and validation along with documentation&#x20;
 
 <details>
 
-<summary><a href="../../page-3.md">Research Resources</a></summary>
+<summary><a href="../page-3.md">Research Resources</a></summary>
 
 Library of resources to research various topics for projects. This includes studying basic theory and application.&#x20;
 
@@ -50,7 +50,7 @@ Library of resources to research various topics for projects. This includes stud
 
 <details>
 
-<summary><a href="../../open-source-bases/">Open Source Bases</a></summary>
+<summary><a href="../open-source-bases/">Open Source Bases</a></summary>
 
 List and resources of other open source projects and design architectures we utilize in our projects.&#x20;
 
@@ -58,7 +58,7 @@ List and resources of other open source projects and design architectures we uti
 
 <details>
 
-<summary><a href="../../supply-chain-1/">Supply Chain</a></summary>
+<summary><a href="../supply-chain-1/">Supply Chain</a></summary>
 
 List of suppliers with our personal reviews along with Bills of Material tools.
 
