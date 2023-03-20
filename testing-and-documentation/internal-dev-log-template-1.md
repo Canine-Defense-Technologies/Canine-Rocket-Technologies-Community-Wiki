@@ -1,4 +1,4 @@
-# K-Tech Dev Log Template
+# Internal Dev Log Template 1
 
 The Dev Log is our internal daily journal system to both accelerate development and make ourselves a better engineer! The goal isn't a draggy and boring log of overly technical jargons, it's a quick way to jot down progress and issues
 

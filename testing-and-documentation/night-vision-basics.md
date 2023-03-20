@@ -38,18 +38,32 @@ Another great write up by Gloom Group, and a great video by T-Rex arms.
 {% embed url="https://gloomgroup.com/blogs/night-vision-info/night-vision-digital-vs-analog?_pos=1&_sid=ffda2e9a7&_ss=r" %}
 
 {% embed url="https://www.youtube.com/watch?v=CFDNEjJ0cME" %}
+(Source: T.REX ARMS YouTube.com)
+{% endembed %}
+
+{% embed url="https://www.youtube.com/watch?v=UCyTQ15qblw" %}
+(Source: T.REX ARMS YouTube.com)
+{% endembed %}
 
 ## Night Vision Setups
 
-Great overviews by the classics: T-Rex Arms, Garand Thumb, and the Warrior Poet Society. These are great ways to learn about different night vision setups&#x20;
-
-
-
 {% embed url="https://www.youtube.com/watch?v=ojeaBBX-Juw" %}
+(Source: T.REX Arms YouTube.com)
+{% endembed %}
 
 {% embed url="https://www.youtube.com/watch?v=xLYorDf0WXU" %}
+(Source: Warrior Poet Society YouTube.com)
+{% endembed %}
 
 {% embed url="https://www.youtube.com/watch?v=51C1-SNAlhk" %}
+(Source: Garand Thumb YouTube.com)
+{% endembed %}
+
+## Building Out Night Vision Devices
+
+{% embed url="https://youtu.be/vSumk0HeNqc" %}
+(Source: S2 Underground YouTube.com)
+{% endembed %}
 
 {% embed url="https://devastratactical.com/spec-ops-dog-k9-vision-system/" %}
 

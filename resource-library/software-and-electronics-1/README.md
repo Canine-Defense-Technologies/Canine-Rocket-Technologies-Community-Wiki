@@ -1,8 +1,8 @@
 ---
-description: Learn about software tools and electronics1
+description: Learn about software tools and electronics.
 ---
 
-# ⚙ Software & Electronics
+# ⚙ Software & Electronics 1
 
 {% hint style="success" %}
 None of the products listed is an endorsement, they are simply recommendations or lists from our personal tool collection and experiences.&#x20;

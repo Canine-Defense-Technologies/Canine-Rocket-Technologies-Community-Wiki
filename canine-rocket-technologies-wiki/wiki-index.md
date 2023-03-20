@@ -34,7 +34,7 @@ Library of resources about electronics and software.
 
 <details>
 
-<summary><a href="../testing-and-documentation-1/">Testing &#x26; Documentation</a></summary>
+<summary><a href="../testing-and-documentation/">Testing &#x26; Documentation</a></summary>
 
 Tools and references for testing and validation along with documentation&#x20;
 
@@ -50,7 +50,7 @@ Library of resources to research various topics for projects. This includes stud
 
 <details>
 
-<summary><a href="../open-source-bases/">Open Source Bases</a></summary>
+<summary><a href="../open-development-platforms/">Open Source Bases</a></summary>
 
 List and resources of other open source projects and design architectures we utilize in our projects.&#x20;
 

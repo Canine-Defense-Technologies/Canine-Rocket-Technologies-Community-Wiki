@@ -4,7 +4,7 @@ cover: ../../.gitbook/assets/IMG_20220709_155858.jpg
 coverY: -174.58610271903322
 ---
 
-# CNC Machining
+# CNC Machining 1
 
 ## Introduction
 
@@ -38,8 +38,8 @@ Fusion 360 has an advanced integrated CAM (Computer Aided Manufacturing) suite o
 
 For more information on Fusion 360, check out our documentation in the page below.
 
-{% content-ref url="../../design-and-simulation/computer-aided-design.md" %}
-[computer-aided-design.md](../../design-and-simulation/computer-aided-design.md)
+{% content-ref url="../../design-and-simulation/computer-aided-design-1.md" %}
+[computer-aided-design-1.md](../../design-and-simulation/computer-aided-design-1.md)
 {% endcontent-ref %}
 
 ### Easel

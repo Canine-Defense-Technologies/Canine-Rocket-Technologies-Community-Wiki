@@ -1,5 +1,5 @@
 ---
-description: Learn about tools and how to use them!
+description: Learn about tools and how to use them.
 cover: ../../.gitbook/assets/20190318_203424_edited.jpg
 coverY: 0
 ---
