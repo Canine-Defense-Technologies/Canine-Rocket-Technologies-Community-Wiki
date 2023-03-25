@@ -1,4 +1,4 @@
-# Li Ion Batteries
+# Li Ion Batteries 1
 
 {% hint style="danger" %}
 Buying Li-Ion cells from non-reputable sellers can be dangerous! Often times cheaper prices or near-impossible technical specs are strong indicators that the cells being sold are counterfeit!&#x20;
