@@ -12,7 +12,7 @@ We are an amateur student-run hardware technology development project engaging i
 
 Website
 
-{% embed url="https://caninerockettech.wixsite.com/rocket" %}
+{% embed url="https://k9rockettech.com/" %}
 
 YouTube Channel
 
