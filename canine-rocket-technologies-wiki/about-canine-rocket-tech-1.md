@@ -1,6 +1,6 @@
-# About Canine Rocket Tech
+# About Canine Rocket Tech 1
 
-### <mark style="color:blue;">Our Mission</mark>: Rapidly build, test, and deploy the best open architecture tactical systems, drones, rockets, and more.
+<mark style="color:blue;">Our Mission</mark>: Rapidly build, test, and deploy the best open architecture tactical systems, drones, rockets, and more.
 
 We are Canine Rocket Technologies, a multidisciplinary open architecture hardware development program founded by Yukon in 2018. We started with designing and developing small-scale advanced rocketry components. We've now scaled up, taking on much more challenging projects while preserving the novel hardware development methods tuned to perfection from our early days.
 
@@ -16,37 +16,29 @@ We may have "rocket" in our name hinting at our roots, but it serves as an umbre
 
 Who doesn't love dogs? Although our reliance on animals to finish large tasks have been replaced with machines over a century ago, canines still remain loyal and highly integrated companions. In fact, both humans and canines have adapted together to better integrate their place in the highly evolving technological world. In the same way, we thrive to develop technology that openly adapts and integrates, not temporary solutions.
 
+{% embed url="https://youtu.be/Q15jxF-dg8w" %}
 
-
-
-
-
-
-{% embed url="https://linktr.ee/caninerockettechnologies" %}
-
-### Links
-
-Website
+### Website
 
 {% embed url="https://k9rockettech.com/" %}
 
-YouTube Channel
+### YouTube Channel
 
 {% embed url="https://www.youtube.com/channel/UC-zGZULEaXRTTgkiC-CAJVQ/featured" %}
 
-GitHub
+### GitHub
 
 {% embed url="https://github.com/Canine-Rocket-Technologies" %}
 
-Hackaday.io
+### Hackaday.io
 
 {% embed url="https://hackaday.io/caninerockettechnologies" %}
 
-Thingiverse
+### Thingiverse
 
 {% embed url="https://www.thingiverse.com/caninerockettechnologies/designs" %}
 
-Printables
+### Printables
 
 {% embed url="https://www.printables.com/social/8289-canine-rocket-technologies/models" %}
 

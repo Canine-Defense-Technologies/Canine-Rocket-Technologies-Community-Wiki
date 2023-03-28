@@ -2,7 +2,7 @@
 
 * [🐺 Canine Rocket Technologies Wiki](README.md)
   * [Wiki Index](canine-rocket-technologies-wiki/wiki-index.md)
-  * [About Canine Rocket Tech](canine-rocket-technologies-wiki/about-canine-rocket-tech.md)
+  * [About Canine Rocket Tech 1](canine-rocket-technologies-wiki/about-canine-rocket-tech-1.md)
   * [Our Lab](canine-rocket-technologies-wiki/our-lab.md)
   * [Canine Rocket Tech Program Structure](canine-rocket-technologies-wiki/canine-rocket-tech-program-structure.md)
 
