@@ -44,10 +44,9 @@
   * [Thermal & Electro-Optics](research-resources/thermal-and-electro-optics.md)
   * [Night Vision Basics](testing-and-documentation/night-vision-basics.md)
 * [📑 Open Development Platforms](open-source-bases/README.md)
-  * [VESC](open-development-platforms/vesc.md)
-  * [Meshtastic ](open-source-bases/meshtastic.md)
-  * [Open HD](open-source-bases/open-hd.md)
-  * [Ardupilot](open-source-bases/ardupilot.md)
+  * [VESC 1](open-development-platforms/vesc-1.md)
+  * [Meshtastic 1](open-development-platforms/meshtastic-1.md)
+  * [Open HD 1](open-development-platforms/open-hd-1.md)
 * [🚚 Vendors & Supply Chain 1](vendors-and-supply-chain-1/README.md)
   * [Electronics Component 1](supply-chain-1/electronics-component-1/README.md)
     * [RPI Locator 1](supply-chain-1/electronics-component-1/rpi-locator-1.md)
@@ -63,7 +62,7 @@
 ## Rocketry Projects
 
 * [K-9 TVC V8 1](rocketry-projects/k-9-tvc-v8.md)
-* [K-9 TVC Gen 2 1](rocketry-projects/k-9-tvc-gen-2-1.md)
+* [K-9 TVC Gen 2 1](rocketry-projects/k-9-tvc-gen-2.md)
 * [K-9 TVC Mega](rocketry-projects/k-9-tvc-mega.md)
 * [K-9 TVC Hopper](rocketry-projects/k-9-tvc-hopper.md)
 * [Model Rocket Landing Legs](rocketry-projects/model-rocket-landing-legs.md)

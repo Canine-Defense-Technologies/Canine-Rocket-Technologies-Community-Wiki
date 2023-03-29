@@ -1,3 +1,0 @@
-# Ardupilot
-
-Ardupilot&#x20;
