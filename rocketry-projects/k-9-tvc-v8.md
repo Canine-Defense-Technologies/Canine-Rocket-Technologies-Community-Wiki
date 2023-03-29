@@ -10,11 +10,11 @@ The K-9 TVC V8 is our legacy 3D printable model rocket thrust vector control gim
 
 **Dev Time Period:** Dec 2018- Aug 2019
 
-**Type: Model Rocket Thrust Vector Control Gimbal**
+**Type:** Model Rocket Thrust Vector Control Gimbal
 
 **Architecture:** K-9 Rocket Ecosystem
 
-**Associated Project(s):** K-9 TVC Gen 2, Model Rocket Leg, K-9 TVC Hopper
+**Associated Project(s):** K-9 TVC Gen 2, K-9 TVC Hopper
 
 **Weight:** 86 grams
 

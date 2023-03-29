@@ -62,8 +62,8 @@
 
 ## Rocketry Projects
 
-* [K-9 TVC V8 1](rocketry-projects/k-9-tvc-v8-1.md)
-* [K-9 TVC Gen 2](rocketry-projects/k-9-tvc-gen-2.md)
+* [K-9 TVC V8 1](rocketry-projects/k-9-tvc-v8.md)
+* [K-9 TVC Gen 2 1](rocketry-projects/k-9-tvc-gen-2-1.md)
 * [K-9 TVC Mega](rocketry-projects/k-9-tvc-mega.md)
 * [K-9 TVC Hopper](rocketry-projects/k-9-tvc-hopper.md)
 * [Model Rocket Landing Legs](rocketry-projects/model-rocket-landing-legs.md)
