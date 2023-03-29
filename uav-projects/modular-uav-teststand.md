@@ -1,2 +1,0 @@
-# Modular UAV Teststand
-

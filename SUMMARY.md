@@ -2,7 +2,7 @@
 
 * [🐺 Canine Rocket Technologies Wiki](README.md)
   * [Wiki Index](canine-rocket-technologies-wiki/wiki-index.md)
-  * [About Canine Rocket Tech 1](canine-rocket-technologies-wiki/about-canine-rocket-tech-1.md)
+  * [About Canine Rocket Tech 1](canine-rocket-technologies-wiki/about-canine-rocket-tech.md)
   * [Our Lab](canine-rocket-technologies-wiki/our-lab.md)
   * [Canine Rocket Tech Program Structure](canine-rocket-technologies-wiki/canine-rocket-tech-program-structure.md)
 
@@ -62,7 +62,7 @@
 
 ## Rocketry Projects
 
-* [K-9 TVC V8](rocketry-projects/k-9-tvc-v8.md)
+* [K-9 TVC V8 1](rocketry-projects/k-9-tvc-v8-1.md)
 * [K-9 TVC Gen 2](rocketry-projects/k-9-tvc-gen-2.md)
 * [K-9 TVC Mega](rocketry-projects/k-9-tvc-mega.md)
 * [K-9 TVC Hopper](rocketry-projects/k-9-tvc-hopper.md)
@@ -72,7 +72,6 @@
 
 ## UAV Projects
 
-* [Modular UAV Teststand](uav-projects/modular-uav-teststand.md)
 * [Valor sUAS](uav-projects/valor-suas/README.md)
   * [Introduction to Valor sUAs](uav-projects/valor-suas/introduction-to-valor-suas.md)
   * [Page 1](uav-projects/valor-suas/page-1.md)
