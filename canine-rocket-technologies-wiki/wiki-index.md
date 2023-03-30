@@ -42,7 +42,7 @@ Tools and references for testing and validation along with documentation&#x20;
 
 <details>
 
-<summary><a href="../page-3.md">Research Resources</a></summary>
+<summary><a href="../research-resources-1/">Research Resources</a></summary>
 
 Library of resources to research various topics for projects. This includes studying basic theory and application.&#x20;
 
@@ -50,7 +50,7 @@ Library of resources to research various topics for projects. This includes stud
 
 <details>
 
-<summary><a href="../open-source-bases/">Open Source Bases</a></summary>
+<summary><a href="../open-development-platforms-1/">Open Source Bases</a></summary>
 
 List and resources of other open source projects and design architectures we utilize in our projects.&#x20;
 
