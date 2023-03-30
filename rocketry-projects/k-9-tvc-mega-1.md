@@ -6,7 +6,7 @@ K-9 TVC Gimbal MEGA was an experimental project to try and develop a possible TV
 
 ## Stats
 
-**Status:** Experimental
+**Status:** Experimental/Dormant
 
 **Dev Time Period:** Dec 2019 - Jan 2020
 
