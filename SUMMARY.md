@@ -64,8 +64,8 @@
 * [K-9 TVC V8 1](rocketry-projects/k-9-tvc-v8.md)
 * [K-9 TVC Gen 2 1](rocketry-projects/k-9-tvc-gen-2.md)
 * [K-9 TVC Mega 1](rocketry-projects/k-9-tvc-mega-1.md)
-* [K-9 TVC Hopper](rocketry-projects/k-9-tvc-hopper.md)
-* [Model Rocket Landing Legs](rocketry-projects/model-rocket-landing-legs.md)
+* [K-9 TVC Hopper 1](rocketry-projects/k-9-tvc-hopper-1.md)
+* [Model Rocket Landing Legs 1](rocketry-projects/model-rocket-landing-legs-1.md)
 * [WOOF Launch Computer](rocketry-projects/woof-launch-computer.md)
 * [Model Rocket GCS](rocketry-projects/model-rocket-gcs.md)
 
