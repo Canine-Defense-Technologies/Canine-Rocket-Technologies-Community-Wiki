@@ -88,3 +88,8 @@
   * [Battery Module Assembly Manual](other-projects/k-flow-papr/battery-module-assembly-manual.md)
   * [Hood Assembly Manual](other-projects/k-flow-papr/hood-assembly-manual.md)
   * [Testing the PAPR](other-projects/k-flow-papr/testing-the-papr.md)
+* [Copy of K-FLOW PAPR](other-projects/copy-of-k-flow-papr/README.md)
+  * [Blower Module Assembly Manual](other-projects/copy-of-k-flow-papr/blower-module-assembly-manual.md)
+  * [Battery Module Assembly Manual](other-projects/copy-of-k-flow-papr/battery-module-assembly-manual.md)
+  * [Hood Assembly Manual](other-projects/copy-of-k-flow-papr/hood-assembly-manual.md)
+  * [Testing the PAPR](other-projects/copy-of-k-flow-papr/testing-the-papr.md)
