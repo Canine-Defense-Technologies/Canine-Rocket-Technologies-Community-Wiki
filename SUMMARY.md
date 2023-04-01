@@ -66,7 +66,7 @@
 * [K-9 TVC Mega 1](rocketry-projects/k-9-tvc-mega-1.md)
 * [K-9 TVC Hopper 1](rocketry-projects/k-9-tvc-hopper-1.md)
 * [Model Rocket Landing Legs 1](rocketry-projects/model-rocket-landing-legs-1.md)
-* [WOOF Launch Computer](rocketry-projects/woof-launch-computer/README.md)
+* [WOOF Launch Computer](rocketry-projects/woof-launch-computer.md)
   * [Assembly Instructions](rocketry-projects/woof-launch-computer/assembly-instructions.md)
 * [Model Rocket GCS](rocketry-projects/model-rocket-gcs.md)
 
