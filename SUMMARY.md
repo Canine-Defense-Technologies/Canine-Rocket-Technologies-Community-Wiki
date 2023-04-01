@@ -3,8 +3,8 @@
 * [🐺 Canine Rocket Technologies Wiki](README.md)
   * [Wiki Index](canine-rocket-technologies-wiki/wiki-index.md)
   * [About Canine Rocket Tech 1](canine-rocket-technologies-wiki/about-canine-rocket-tech.md)
-  * [Our Lab](canine-rocket-technologies-wiki/our-lab.md)
-  * [Canine Rocket Tech Program Structure](canine-rocket-technologies-wiki/canine-rocket-tech-program-structure.md)
+  * [Our Lab 1](canine-rocket-technologies-wiki/our-lab-1.md)
+  * [Canine Rocket Tech Organizational Structure 1](canine-rocket-technologies-wiki/canine-rocket-tech-organizational-structure-1.md)
 
 ## Resource Library
 
@@ -66,8 +66,8 @@
 * [K-9 TVC Mega 1](rocketry-projects/k-9-tvc-mega-1.md)
 * [K-9 TVC Hopper 1](rocketry-projects/k-9-tvc-hopper-1.md)
 * [Model Rocket Landing Legs 1](rocketry-projects/model-rocket-landing-legs-1.md)
-* [WOOF Launch Computer](rocketry-projects/woof-launch-computer.md)
-  * [Assembly Instructions](rocketry-projects/woof-launch-computer/assembly-instructions.md)
+* [WOOF Launch Computer 1](rocketry-projects/woof-launch-computer-1/README.md)
+  * [Assembly Instructions 1](rocketry-projects/woof-launch-computer-1/assembly-instructions-1.md)
 * [Model Rocket GCS](rocketry-projects/model-rocket-gcs.md)
 
 ## UAV Projects

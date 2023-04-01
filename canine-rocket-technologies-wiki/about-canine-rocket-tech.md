@@ -1,6 +1,6 @@
 # About Canine Rocket Tech 1
 
-<mark style="color:blue;">Our Mission</mark>: Rapidly build, test, and deploy the best open architecture tactical systems, drones, rockets, and more.
+### Our Mission: Rapidly build, test, and deploy the best open architecture tactical systems, drones, rockets, and more.
 
 We are Canine Rocket Technologies, a multidisciplinary open architecture hardware development program founded by Yukon in 2018. We started with designing and developing small-scale advanced rocketry components. We've now scaled up, taking on much more challenging projects while preserving the novel hardware development methods tuned to perfection from our early days.
 
