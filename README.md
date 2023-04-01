@@ -28,7 +28,7 @@ Click "Wiki Index" below to get started!
 
 ## Wiki Info
 
-**Wiki Manager:** Yukon
+**Wiki Author:** Yukon
 
 **License:** [CC BY-NC 3.0](https://creativecommons.org/licenses/by-nc/3.0/)
 
