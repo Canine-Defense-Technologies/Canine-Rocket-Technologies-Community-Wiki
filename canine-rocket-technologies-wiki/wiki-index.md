@@ -50,7 +50,7 @@ Library of resources to research various topics for projects. This includes stud
 
 <details>
 
-<summary><a href="../open-development-platforms-1/">Open Source Bases</a></summary>
+<summary><a href="../open-development-platforms/">Open Source Bases</a></summary>
 
 List and resources of other open source projects and design architectures we utilize in our projects.&#x20;
 
@@ -58,7 +58,7 @@ List and resources of other open source projects and design architectures we uti
 
 <details>
 
-<summary><a href="../vendors-and-supply-chain-1/">Supply Chain</a></summary>
+<summary><a href="../vendors-and-supply-chain/">Supply Chain</a></summary>
 
 List of suppliers with our personal reviews along with Bills of Material tools.
 
@@ -76,13 +76,13 @@ List of suppliers with our personal reviews along with Bills of Material tools.
 
 [K-9 TVC Gen 2](../rocketry-projects/k-9-tvc-gen-2.md)
 
-[K-9 TVC Mega](../rocketry-projects/k-9-tvc-mega-1.md)
+[K-9 TVC Mega](../rocketry-projects/k-9-tvc-mega.md)
 
-[K-9 TVC Hopper](../rocketry-projects/k-9-tvc-hopper-1.md)
+[K-9 TVC Hopper](../rocketry-projects/k-9-tvc-hopper.md)
 
-[Model Rocket Landing Legs](../rocketry-projects/model-rocket-landing-legs-1.md)
+[Model Rocket Landing Legs](../rocketry-projects/model-rocket-landing-legs.md)
 
-[WOOF Launch Computer](../rocketry-projects/woof-launch-computer-1/)
+[WOOF Launch Computer](../rocketry-projects/woof-launch-computer/)
 
 [Model Rocket GCS](../rocketry-projects/model-rocket-gcs.md)
 
