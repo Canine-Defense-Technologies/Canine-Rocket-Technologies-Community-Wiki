@@ -1,2 +1,0 @@
-# Battery Module Assembly Manual
-
