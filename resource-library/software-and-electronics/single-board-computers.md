@@ -40,3 +40,5 @@ The NVIDIA Jetson is an enterprise-level SBC designed for autonomy and AI. It's 
 Due to the chip shortage and other supply chain problems at the time of this writing, Raspberry Pis have been incredibly hard to purchase. The only option is from sellers who are marking up the price by sometimes 10 folds. Luckily [Linus Tech Tips](https://www.youtube.com/@LinusTechTips) has a great video comparing the various alternative SBCs you may have never heard of.
 
 {% embed url="https://youtu.be/uJvCVw1yONQ" %}
+Wow, you're actually reading this... The first person to read this and DM us "Tango Down" via Twitter will win a free Canine Rocket Technologies sticker pack!
+{% endembed %}

@@ -42,7 +42,7 @@ Tools and references for testing and validation along with documentation&#x20;
 
 <details>
 
-<summary><a href="../research-resources-1/">Research Resources</a></summary>
+<summary><a href="../research-resources/">Research Resources</a></summary>
 
 Library of resources to research various topics for projects. This includes studying basic theory and application.&#x20;
 
