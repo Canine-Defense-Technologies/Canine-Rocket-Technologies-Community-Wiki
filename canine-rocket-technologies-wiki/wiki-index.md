@@ -72,19 +72,19 @@ List of suppliers with our personal reviews along with Bills of Material tools.
 
 <summary>Rocketry Projects</summary>
 
-K-9 TVC V8
+[K-9 TVC V8](../rocketry-projects/k-9-tvc-v8.md)
 
-K-9 TVC Gen 2
+[K-9 TVC Gen 2](../rocketry-projects/k-9-tvc-gen-2.md)
 
-K-9 TVC Mega
+[K-9 TVC Mega](../rocketry-projects/k-9-tvc-mega-1.md)
 
-K-9 TVC Hopper
+[K-9 TVC Hopper](../rocketry-projects/k-9-tvc-hopper-1.md)
 
-Model Rocket Landing Legs
+[Model Rocket Landing Legs](../rocketry-projects/model-rocket-landing-legs-1.md)
 
-WOOF Launch Computer
+[WOOF Launch Computer](../rocketry-projects/woof-launch-computer-1/)
 
-Model Rocket GCS
+[Model Rocket GCS](../rocketry-projects/model-rocket-gcs.md)
 
 </details>
 
@@ -92,9 +92,7 @@ Model Rocket GCS
 
 <summary>UAV Projects</summary>
 
-Modular UAV Teststand
-
-Valor sUAS
+[Valor sUAS](../uav-projects/valor-suas/)
 
 </details>
 
