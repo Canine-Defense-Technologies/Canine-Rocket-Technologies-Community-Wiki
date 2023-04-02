@@ -1,5 +1,5 @@
 ---
-cover: ../.gitbook/assets/VALOR.gif
+cover: ../../.gitbook/assets/VALOR.gif
 coverY: 7.617625093353249
 ---
 

@@ -1,4 +1,9 @@
-# 3D Printing Tolerance Guide 1
+---
+cover: ../../../.gitbook/assets/adasadad.jpg
+coverY: 57
+---
+
+# 3D Printing Tolerance Guide
 
 {% hint style="info" %}
 This is our internally researched and developed reference

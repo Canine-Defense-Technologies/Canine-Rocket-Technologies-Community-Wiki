@@ -1,4 +1,9 @@
-# Material Library 1
+---
+cover: ../../../.gitbook/assets/iStock-1136215999.jpg
+coverY: 0
+---
+
+# Material Library
 
 {% hint style="info" %}
 This is our internal research and developed reference
@@ -153,6 +158,3 @@ Nylon isn't an easy material to work with and can be very expensive, but it yiel
 </details>
 
 <table><thead><tr><th>Model</th><th data-type="rating" data-max="5">Our Rating</th><th>Price per KG</th><th>Notes</th></tr></thead><tbody><tr><td>Polymaker Polymide PA12-CF</td><td>4</td><td>$140</td><td>Best Carbon Fiber reinforced nylon for humid applications, absolutely durable prints, but very expensive.</td></tr><tr><td>Polymaker Polymide PA6-CF</td><td>5</td><td>$70</td><td>Best Carbon Fiber reinforced nylon overall in terms of price and performance. Being PA-6, it will absorb more moisture. Has better mechanical properties than PA-12.</td></tr></tbody></table>
-
-
-

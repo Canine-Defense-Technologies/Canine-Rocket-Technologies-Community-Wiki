@@ -3,7 +3,7 @@ cover: ../../.gitbook/assets/50-01-5986189.jpg
 coverY: 0
 ---
 
-# Microcontrollers 1
+# Microcontrollers
 
 ## Introduction
 
@@ -25,6 +25,6 @@ Video for beginners to get an overview:
 
 Check out this page for programming an arduino:
 
-{% content-ref url="software-dev-1.md" %}
-[software-dev-1.md](software-dev-1.md)
+{% content-ref url="software-dev.md" %}
+[software-dev.md](software-dev.md)
 {% endcontent-ref %}

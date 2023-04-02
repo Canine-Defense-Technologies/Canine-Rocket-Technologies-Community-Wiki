@@ -2,29 +2,30 @@
 
 * [🐺 Canine Rocket Technologies Wiki](README.md)
   * [Wiki Index](canine-rocket-technologies-wiki/wiki-index.md)
-  * [About Canine Rocket Tech 1](canine-rocket-technologies-wiki/about-canine-rocket-tech.md)
-  * [Our Lab 1](canine-rocket-technologies-wiki/our-lab-1.md)
-  * [Canine Rocket Tech Organizational Structure 1](canine-rocket-technologies-wiki/canine-rocket-tech-organizational-structure-1.md)
+  * [About Canine Rocket Tech](canine-rocket-technologies-wiki/about-canine-rocket-tech.md)
+  * [Our Lab](canine-rocket-technologies-wiki/our-lab.md)
+  * [Canine Rocket Tech Organizational Structure](canine-rocket-technologies-wiki/canine-rocket-tech-organizational-structure.md)
+  * [Wiki Info](canine-rocket-technologies-wiki/wiki-info.md)
 
 ## Resource Library
 
-* [🔧 Manufacturing & Fabrication 1](resource-library/manufacturing-and-fabrication/README.md)
-  * [Laser Cutting 1](resource-library/manufacturing-and-fabrication/laser-cutting.md)
-  * [3D Printing 1](resource-library/manufacturing-and-fabrication/3d-printing/README.md)
-    * [Material Library 1](resource-library/manufacturing-and-fabrication-1/3d-printing-1/material-library-1.md)
-    * [3D Printing Tolerance Guide 1](resource-library/manufacturing-and-fabrication/3d-printing/3d-printing-tolerance-guide.md)
-  * [Composite Layups 1](resource-library/manufacturing-and-fabrication-1/composite-layups-1.md)
-  * [Fasteners 1](resource-library/manufacturing-and-fabrication-1/fasteners-1.md)
-  * [CNC Machining 1](resource-library/manufacturing-and-fabrication/cnc-machining.md)
-* [⚙ Software & Electronics 1](resource-library/software-and-electronics-1/README.md)
-  * [Electronics Basics 1](resource-library/software-and-electronics-1/electronics-basics-1.md)
-  * [Microcontrollers 1](resource-library/software-and-electronics-1/microcontrollers-1.md)
-  * [Single Board Computers](resource-library/software-and-electronics-1/single-board-computers.md)
-  * [PCBs 1](resource-library/software-and-electronics-1/pcbs-1.md)
-  * [Pinouts Book 1](resource-library/software-and-electronics-1/pinouts-book-1.md)
-  * [DIY Lithium Batteries 1](resource-library/software-and-electronics-1/diy-lithium-batteries-1.md)
-  * [Software Dev 1](resource-library/software-and-electronics-1/software-dev-1.md)
-  * [Graphic Design & Video Production 1](resource-library/software-and-electronics-1/graphic-design-and-video-production-1.md)
+* [🔧 Manufacturing & Fabrication](resource-library/manufacturing-and-fabrication/README.md)
+  * [Laser Cutting](resource-library/manufacturing-and-fabrication/laser-cutting.md)
+  * [3D Printing](resource-library/manufacturing-and-fabrication/3d-printing/README.md)
+    * [Material Library](resource-library/manufacturing-and-fabrication/3d-printing/material-library.md)
+    * [3D Printing Tolerance Guide](resource-library/manufacturing-and-fabrication/3d-printing/3d-printing-tolerance-guide.md)
+  * [Composite Layups](resource-library/manufacturing-and-fabrication/composite-layups.md)
+  * [Fasteners](resource-library/manufacturing-and-fabrication/fasteners.md)
+  * [CNC Machining](resource-library/manufacturing-and-fabrication/cnc-machining.md)
+* [⚙ Software & Electronics](resource-library/software-and-electronics/README.md)
+  * [Electronics Basics](resource-library/software-and-electronics/electronics-basics.md)
+  * [Microcontrollers](resource-library/software-and-electronics/microcontrollers.md)
+  * [Single Board Computers](resource-library/software-and-electronics/single-board-computers.md)
+  * [PCBs](resource-library/software-and-electronics/pcbs.md)
+  * [Pinouts Book](resource-library/software-and-electronics/pinouts-book.md)
+  * [DIY Lithium Batteries](resource-library/software-and-electronics/diy-lithium-batteries.md)
+  * [Software Dev](resource-library/software-and-electronics/software-dev.md)
+  * [Graphic Design & Video Production](resource-library/software-and-electronics/graphic-design-and-video-production.md)
 
 ***
 
@@ -72,7 +73,7 @@
 
 ## UAV Projects
 
-* [Valor sUAS](uav-projects/valor-suas.md)
+* [Valor sUAS](uav-projects/valor-suas/README.md)
 
 ## Tactical Projects
 
