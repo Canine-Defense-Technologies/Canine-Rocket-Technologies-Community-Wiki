@@ -79,11 +79,3 @@
 
 * [K-TAC RTE-1](tactical-projects/k-tac-rte-1/README.md)
   * [Assembly Instructions](tactical-projects/k-tac-rte-1/assembly-instructions.md)
-
-## Other Projects
-
-* [K-FLOW PAPR](other-projects/k-flow-papr/README.md)
-  * [Blower Module Assembly Manual](other-projects/k-flow-papr/blower-module-assembly-manual.md)
-  * [Battery Module Assembly Manual](other-projects/k-flow-papr/battery-module-assembly-manual.md)
-  * [Hood Assembly Manual](other-projects/k-flow-papr/hood-assembly-manual.md)
-  * [Testing the PAPR](other-projects/k-flow-papr/testing-the-papr.md)
