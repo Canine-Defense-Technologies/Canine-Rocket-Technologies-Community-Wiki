@@ -102,4 +102,6 @@ List of suppliers with our personal reviews along with Bills of Material tools.
 
 [Black Wolf sUAS](https://youtu.be/dQw4w9WgXcQ)
 
+[VALOR2X Ghost Wolf ](https://youtu.be/dQw4w9WgXcQ)
+
 </details>
