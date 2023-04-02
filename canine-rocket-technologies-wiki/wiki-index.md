@@ -92,7 +92,7 @@ List of suppliers with our personal reviews along with Bills of Material tools.
 
 <summary>UAV Projects</summary>
 
-[Valor sUAS](../uav-projects/valor-suas/)
+[Valor sUAS](../uav-projects/valor-suas.md)
 
 </details>
 
