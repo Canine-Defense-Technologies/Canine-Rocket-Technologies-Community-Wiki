@@ -3,7 +3,7 @@ cover: ../../.gitbook/assets/20200229_223147.jpg
 coverY: 0
 ---
 
-# Composite Layups 1
+# Composite Layups
 
 ## Introduction
 
@@ -17,7 +17,7 @@ Composites are also limited in application by temperature and durability. Althou
 
 The final factor we will mention is the direction of applied forces on the part. Obviously this applies to any mechanical component designed, but even more so for composites. The principles of composites rely on the tensile strength of the fibers with the compressive strength of the epoxy resin. Because fibers are regularly joined in the form of woven fibers, composite structures are incredibly strong when the fibers are running in the direction of the applied load, but incredibly weak when running perpendicular to the applied load (Think of it like 3D printer layer lines). Parts typically need to be designed with this in mind.
 
-<figure><img src="../../.gitbook/assets/image_2022-11-16_170138419.png" alt=""><figcaption><p>Source: <a href="https://www.researchgate.net/figure/i-Effect-of-fibre-orientation-on-the-tensile-strength-of-E-glass-fibre-reinforced-epoxy_fig3_344263514">https://www.researchgate.net/figure/i-Effect-of-fibre-orientation-on-the-tensile-strength-of-E-glass-fibre-reinforced-epoxy_fig3_344263514</a></p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image_2022-11-16_170138419 (1) (1).png" alt=""><figcaption><p>Source: <a href="https://www.researchgate.net/figure/i-Effect-of-fibre-orientation-on-the-tensile-strength-of-E-glass-fibre-reinforced-epoxy_fig3_344263514">https://www.researchgate.net/figure/i-Effect-of-fibre-orientation-on-the-tensile-strength-of-E-glass-fibre-reinforced-epoxy_fig3_344263514</a></p></figcaption></figure>
 
 Deciding whether to utilize composites in your project is an equation of factoring in all the variables mentioned, along with manufacturing time and infrastructure. Objectively carbon fiber is actually relatively cheap, but the tooling infrastructure, time, skills, and complicated design required with larger scale composite parts is where the cost starts to add up exponentially. This is why often times in the enterprise space, composites are exclusively used only when the mass savings of composites is overall beneficial enough to justify the long expensive process (Or for the sake of making something luxurious and expensive just because)
 

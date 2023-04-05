@@ -26,6 +26,5 @@ _Freedom Isn't Free._
 
 _1 Peter 3:14_
 
-__
 
-****
+
