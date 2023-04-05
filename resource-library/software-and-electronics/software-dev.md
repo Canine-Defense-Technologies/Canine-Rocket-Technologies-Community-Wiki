@@ -3,11 +3,11 @@ cover: ../../.gitbook/assets/chris-ried-512801-unsplash.jpg
 coverY: 0
 ---
 
-# Software Dev 1
+# Software Development Tools 1
 
 ## Introduction
 
-Software is how our projects come alive. We focus on developing hardware, not software, but we still use a variety of open-source tools to manage the software onboard our projects. Below are software packages and tools that we have used to write, test, debug, and load software for our projects.&#x20;
+Software is how our projects come alive. Although our primary focus is not software, we still use a variety of open-source tools to manage the software onboard our projects. Below are software packages and tools that we have used to write, test, debug, and load software for our projects.&#x20;
 
 
 
