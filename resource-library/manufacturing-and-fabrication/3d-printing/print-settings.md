@@ -11,6 +11,10 @@ coverY: 262
 
 **Materials:** Polymaker PA-12 CF, Polymaker PA-6, QIDI PA-12 CF
 
+{% hint style="success" %}
+Drying the filament before use for PA nylon is critical for print success! Don't forget to dry the filament before use, and use a dry box when printing.&#x20;
+{% endhint %}
+
 | Setting                          | Values  | Notes                                                                                           |
 | -------------------------------- | ------- | ----------------------------------------------------------------------------------------------- |
 | Nozzle Temp                      | 290C    | Go 300 if your printer can                                                                      |
