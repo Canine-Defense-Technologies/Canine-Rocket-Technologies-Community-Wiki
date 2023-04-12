@@ -3,19 +3,17 @@ cover: ../../.gitbook/assets/chris-ried-512801-unsplash.jpg
 coverY: 0
 ---
 
-# Software Development Tools 1
+# Software Dev
 
 ## Introduction
 
-Software is how our projects come alive. Although our primary focus is not software, we still use a variety of open-source tools to manage the software onboard our projects. Below are software packages and tools that we have used to write, test, debug, and load software for our projects.&#x20;
-
-
+Software is how our projects come alive. We focus on developing hardware, not software, but we still use a variety of open-source tools to manage the software onboard our projects. Below are software packages and tools that we have used to write, test, debug, and load software for our projects.
 
 ## Integrated Development Environments (IDEs)
 
 ### Arduino IDE
 
-Anything microcontroller-related can usually be done with the Arduino Integrated Development Environment (IDE). Although it is recommended for smaller projects, it comes with many software examples and tools to help beginners and professionals alike to write, test, debug, and load software onto microcontrollers. Tools such as the Serial Monitor and Serial Plotter are crucial for testing.&#x20;
+Anything microcontroller-related can usually be done with the Arduino Integrated Development Environment (IDE). Although it is recommended for smaller projects, it comes with many software examples and tools to help beginners and professionals alike to write, test, debug, and load software onto microcontrollers. Tools such as the Serial Monitor and Serial Plotter are crucial for testing.
 
 {% embed url="https://www.arduino.cc/en/software" %}
 
@@ -39,7 +37,7 @@ C++ is the main choice for our software projects, mainly for its stability and r
 
 ### Python
 
-Although not used to run on microcontrollers (most of the time), Python is a great tool to automate tasks and perform calculations. Many simulators and other free and open-source projects are written using Python. It especially pairs well with smaller (but not microcontroller level) computers, such as the Raspberry Pi.&#x20;
+Although not used to run on microcontrollers (most of the time), Python is a great tool to automate tasks and perform calculations. Many simulators and other free and open-source projects are written using Python. It especially pairs well with smaller (but not microcontroller level) computers, such as the Raspberry Pi.
 
 {% embed url="https://www.python.org/downloads" %}
 

@@ -13,6 +13,7 @@
   * [Laser Cutting](resource-library/manufacturing-and-fabrication/laser-cutting.md)
   * [3D Printing](resource-library/manufacturing-and-fabrication/3d-printing/README.md)
     * [Material Library](resource-library/manufacturing-and-fabrication/3d-printing/material-library.md)
+    * [Print Settings](resource-library/manufacturing-and-fabrication/3d-printing/print-settings.md)
     * [3D Printing Tolerance Guide](resource-library/manufacturing-and-fabrication/3d-printing/3d-printing-tolerance-guide.md)
   * [Composite Layups](resource-library/manufacturing-and-fabrication/composite-layups.md)
   * [Fasteners](resource-library/manufacturing-and-fabrication/fasteners.md)

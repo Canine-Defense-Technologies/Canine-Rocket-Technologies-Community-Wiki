@@ -7,27 +7,23 @@ coverY: 0
 
 ## Introduction
 
-Microcontrollers are small but powerful computers for many purposes, one of which is powering our projects. They are compressed into Integrated Circuit (IC) packages, so it is easier to design a small project. What is neat about them is that they are a functioning computer in one package. A processor, RAM, and flash memory are all compressed into one chip. All that's needed is power, some code, and a clock. So, in theory, it can do a lot of things.
-
-Many microcontrollers from different brands feature different specifications, sizes, and even different communication methods. It can be very hard to choose one for a project sometimes, so don't be overwhelmed while searching for a microcontroller. There are many popular choices to choose from for different needs. Below are some good starting points to use for those still searching.
+Microcontrollers are what act as the brains on a lot of our projects. Microcontrollers are essentially compact ICs (integrated Circuits) with a small processor, inputs and outputs, and memory all packed into a tiny chip. They're not full-blown computers like those that are able to display an operating system, but are much rather designed to be compact, power efficient, and simple and robust enough to continuously run and control a system. Microcontrollers are programmable via different standards, but they all follow the same principles. There are a variety of standardized packages and ecosystems microcontrollers fall under, so doing your own research can be overwhelming. Nowadays, there are many community supported ecosystems that cater to different levels of expertises, and the majority of these systems will be sufficient in satisfying the majority of applications. For your convenience, we have listed some great starting points below.
 
 ## Arduino
 
-The Arduino ecosystem is undoubtedly one of the easiest introductions into the world of microcontrollers. They are very simple machines but they can do many things given the code, tools, and expertise. Arduino-based microcontrollers were designed to be easy to use. And paired with the helpful and thoughtul Arduino community, it is very possible to do almost any task on Arduino microcontrollers.
+The Arduino ecosystem is probably one of the easiest introductions into the world of microcontrollers. It's the perfect place to start for new users looking to learn how to use a microcontroller, since it was designed to be easy to use and has a massive online community with millions of users that follows. They take in the C++ codes and runs them in a loop, and with the help of a variety of controllers and sensor breakouts, it can carry out a lot of tasks. The best way to learn Arduino is to find an interesting project and replicating it. The first project most people do is make a LED blink. There are also a lot of great starter kits you can purchase online.
 
-There are many places online to purchace kits that come with an Arduino microcontroller and even some cool things to plug into it. Things like LEDs, buzzers, sensors, buttons, you name it, are in a kit. Good kits on Amazon can go for under $100 USD, and are a great place to start for beginners.
+Start out by reading this article by Arduino:
 
-Here is a great link from the creators of Arduino on how and why Arduino works the way it does.
+{% embed url="https://docs.arduino.cc/learn/starting-guide/whats-arduino#why-arduino" %}
 
-{% embed url="https://docs.arduino.cc/learn/starting-guide/whats-arduino" %}
-
-Here is also a video from GreatScott!, a popular and very helpful YouTuber that specializes in electronics.
+Video for beginners to get an overview:
 
 {% embed url="https://youtu.be/BtLwoNJ6klE" %}
 (Source: GreatScott! YouTube.com)
 {% endembed %}
 
-And if you're really concidering it, here is a page on how you can program your own Arduino.
+Check out this page for programming an arduino:
 
 {% content-ref url="software-dev.md" %}
 [software-dev.md](software-dev.md)
