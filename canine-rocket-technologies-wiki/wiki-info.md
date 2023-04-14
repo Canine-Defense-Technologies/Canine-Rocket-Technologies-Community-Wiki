@@ -4,13 +4,17 @@
 
 <table><thead><tr><th data-type="users" data-multiple></th><th>Role</th></tr></thead><tbody><tr><td><a href="http://localhost:5000/u/MuiZts1GNphi1dkDTCY3ivZH1Os2">Yukon</a></td><td>Manager/ Chief Author</td></tr><tr><td><a href="http://localhost:5000/u/xB2g818Jdkfh3Iflur0zbF68QTj2">llamaking136</a></td><td>Contributor</td></tr><tr><td></td><td></td></tr></tbody></table>
 
-## Contributors
+## Contributors Shoutouts and Credits
 
 {% hint style="success" %}
 THANK YOU to all the people who've contributed to the wiki!
 {% endhint %}
 
-[llamaking136](https://github.com/llamaking136)
+| Contributors                                    | Project Links                                                                              |
+| ----------------------------------------------- | ------------------------------------------------------------------------------------------ |
+| [llamaking136](https://github.com/llamaking136) | [https://codeberg.org/llamaking136/Hildabort](https://codeberg.org/llamaking136/Hildabort) |
+|                                                 |                                                                                            |
+|                                                 |                                                                                            |
 
 
 
