@@ -25,7 +25,8 @@
   * [PCBs](resource-library/software-and-electronics/pcbs.md)
   * [Pinouts Book](resource-library/software-and-electronics/pinouts-book.md)
   * [DIY Lithium Batteries](resource-library/software-and-electronics/diy-lithium-batteries.md)
-  * [Software Dev](resource-library/software-and-electronics/software-dev.md)
+  * [Software Development Tools](resource-library/software-and-electronics/software-dev.md)
+  * [Getting Started with Programming on an Arduino](resource-library/software-and-electronics/getting-started-with-programming-on-an-arduino.md)
   * [Graphic Design & Video Production](resource-library/software-and-electronics/graphic-design-and-video-production.md)
 
 ***

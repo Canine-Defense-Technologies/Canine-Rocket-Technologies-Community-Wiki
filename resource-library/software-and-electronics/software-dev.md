@@ -3,11 +3,11 @@ cover: ../../.gitbook/assets/chris-ried-512801-unsplash.jpg
 coverY: 0
 ---
 
-# Software Dev
+# Software Development Tools
 
 ## Introduction
 
-Software is how our projects come alive. We focus on developing hardware, not software, but we still use a variety of open-source tools to manage the software onboard our projects. Below are software packages and tools that we have used to write, test, debug, and load software for our projects.
+Software is how our projects come alive. Although our primary focus is not software, we still use a variety of open-source tools to manage the software onboard our projects. Below are software packages and tools that we have used to write, test, debug, and load software for our projects.
 
 ## Integrated Development Environments (IDEs)
 
@@ -25,7 +25,7 @@ This is just like the Arduino IDE that can be downloaded and installed, except i
 
 ### Visual Studio Code
 
-Amid its flaws, Visual Studio Code is a (somewhat) free and open-source Integrated Development Environment (IDE). It can handle dozens of languages, syntaxes, configurations, and plugins. Languages such as Python and C++ can be analyzed and ran on the fly. Plugins such as PlatformIO can build, test, and debug microcontroller code all from the comfort of Visual Studio Code.
+Amid its flaws, Visual Studio Code is a (somewhat) free and open-source Integrated Development Environment (IDE). It can handle dozens of languages, configurations, and plugins. Languages such as Python and C++ can be analyzed and ran on the fly. Plugins such as PlatformIO can build, test, and debug microcontroller code all from the comfort of Visual Studio Code.
 
 ## Languages
 
@@ -45,6 +45,6 @@ Although not used to run on microcontrollers (most of the time), Python is a gre
 
 ### PlatformIO
 
-PlatformIO is kind of like the Arduino IDE, but it is more professionaly-driven and has more complicated but configurable aspects to it. It can be installed with Visual Studio Code (another Integraded Development Environment, described above) or it can be installed for the command-line. Either way, it's a great tool for professionals and large/complicated projects.
+PlatformIO is kind of like the Arduino IDE, but it is more professionaly-driven and has more complicated but configurable aspects to it. It can be installed with Visual Studio Code (another Integrated Development Environment, described above) or it can be installed for the command-line. Either way, it's a great tool for professionals and large/complicated projects.
 
 {% embed url="https://docs.platformio.org/en/stable/home/index.html" %}

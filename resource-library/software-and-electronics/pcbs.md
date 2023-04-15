@@ -1,4 +1,4 @@
-# PCBs 1
+# PCBs
 
 ## Introduction
 
@@ -7,19 +7,19 @@ Printed Circuit Boards (PCB)s are a great way to make compact, robust, and far m
 ## How PCBs Work
 
 {% embed url="https://youtu.be/H9pGbLJknDk" %}
-(Source: Techquickie YouTube.com)
+(Source: Techquickie @ YouTube.com)
 {% endembed %}
 
 ## How PCBs Are Made
 
 {% embed url="https://youtu.be/ljOoGyCso8s" %}
-(Source: Strange Parts YouTubecom)
+(Source: Strange Parts @ YouTubecom)
 {% endembed %}
 
 ## Basics of Designing a PCB
 
 {% embed url="https://youtu.be/35YuILUlfGs" %}
-(Source: GreatScott! YouTube.com)
+(Source: GreatScott! @ YouTube.com)
 {% endembed %}
 
 ## EDA
@@ -41,5 +41,5 @@ Click the breakout of interest, then go to documents, then schematics.
 {% endembed %}
 
 {% embed url="https://github.com/adafruit" %}
-All of adafruits product EDA files are up on their github
+All of Adafruit's EDA files are up on their GitHub.
 {% endembed %}
