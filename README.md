@@ -26,5 +26,7 @@ _Freedom Isn't Free._
 
 _1 Peter 3:14_
 
+Special thanks to everyone who's contributed to the wiki! Please head over to [Wiki Contributors & Info.](canine-rocket-technologies-wiki/wiki-info.md)
+
 
 

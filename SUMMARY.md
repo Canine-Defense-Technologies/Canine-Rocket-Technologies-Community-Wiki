@@ -5,7 +5,7 @@
   * [About Canine Rocket Tech](canine-rocket-technologies-wiki/about-canine-rocket-tech.md)
   * [Our Lab](canine-rocket-technologies-wiki/our-lab.md)
   * [Canine Rocket Tech Organizational Structure](canine-rocket-technologies-wiki/canine-rocket-tech-organizational-structure.md)
-  * [Wiki Info](canine-rocket-technologies-wiki/wiki-info.md)
+  * [Wiki Contributors & Info](canine-rocket-technologies-wiki/wiki-info.md)
 
 ## Resource Library
 
