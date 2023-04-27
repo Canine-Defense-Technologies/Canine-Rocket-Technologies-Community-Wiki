@@ -17,6 +17,12 @@ All credits to the respective authors, make sure to give them the credit they de
 A great overiew into the basic principles of military EO/IR by Dr. Johnathan Partee.
 {% endembed %}
 
+Great article by the IDA on the basic theory and concepts of EO/IR systems. A good read after familiarizing yourself with basic EO/IR examples.&#x20;
+
+{% embed url="https://www.ida.org/-/media/feature/publications/a/at/a-tutorial-on-e-lectro--opticalinfrared-eoir-theory-and-systems/ida-document-d-4642.ashx" %}
+Credit: Institue For Defense Analyses
+{% endembed %}
+
 ## Thermal Camouflage
 
 {% embed url="https://youtu.be/8fbKZze_J4c" %}
