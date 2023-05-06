@@ -3,7 +3,7 @@ cover: ../../.gitbook/assets/DSCN2407.jpg
 coverY: 38.283987915407856
 ---
 
-# Graphic Design & Video Production 1
+# Graphic Design & Video Production
 
 ## Introduction&#x20;
 
@@ -34,3 +34,9 @@ We have found Shotcut to be glitchy, especially after updates! To prevent lost p
 Stickermule offers free browser-based tools for simple graphic editing! Stickermule Studio has been a really great tool for creating graphics in a rush on the go for us personally. The background remover and upscale tool is also really handy for general use (in our experience, it works better than some of the graphics tools we use every day!).&#x20;
 
 {% embed url="https://www.stickermule.com/tools" %}
+
+## Photo Mosh
+
+Add cool glitch effects to images and videos with this cool online tool!
+
+{% embed url="https://photomosh.com/" %}

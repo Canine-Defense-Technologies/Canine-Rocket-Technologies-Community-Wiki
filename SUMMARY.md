@@ -42,7 +42,7 @@
   * [eCalc](design-and-simulation/ecalc.md)
   * [Open Rocket Simulator](design-and-simulation/open-rocket-simulator.md)
   * [XFLRR5](design-and-simulation/xflrr5.md)
-  * [HeyWhatsThat](design-and-simulation/heywhatsthat.md)
+  * [Radio Line of Sight Tools](design-and-simulation/radio-line-of-sight-tools.md)
 * [💡 Research Resources](research-resources/README.md)
   * [Parachute Design](research-resources/parachute-design.md)
   * [Thermal & Electro-Optics](research-resources/thermal-and-electro-optics.md)
