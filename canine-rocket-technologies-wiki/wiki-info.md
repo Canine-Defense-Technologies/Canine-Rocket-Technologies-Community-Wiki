@@ -2,7 +2,11 @@
 
 ## Contribution Team
 
-<table><thead><tr><th data-type="users" data-multiple></th><th>Role</th></tr></thead><tbody><tr><td><a href="http://localhost:5000/u/MuiZts1GNphi1dkDTCY3ivZH1Os2">Yukon</a></td><td>Manager/ Chief Author</td></tr><tr><td><a href="http://localhost:5000/u/xB2g818Jdkfh3Iflur0zbF68QTj2">llamaking136</a></td><td>Contributor/Electronic &#x26; Software Article Author</td></tr><tr><td></td><td></td></tr></tbody></table>
+|                                                 | Role                                             |
+| ----------------------------------------------- | ------------------------------------------------ |
+| [Yukon](https://github.com/Yukonus)             | Manager/ Editor in Chief                         |
+| [llamaking136](https://github.com/llamaking136) | Contributor/Electronic & Software Article Author |
+| [Jcodefox](https://github.com/JCodeFox)         | Conturbtior/Software & Computer Technologies     |
 
 ## Contributors, Shoutouts, & Credits
 
@@ -13,7 +17,7 @@ THANK YOU to all the people who've contributed to the wiki! Please check out the
 | Contributors                                    | Project Links                                                                              |
 | ----------------------------------------------- | ------------------------------------------------------------------------------------------ |
 | [llamaking136](https://github.com/llamaking136) | [https://codeberg.org/llamaking136/Hildabort](https://codeberg.org/llamaking136/Hildabort) |
-|                                                 |                                                                                            |
+| [Jcodefox](https://github.com/JCodeFox)         | [https://jcodefox.itch.io/](https://jcodefox.itch.io/)                                     |
 |                                                 |                                                                                            |
 
 

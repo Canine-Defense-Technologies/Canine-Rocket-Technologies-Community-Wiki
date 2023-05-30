@@ -64,8 +64,6 @@ List of suppliers with our personal reviews along with Bills of Material tools.
 
 </details>
 
-##
-
 ## Project Library
 
 <details>

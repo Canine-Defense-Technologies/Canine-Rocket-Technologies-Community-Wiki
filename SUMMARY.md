@@ -82,6 +82,3 @@
 
 * [K-TAC RTE-1](tactical-projects/k-tac-rte-1/README.md)
   * [Assembly Instructions](tactical-projects/k-tac-rte-1/assembly-instructions.md)
-## Test
-* [Test 1](canine-rocket-technologies-wiki/test-file-1.md)
-* [Test 2](canine-rocket-technologies-wiki/test-file-2.md)
