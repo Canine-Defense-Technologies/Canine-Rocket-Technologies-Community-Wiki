@@ -50,6 +50,7 @@
 * [📑 Open Development Platforms](open-development-platforms/README.md)
   * [VESC](open-development-platforms/vesc.md)
   * [Meshtastic](open-development-platforms/meshtastic.md)
+  * [Ardupilot](open-development-platforms/ardupilot.md)
   * [Open HD](open-development-platforms/open-hd.md)
 * [🚚 Vendors & Supply Chain](vendors-and-supply-chain/README.md)
   * [Electronics Component](vendors-and-supply-chain/electronics-component/README.md)
