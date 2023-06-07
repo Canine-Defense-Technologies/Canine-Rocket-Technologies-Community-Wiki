@@ -1,5 +1,5 @@
 ---
-description: Convert old PC and Monitors to a permanent dashboard
+description: Convert s old PC and Monitor to a permanent dashboard
 cover: ../../.gitbook/assets/image_2023-06-07_172732144.png
 coverY: -55
 ---
