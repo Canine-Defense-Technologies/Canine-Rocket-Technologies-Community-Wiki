@@ -2,8 +2,8 @@
 
 ## Choosing your operating system: Android x86&#x20;
 
-{% hint style="info" %}
-Make sure you **backup any important data** from your PC before attempting to flash a new OS! The flashing process may likely lead to all your data getting wiped!
+{% hint style="danger" %}
+Make sure you **back up any important data** from your PC before attempting to flash a new OS! The flashing process may likely lead to **a complete loss of all data** on the PC.
 {% endhint %}
 
 The key to setting up a dashboard on an old PC is to use a lightweight operating system. In our case, we tested Debian Linux which struggled to run even the basic ADSB application on a browser. The choice was made to flash Android x86 and run the much lighter ADSB Android app from Radarbox. The choice of the operating system will vary by what information you are looking for, so make sure to do your research and select the appropriate options.&#x20;

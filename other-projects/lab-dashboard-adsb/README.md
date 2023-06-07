@@ -10,26 +10,5 @@ coverY: -55
 
 <figure><img src="../../.gitbook/assets/20230607_171848[1].jpg" alt=""><figcaption></figcaption></figure>
 
-Old PC workstations and monitors can be turned into permanent dashboards for your labs. The dashboard can display various information such as notifications, various smart device statuses, camera feeds, etc. In our case we truned out dashboard into an ADSB monitor for live updates on aviation happening around us. This is overall a great use of old computers that are too slow to&#x20;
+Old PC workstations and monitors can be turned into permanent dashboards for your labs. The dashboard can display various information such as notifications, various smart device statuses, camera feeds, etc. In our case, we turned our dashboard into an ADSB monitor for live updates on aviation happening around us. This is overall great use of both old computers that are too slow to be useful for anything and older monitors that may not have much use.&#x20;
 
-k
-
-k
-
-k
-
-k
-
-k
-
-k
-
-k
-
-k
-
-k
-
-k
-
-k
