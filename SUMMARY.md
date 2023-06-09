@@ -84,7 +84,7 @@
 * [K-TAC RTE-1](tactical-projects/k-tac-rte-1/README.md)
   * [Assembly Instructions](tactical-projects/k-tac-rte-1/assembly-instructions.md)
 
-## Other Projects
+## Lab Equipment Projects
 
-* [Lab Dashboard (ADSB)](other-projects/lab-dashboard-adsb/README.md)
-  * [How to Setup](other-projects/lab-dashboard-adsb/how-to-setup.md)
+* [Lab Dashboard (ADSB)](lab-equipment-projects/lab-dashboard-adsb/README.md)
+  * [How to Setup](lab-equipment-projects/lab-dashboard-adsb/how-to-setup.md)

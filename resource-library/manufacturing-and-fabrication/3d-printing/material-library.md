@@ -158,3 +158,15 @@ Nylon isn't an easy material to work with and can be very expensive, but it yiel
 </details>
 
 <table><thead><tr><th>Model</th><th data-type="rating" data-max="5">Our Rating</th><th>Price per KG</th><th>Notes</th></tr></thead><tbody><tr><td>Polymaker Polymide PA12-CF</td><td>4</td><td>$140</td><td>Best Carbon Fiber reinforced nylon for humid applications, absolutely durable prints, but very expensive.</td></tr><tr><td>Polymaker Polymide PA6-CF</td><td>5</td><td>$70</td><td>Best Carbon Fiber reinforced nylon overall in terms of price and performance. Being PA-6, it will absorb more moisture. Has better mechanical properties than PA-12.</td></tr><tr><td>Qidi Tech PA12-CF</td><td>5</td><td>$100</td><td>Very close to Polymaker PA-12-CF but cheaper. Seems to be slighty weaker but yields very clean prints.</td></tr></tbody></table>
+
+## Cleaning Filament
+
+<details>
+
+<summary>Best Application</summary>
+
+Cleaning filament helps to capture any debris captured inside the hotend and clean/purge out the old material. Regular use of cleaning filament will not only ensure the longetivity of your hot end, but prevent clogs, and even in some circumstances help unclog small obstructions. It's a great addition to your 3D printing maintenance toolbox. Where cleaning filament really shines is with materials with additives such as composite filaments. We regularly purge our hotends with cleaning filament every so often when using composite filaments to prevent a jam.&#x20;
+
+</details>
+
+<table><thead><tr><th>Model</th><th data-type="rating" data-max="5">Our Rating</th><th>Price per KG</th><th>Notes</th></tr></thead><tbody><tr><td>eSUN Cleaning Filament</td><td>5</td><td>$120 (sold for $12 for 100 grams)</td><td>This cleaning filament has expanding propertise, so it really catches every bit of small foriegn debris trapped. We really like this cleaning filament.</td></tr></tbody></table>

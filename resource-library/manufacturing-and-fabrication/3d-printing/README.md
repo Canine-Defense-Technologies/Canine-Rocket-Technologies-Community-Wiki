@@ -4,7 +4,7 @@ cover: ../../../.gitbook/assets/MVI_3624_Moment.jpg
 coverY: 0
 ---
 
-# 3D Printing 1
+# 3D Printing
 
 ## Introduction
 
@@ -91,3 +91,11 @@ For new users, machines like the Prusa Mini are a much better value and easier t
 This printer is FAST! The SL1S. Is the SL1S the best value compared to other resin printers? A fair assessment would be dependent on what you value, side to side (negating the higher print speed and build quality) the SL1S would offer a small marginal advantage to other printer brands. Resin printers are simple machines, so a budget resin printer will offer you very good print quality just like an expensive one. The SL1S is in some ways a very refined machine that fits into the Prusa ecosystem very well, however, it may not be the best value for most users.&#x20;
 
 {% embed url="https://www.prusa3d.com/category/original-prusa-sl1s-speed/" %}
+
+## Filament Dryer Box
+
+### Sunlu S1
+
+<figure><img src="../../../.gitbook/assets/sunlu.png" alt=""><figcaption></figcaption></figure>
+
+The Sunlu S1 is an affordable filament dryer we use for printing PA and PETG filaments. Aside from the cheap build quality, it's been a reliable system that's kept even very hygroscopic materials like PA-6 in printing condition for very long periods of time. The S1 has been a great tool for drying out moisture-stricken PLA and PETG. However, the 55°C max temperature was insufficient in drying out very moisture-sensitive materials such as PA nylons. In those cases, the S1 was more or less a dry box than a dryer box.&#x20;
