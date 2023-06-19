@@ -42,6 +42,7 @@
   * [eCalc](design-and-simulation/ecalc.md)
   * [Open Rocket Simulator](design-and-simulation/open-rocket-simulator.md)
   * [XFLRR5](design-and-simulation/xflrr5.md)
+  * [CloudRF](design-and-simulation/cloudrf.md)
   * [Radio/Optic Line of Sight Tools](design-and-simulation/radio-optic-line-of-sight-tools.md)
 * [💡 Research Resources](research-resources/README.md)
   * [Parachute Design](research-resources/parachute-design.md)
@@ -78,6 +79,7 @@
 ## UAV Projects
 
 * [Valor sUAS](uav-projects/valor-suas/README.md)
+* [K-9 Drone Battery Standard](uav-projects/k-9-drone-battery-standard.md)
 
 ## Tactical Projects
 
