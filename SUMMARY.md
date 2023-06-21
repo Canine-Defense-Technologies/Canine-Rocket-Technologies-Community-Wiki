@@ -33,6 +33,7 @@
 
 * [📘 Testing & Documentation](testing-and-documentation/README.md)
   * [Project Stats Template](testing-and-documentation/project-stats-template.md)
+  * [K-9 Diagram Template](testing-and-documentation/k-9-diagram-template.md)
   * [Internal Dev Log Template](testing-and-documentation/internal-dev-log-template.md)
   * [Readme Creator](testing-and-documentation/readme-creator.md)
   * [April Tags](testing-and-documentation/april-tags.md)
