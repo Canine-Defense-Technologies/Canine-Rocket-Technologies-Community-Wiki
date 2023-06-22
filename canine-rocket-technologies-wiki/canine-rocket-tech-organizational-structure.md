@@ -1,4 +1,4 @@
-# Canine Rocket Tech Project Structure
+# Canine Rocket Tech Organizational Structure
 
 ## Data & Content Management Workflow
 
@@ -7,3 +7,5 @@
 ## Rapid Hardware Development Workflow
 
 <figure><img src="../.gitbook/assets/K-Tech Rapid Devloepment Workflow.png" alt=""><figcaption></figcaption></figure>
+
+For&#x20;

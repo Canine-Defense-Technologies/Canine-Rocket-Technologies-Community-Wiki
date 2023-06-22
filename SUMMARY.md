@@ -32,6 +32,7 @@
 ***
 
 * [📘 Testing & Documentation](testing-and-documentation/README.md)
+  * [Documentation Organization Cheatsheet](testing-and-documentation/documentation-organization-cheatsheet.md)
   * [Project Stats Template](testing-and-documentation/project-stats-template.md)
   * [K-9 Diagram Template](testing-and-documentation/k-9-diagram-template.md)
   * [Internal Dev Log Template](testing-and-documentation/internal-dev-log-template.md)
@@ -80,7 +81,9 @@
 ## UAV Projects
 
 * [Valor sUAS](uav-projects/valor-suas/README.md)
-* [K-9 Drone Battery Standard](uav-projects/k-9-drone-battery-standard.md)
+* [K-9 Drone Battery Standard](uav-projects/k-9-drone-battery-standard/README.md)
+  * [Page 1](uav-projects/k-9-drone-battery-standard/page-1.md)
+  * [Rugged Battery Charger](uav-projects/k-9-drone-battery-standard/rugged-battery-charger.md)
 
 ## Tactical Projects
 
