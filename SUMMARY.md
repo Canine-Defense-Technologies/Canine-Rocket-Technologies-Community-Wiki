@@ -32,7 +32,7 @@
 ***
 
 * [📘 Testing & Documentation](testing-and-documentation/README.md)
-  * [Documentation Organization Cheatsheet](testing-and-documentation/documentation-organization-cheatsheet.md)
+  * [Documentation & Organization Cheatsheet](testing-and-documentation/documentation-and-organization-cheatsheet.md)
   * [Project Stats Template](testing-and-documentation/project-stats-template.md)
   * [K-9 Diagram Template](testing-and-documentation/k-9-diagram-template.md)
   * [Internal Dev Log Template](testing-and-documentation/internal-dev-log-template.md)
