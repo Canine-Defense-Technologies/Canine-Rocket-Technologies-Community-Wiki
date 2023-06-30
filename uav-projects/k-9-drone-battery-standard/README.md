@@ -1,6 +1,6 @@
 # K-9 Drone Battery Standard
 
-11111111111111
+1
 
 ## Stats
 

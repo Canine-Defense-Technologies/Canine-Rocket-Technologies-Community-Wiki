@@ -82,7 +82,7 @@
 
 * [Valor sUAS](uav-projects/valor-suas/README.md)
 * [K-9 Drone Battery Standard](uav-projects/k-9-drone-battery-standard/README.md)
-  * [Page 1](uav-projects/k-9-drone-battery-standard/page-1.md)
+  * [Jx-9 Connector Standard](uav-projects/k-9-drone-battery-standard/jx-9-connector-standard.md)
   * [Rugged Battery Charger](uav-projects/k-9-drone-battery-standard/rugged-battery-charger.md)
 
 ## Tactical Projects
