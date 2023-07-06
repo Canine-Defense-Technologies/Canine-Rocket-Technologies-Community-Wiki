@@ -60,6 +60,12 @@ Open Builds Control is another great open-sourced CNC milling CAM suite we have 
 
 {% embed url="https://software.openbuilds.com/" %}
 
+### Candle (GRBL Controller)
+
+Candle is a fully open source CNC-controller application. GRBL offers a&#x20;
+
+{% embed url="https://github.com/Denvi/Candle" %}
+
 ## Hardware
 
 ### "Janky" Ender 3 CNC Conversion
@@ -71,3 +77,7 @@ You heard us right, our primary CNC machine is nicknamed "Janky", it's an Ender 
 Special thanks to [Ben ](https://www.thingiverse.com/thinngimaker)[Briesemeister](https://www.thingiverse.com/thinngimaker)[ ](https://www.thingiverse.com/thinngimaker)for writing a great guide about converting an Ender 3 to a CNC on his Thingiverse page (download the PDF guide).
 
 {% embed url="https://www.thingiverse.com/thing:4845518" %}
+
+### Genmitsu 4040-PRO
+
+The Sain Smart Genmitsu 4040-Pro is an excellent CNC platform for general desktop use. With it's absou. Setup takes only around 15-20 min, and most of the critical tolerence critical axis assmeblies are already pre-assembled. Overall it's a pretty basic CNC with a solid frame to
