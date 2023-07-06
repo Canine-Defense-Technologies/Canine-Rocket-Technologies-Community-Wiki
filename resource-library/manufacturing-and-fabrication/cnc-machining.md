@@ -62,7 +62,7 @@ Open Builds Control is another great open-sourced CNC milling CAM suite we have 
 
 ### Candle (GRBL Controller)
 
-Candle is a fully open source CNC-controller application. GRBL offers a&#x20;
+Candle is a fully open source CNC-controller application based off of GRBL control. We mainly use Candle to run our Genmitsu 4040 PRO CNC. Candle is a relatively basic machine controller than can easily import any G-Code operations to run. We really like the simple to-the-point UI and feature sets. However the lack of features can be a limitting for more complex projects, and most of the machine settings have to be set during the G-code generation process. It would be nice if Candle had even a basic DXF to &#x20;
 
 {% embed url="https://github.com/Denvi/Candle" %}
 
