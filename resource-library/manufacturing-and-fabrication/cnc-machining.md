@@ -62,7 +62,11 @@ Open Builds Control is another great open-sourced CNC milling CAM suite we have 
 
 ### Candle (GRBL Controller)
 
-Candle is a fully open source CNC-controller application based off of GRBL control. We mainly use Candle to run our Genmitsu 4040 PRO CNC. Candle is a relatively basic machine controller than can easily import any G-Code operations to run. We really like the simple to-the-point UI and feature sets. However the lack of features can be a limitting for more complex projects, and most of the machine settings have to be set during the G-code generation process. It would be nice if Candle had even a basic DXF to &#x20;
+Candle is a fully open-source CNC-controller application based on GRBL control. We mainly use Candle to run our Genmitsu 4040 PRO CNC. Candle is a relatively basic machine controller that can easily import any G-Code operations to run. We really like the simple to-the-point UI and feature sets. However the lack of features can be a limiting for more complex projects, and most of the machine settings have to be set during the G-code generation process.&#x20;
+
+{% hint style="warning" %}
+Candle is not a Gcode generator, it is only a machine control interface.&#x20;
+{% endhint %}
 
 {% embed url="https://github.com/Denvi/Candle" %}
 
@@ -72,7 +76,7 @@ Candle is a fully open source CNC-controller application based off of GRBL contr
 
 <figure><img src="../../.gitbook/assets/20220312_205214.jpg" alt=""><figcaption></figcaption></figure>
 
-You heard us right, our primary CNC machine is nicknamed "Janky", it's an Ender 3 converted to a CNC machine. We found this to be a cheap, low-cost way to get started in CNC machining and engraving for new users who enjoy tinkering. Note that the limitations of belts along with the low stiffness of the ender 3 frame makes is a less than suboptimal CNC platform. However, with slow settings, it works very well on wood, carbon fiber, and even aluminum.&#x20;
+You heard us right, our primary CNC machine is nicknamed "Janky", it's an Ender 3 converted to a CNC machine. We found this to be a cheap, low-cost way to get started in CNC machining and engraving for new users who enjoy tinkering. Note that the limitations of belts along with the low stiffness of the ender 3 frame make is a less than suboptimal CNC platform. However, it works very well on wood, carbon fiber, and even aluminum with slow settings.&#x20;
 
 Special thanks to [Ben ](https://www.thingiverse.com/thinngimaker)[Briesemeister](https://www.thingiverse.com/thinngimaker)[ ](https://www.thingiverse.com/thinngimaker)for writing a great guide about converting an Ender 3 to a CNC on his Thingiverse page (download the PDF guide).
 
@@ -80,4 +84,8 @@ Special thanks to [Ben ](https://www.thingiverse.com/thinngimaker)[Briesemeister
 
 ### Genmitsu 4040-PRO
 
-The Sain Smart Genmitsu 4040-Pro is an excellent CNC platform for general desktop use. With it's absou. Setup takes only around 15-20 min, and most of the critical tolerence critical axis assmeblies are already pre-assembled. Overall it's a pretty basic CNC with a solid frame to
+<figure><img src="../../.gitbook/assets/61UuAcMlcsL.jpg" alt=""><figcaption></figcaption></figure>
+
+The Sain Smart Genmitsu 4040-Pro is an excellent CNC platform for general desktop use. Setup takes only around 15-20 min, and most of the tolerance critical axis assemblies are already pre-assembled. Overall it's a pretty basic CNC with an extremely solid frame. A nice touch is all the IO ports pre-built in for upgrades such as a laser with air assist, spindle upgrade, etc. The absolutely solid frame is even strong enough to support an entire router. The 4040 PRO is definitely an excellent machine for its value.&#x20;
+
+{% embed url="https://www.sainsmart.com/products/genmitsu-4040-pro-semi-assembly-desktop-cnc-machine-for-carving-and-cutting?variant=40277984215119&currency=USD&utm_source=google&utm_medium=ppc&utm_campaign=shopping&utm_content=product&gad=1&gclid=Cj0KCQjw756lBhDMARIsAEI0AgmWfDnZGzTW19y3aeYXmDIy6UmehyH_XtNCmC0Vct6BDyopgKPZ4JQaAtCzEALw_wcB" %}
