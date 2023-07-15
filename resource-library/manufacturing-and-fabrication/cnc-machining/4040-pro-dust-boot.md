@@ -27,11 +27,11 @@
 
 ### Step 1
 
-
-
 <figure><img src="../../../.gitbook/assets/20230714_142521.jpg" alt=""><figcaption></figcaption></figure>
 
 Remove supports on the 3D-printed vacuum brush mount.
+
+###
 
 ### Step 2
 
@@ -39,17 +39,17 @@ Remove supports on the 3D-printed vacuum brush mount.
 
 Add the nine M3x3 brass threaded inserts into the holes on the top of the 3D printed part.
 
+###
+
 ### Step 3
-
-
 
 <figure><img src="../../../.gitbook/assets/20230714_162040.jpg" alt=""><figcaption></figcaption></figure>
 
 CNC mill the plexiglass frame panels from the DXF file. Use either a single 6mm plexiglass sheet, or two 3mm sheets.
 
+###
+
 ### Step 4
-
-
 
 <div>
 
@@ -75,23 +75,25 @@ A bezel needs to be cut out on the acrylic sheet part to allow the flat head scr
 
 </div>
 
+###
+
 ### Step 5
 
 <figure><img src="../../../.gitbook/assets/20230714_165840.jpg" alt=""><figcaption></figcaption></figure>
 
 line up and Insert the plexiglass frame on top of the 3D-printed shroud. If you used two 3mm sheets, make a tandem stack ensuring the bezel cut sheet is on top.&#x20;
 
+###
+
 ### Step 6
-
-
 
 <figure><img src="../../../.gitbook/assets/20230714_170122.jpg" alt=""><figcaption></figcaption></figure>
 
 Screw in all nine M3x10 flat head screws around the shroud brass threaded inserts.
 
+###
+
 ### Step 7
-
-
 
 <div>
 
@@ -104,6 +106,8 @@ Screw in all nine M3x10 flat head screws around the shroud brass threaded insert
 </div>
 
 Insert the brush strip into the channel on the bottom of the 3D-printed parts. Make sure to use an adhesive of choice incrementally as you take your time to evenly squeeze in the brush strip. In our case, we used hot glue.&#x20;
+
+###
 
 ### Step 8
 
@@ -129,18 +133,27 @@ Now align the boot against the CNC mill to check the brush length. If the brush 
 Trim incrementally! If it's too long you can always trim it. If you cut it too short, the boot will not be effective at extracting dust.&#x20;
 {% endhint %}
 
+###
+
 ### Step 9
-
-
 
 <figure><img src="../../../.gitbook/assets/20230714_195321.jpg" alt=""><figcaption></figcaption></figure>
 
 Insert the four M3x18mm button head cap screws with the M3 washers on the four holes at the base of the Z-axis carriage.
 
+###
+
 ### Step 10
-
-
 
 <figure><img src="../../../.gitbook/assets/20230714_211907.jpg" alt=""><figcaption></figcaption></figure>
 
 Align the dust boot's four holes with the four screws, and gently tighten on the M3 nuts. There may be some play with the boot, ensure the router can lower into the boot without interference.
+
+
+
+### Step 11
+
+<figure><img src="../../../.gitbook/assets/20230714_213047.jpg" alt=""><figcaption></figcaption></figure>
+
+The build is complete, you can now attach the shop-vac to the vacuum connector. Make sure to check for any possible interferences before operating the CNC & dust boot.&#x20;
+
