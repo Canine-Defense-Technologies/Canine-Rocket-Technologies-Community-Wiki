@@ -89,4 +89,58 @@ line up and Insert the plexiglass frame on top of the 3D-printed shroud. If you 
 
 Screw in all nine M3x10 flat head screws around the shroud brass threaded inserts.
 
-### Step 6
+### Step 7
+
+
+
+<div>
+
+<figure><img src="../../../.gitbook/assets/20230714_170526.jpg" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../../../.gitbook/assets/20230714_170544.jpg" alt=""><figcaption></figcaption></figure>
+
+</div>
+
+Insert the brush strip into the channel on the bottom of the 3D-printed parts. Make sure to use an adhesive of choice incrementally as you take your time to evenly squeeze in the brush strip. In our case, we used hot glue.&#x20;
+
+### Step 8
+
+
+
+<div>
+
+<figure><img src="../../../.gitbook/assets/20230714_195016.jpg" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../../../.gitbook/assets/20230714_171743.jpg" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../../../.gitbook/assets/20230714_184323.jpg" alt=""><figcaption></figcaption></figure>
+
+</div>
+
+Now align the boot against the CNC mill to check the brush length. If the brush is spreading outward, it is too long and will require trimming.
+
+{% hint style="warning" %}
+Trim incrementally! If it's too long you can always trim it. If you cut it too short, the boot will not be effective at extracting dust.&#x20;
+{% endhint %}
+
+### Step 9
+
+
+
+<figure><img src="../../../.gitbook/assets/20230714_195321.jpg" alt=""><figcaption></figcaption></figure>
+
+Insert the four M3x18mm button head cap screws with the M3 washers on the four holes at the base of the Z-axis carriage.
+
+### Step 10
+
+
+
+<figure><img src="../../../.gitbook/assets/20230714_211907.jpg" alt=""><figcaption></figcaption></figure>
+
+Align the dust boot's four holes with the four screws, and gently tighten on the M3 nuts. There may be some play with the boot, ensure the router can lower into the boot without interference.
