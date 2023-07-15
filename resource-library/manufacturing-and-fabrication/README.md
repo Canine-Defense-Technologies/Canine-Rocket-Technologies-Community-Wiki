@@ -16,4 +16,4 @@ None of the products listed is an endorsement, they are simply recommendations o
 
 ### Pages
 
-<table data-view="cards"><thead><tr><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><a href="cnc-machining.md">CNC Machining</a></td><td><a href="cnc-machining.md">cnc-machining.md</a></td></tr><tr><td><a href="laser-cutting.md">Laser Cutting</a></td><td></td></tr><tr><td><a href="3d-printing/">3D Printing</a></td><td></td></tr><tr><td><a href="composite-layups.md">Composite Layup</a></td><td></td></tr><tr><td><a href="fasteners.md">Fasteners</a></td><td></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><a href="cnc-machining/">CNC Machining</a></td><td><a href="cnc-machining/">cnc-machining</a></td></tr><tr><td><a href="laser-cutting.md">Laser Cutting</a></td><td></td></tr><tr><td><a href="3d-printing/">3D Printing</a></td><td></td></tr><tr><td><a href="composite-layups.md">Composite Layup</a></td><td></td></tr><tr><td><a href="fasteners.md">Fasteners</a></td><td></td></tr></tbody></table>

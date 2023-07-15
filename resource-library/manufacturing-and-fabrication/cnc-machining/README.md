@@ -1,6 +1,6 @@
 ---
 description: CNC go brrrrrrrrrrrrrr
-cover: ../../.gitbook/assets/IMG_20220709_155858.jpg
+cover: ../../../.gitbook/assets/IMG_20220709_155858.jpg
 coverY: -174.58610271903322
 ---
 
@@ -38,8 +38,8 @@ Fusion 360 has an advanced integrated CAM (Computer Aided Manufacturing) suite, 
 
 For more information on Fusion 360, check out our documentation in the page below.
 
-{% content-ref url="../../design-and-simulation/computern-aided-design.md" %}
-[computern-aided-design.md](../../design-and-simulation/computern-aided-design.md)
+{% content-ref url="../../../design-and-simulation/computern-aided-design.md" %}
+[computern-aided-design.md](../../../design-and-simulation/computern-aided-design.md)
 {% endcontent-ref %}
 
 ### Easel
@@ -74,7 +74,7 @@ Candle is not a Gcode generator, it is only a machine control interface.&#x20;
 
 ### "Janky" Ender 3 CNC Conversion
 
-<figure><img src="../../.gitbook/assets/20220312_205214.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/20220312_205214.jpg" alt=""><figcaption></figcaption></figure>
 
 You heard us right, our primary CNC machine is nicknamed "Janky", it's an Ender 3 converted to a CNC machine. We found this to be a cheap, low-cost way to get started in CNC machining and engraving for new users who enjoy tinkering. Note that the limitations of belts along with the low stiffness of the ender 3 frame make is a less than suboptimal CNC platform. However, it works very well on wood, carbon fiber, and even aluminum with slow settings.&#x20;
 
@@ -84,7 +84,7 @@ Special thanks to [Ben ](https://www.thingiverse.com/thinngimaker)[Briesemeister
 
 ### Genmitsu 4040-PRO
 
-<figure><img src="../../.gitbook/assets/61UuAcMlcsL.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/61UuAcMlcsL.jpg" alt=""><figcaption></figcaption></figure>
 
 The Sain Smart Genmitsu 4040-Pro is an excellent CNC platform for general desktop use. Setup takes only around 15-20 min, and most of the tolerance critical axis assemblies are already pre-assembled. Overall it's a pretty basic CNC with an extremely solid frame. A nice touch is all the IO ports pre-built in for upgrades such as a laser with air assist, spindle upgrade, etc. The absolutely solid frame is even strong enough to support an entire router. The 4040 PRO is definitely an excellent machine for its value.&#x20;
 
