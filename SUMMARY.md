@@ -1,6 +1,6 @@
 # Table of contents
 
-* [🐺 Canine Rocket Technologies Wiki](README.md)
+* [🐺 Canine Defense Technologies Wiki](README.md)
   * [Wiki Index](canine-rocket-technologies-wiki/wiki-index.md)
   * [About Canine Rocket Tech](canine-rocket-technologies-wiki/about-canine-rocket-tech.md)
   * [Our Lab](canine-rocket-technologies-wiki/our-lab.md)
