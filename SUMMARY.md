@@ -70,28 +70,28 @@
   * [Composites](vendors-and-supply-chain/composites.md)
   * [Li Ion Batteries](vendors-and-supply-chain/li-ion-batteries.md)
 
-## Rocketry Projects
+## Projects
 
-* [K-9 TVC V8](rocketry-projects/k-9-tvc-v8.md)
-* [K-9 TVC Gen 2](rocketry-projects/k-9-tvc-gen-2.md)
-* [K-9 TVC Mega](rocketry-projects/k-9-tvc-mega.md)
-* [K-9 TVC Hopper](rocketry-projects/k-9-tvc-hopper.md)
-* [Model Rocket Landing Legs](rocketry-projects/model-rocket-landing-legs.md)
-* [WOOF Launch Computer](rocketry-projects/woof-launch-computer/README.md)
-  * [Assembly Instructions](rocketry-projects/woof-launch-computer/assembly-instructions.md)
-* [Model Rocket GCS](rocketry-projects/model-rocket-gcs.md)
+* [UAV Systems](projects/uav-systems/README.md)
+  * [Valor sUAS](projects/uav-systems/valor-suas.md)
+  * [K-9 Drone Battery Standard](projects/uav-systems/k-9-drone-battery-standard/README.md)
+    * [Jx-9 Connector Standard](projects/uav-systems/k-9-drone-battery-standard/jx-9-connector-standard.md)
+    * [Rugged Battery Charger](projects/uav-systems/k-9-drone-battery-standard/rugged-battery-charger.md)
 
-## UAV Projects
+***
 
-* [Valor sUAS](uav-projects/valor-suas/README.md)
-* [K-9 Drone Battery Standard](uav-projects/k-9-drone-battery-standard/README.md)
-  * [Jx-9 Connector Standard](uav-projects/k-9-drone-battery-standard/jx-9-connector-standard.md)
-  * [Rugged Battery Charger](uav-projects/k-9-drone-battery-standard/rugged-battery-charger.md)
-
-## Tactical Projects
-
-* [K-TAC RTE-1](tactical-projects/k-tac-rte-1/README.md)
-  * [Assembly Instructions](tactical-projects/k-tac-rte-1/assembly-instructions.md)
+* [Tactical Systems](tactical-systems/README.md)
+  * [K-TAC RTE-1](tactical-systems/k-tac-rte-1/README.md)
+    * [Assembly Instructions](tactical-systems/k-tac-rte-1/assembly-instructions.md)
+* [Rocketry Systems](rocketry-systems/README.md)
+  * [Model Rocket Landing Legs](rocketry-systems/model-rocket-landing-legs.md)
+  * [WOOF Launch Computer](rocketry-systems/woof-launch-computer/README.md)
+    * [Assembly Instructions](rocketry-systems/woof-launch-computer/assembly-instructions.md)
+  * [K-9 TVC V8](rocketry-systems/k-9-tvc-v8.md)
+  * [K-9 TVC Hopper](rocketry-systems/k-9-tvc-hopper.md)
+  * [K-9 TVC Mega](rocketry-systems/k-9-tvc-mega.md)
+  * [K-9 TVC Gen 2](rocketry-systems/k-9-tvc-gen-2.md)
+  * [Model Rocket GCS](rocketry-systems/model-rocket-gcs.md)
 
 ## Lab Equipment Projects
 

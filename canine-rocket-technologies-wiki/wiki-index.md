@@ -70,19 +70,19 @@ List of suppliers with our personal reviews along with Bills of Material tools.
 
 <summary>Rocketry Projects</summary>
 
-[K-9 TVC V8](../rocketry-projects/k-9-tvc-v8.md)
+[K-9 TVC V8](../rocketry-systems/k-9-tvc-v8.md)
 
-[K-9 TVC Gen 2](../rocketry-projects/k-9-tvc-gen-2.md)
+[K-9 TVC Gen 2](../rocketry-systems/k-9-tvc-gen-2.md)
 
-[K-9 TVC Mega](../rocketry-projects/k-9-tvc-mega.md)
+[K-9 TVC Mega](../rocketry-systems/k-9-tvc-mega.md)
 
-[K-9 TVC Hopper](../rocketry-projects/k-9-tvc-hopper.md)
+[K-9 TVC Hopper](../rocketry-systems/k-9-tvc-hopper.md)
 
-[Model Rocket Landing Legs](../rocketry-projects/model-rocket-landing-legs.md)
+[Model Rocket Landing Legs](../rocketry-systems/model-rocket-landing-legs.md)
 
-[WOOF Launch Computer](../rocketry-projects/woof-launch-computer/)
+[WOOF Launch Computer](../rocketry-systems/woof-launch-computer/)
 
-[Model Rocket GCS](../rocketry-projects/model-rocket-gcs.md)
+[Model Rocket GCS](../rocketry-systems/model-rocket-gcs.md)
 
 </details>
 
@@ -90,7 +90,7 @@ List of suppliers with our personal reviews along with Bills of Material tools.
 
 <summary>UAV Projects</summary>
 
-[Valor sUAS](../uav-projects/valor-suas/)
+[Valor sUAS](../projects/uav-systems/valor-suas.md)
 
 </details>
 
