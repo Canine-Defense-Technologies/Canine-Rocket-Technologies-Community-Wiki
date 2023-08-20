@@ -1,20 +1,8 @@
-# About Canine Rocket Tech 1
+# About Canine Defense Tech
 
-### Our Mission: Rapidly build, test, and deploy the best open architecture tactical systems, drones, rockets, and more.
+### "Evolving problems requires open technologies. We will expand the technological capabilities of Americans abroad."
 
-We are Canine Rocket Technologies, a multidisciplinary open architecture hardware development program founded by Yukon in 2018. We started with designing and developing small-scale advanced rocketry components. We've now scaled up, taking on much more challenging projects while preserving the novel hardware development methods tuned to perfection from our early days.
-
-### Open Development & Community
-
-We are all about building our projects into an open ecosystem, offering the freedom for the user to innovate and apply our systems to their respective applications. But we try to go beyond, contributing as much of our work to the public as possible. We want to not only deliver the best hardware solutions but nurture and grow strong communities through educational content and openly sharing our progress.
-
-### Diverse Engineered Solutions
-
-We may have "rocket" in our name hinting at our roots, but it serves as an umbrella term. Rocketry is often revered as the pinnacle of engineering. This is in part both the complexity involved and the diverse range of multidisciplinary skills required. We may have started with rocketry, but we're ready to apply these same skills in drones, tactical systems, and more.
-
-### Canine
-
-Who doesn't love dogs? Although our reliance on animals to finish large tasks have been replaced with machines over a century ago, canines still remain loyal and highly integrated companions. In fact, both humans and canines have adapted together to better integrate their place in the highly evolving technological world. In the same way, we thrive to develop technology that openly adapts and integrates, not temporary solutions.
+Winning back the American Tech Sector can not be attained through expensive large-scale developments like the past. The move foward must be through the rapid deployment of low-cost, open-source systems. During his middle school years in 2018, David a.k.a “Yukon” founded Canine Rocket Technologies as a project to begin self-learning the basics of advanced model rocketry. The scope of the projects gradually expanded to various defense technologies. Today Canine Defense Technologies is a multi-disciplinary hardware engineering company focused on tactical communication and flight system technologies. Our ever-growing work range from tactical radios, drone technology, rocketry sub-systems, underwater robotics, body armor carriers, and more. We will expand the technological capabilities of Americans abroad through the rapid development and deployment of open source technologies.
 
 {% embed url="https://youtu.be/Q15jxF-dg8w" %}
 

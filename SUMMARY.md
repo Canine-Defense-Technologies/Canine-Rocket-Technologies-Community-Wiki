@@ -2,7 +2,7 @@
 
 * [🐺 Canine Defense Technologies Wiki](README.md)
   * [Wiki Index](canine-rocket-technologies-wiki/wiki-index.md)
-  * [About Canine Rocket Tech](canine-rocket-technologies-wiki/about-canine-rocket-tech.md)
+  * [About Canine Defense Tech](canine-rocket-technologies-wiki/about-canine-rocket-tech.md)
   * [Our Lab](canine-rocket-technologies-wiki/our-lab.md)
   * [Canine Rocket Tech Organizational Structure](canine-rocket-technologies-wiki/canine-rocket-tech-organizational-structure.md)
   * [Wiki Contributors & Info](canine-rocket-technologies-wiki/wiki-info.md)
@@ -10,7 +10,7 @@
 ## Resource Library
 
 * [🔧 Manufacturing & Fabrication](resource-library/manufacturing-and-fabrication/README.md)
-  * [Laser Cutting](resource-library/manufacturing-and-fabrication/laser-cutting/README.md)
+  * [Laser Cutting](resource-library/manufacturing-and-fabrication/laser-cutting.md)
     * [Laser Settings](resource-library/manufacturing-and-fabrication/laser-cutting/laser-settings.md)
   * [3D Printing](resource-library/manufacturing-and-fabrication/3d-printing/README.md)
     * [Material Library](resource-library/manufacturing-and-fabrication/3d-printing/material-library.md)
