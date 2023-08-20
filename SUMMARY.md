@@ -10,7 +10,8 @@
 ## Resource Library
 
 * [🔧 Manufacturing & Fabrication](resource-library/manufacturing-and-fabrication/README.md)
-  * [Laser Cutting](resource-library/manufacturing-and-fabrication/laser-cutting.md)
+  * [Laser Cutting](resource-library/manufacturing-and-fabrication/laser-cutting/README.md)
+    * [Laser Settings](resource-library/manufacturing-and-fabrication/laser-cutting/laser-settings.md)
   * [3D Printing](resource-library/manufacturing-and-fabrication/3d-printing/README.md)
     * [Material Library](resource-library/manufacturing-and-fabrication/3d-printing/material-library.md)
     * [Print Settings](resource-library/manufacturing-and-fabrication/3d-printing/print-settings.md)

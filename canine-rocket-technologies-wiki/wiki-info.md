@@ -6,9 +6,9 @@
 | ----------------------------------------------- | ------------------------------------------------ |
 | [Yukon](https://github.com/Yukonus)             | Manager/ Editor in Chief                         |
 | [llamaking136](https://github.com/llamaking136) | Contributor/Electronic & Software Article Author |
-| [Jcodefox](https://github.com/JCodeFox)         | Conturbtior/Software & Computer Technologies     |
+| [Jcodefox](https://github.com/JCodeFox)         | Contributor/Software & Computer Technologies     |
 
-## Contributors, Shoutouts, & Credits
+## Contributors, Shout-outs, & Credits
 
 {% hint style="success" %}
 THANK YOU to all the people who've contributed to the wiki! Please check out their work and give them the credit they deserve!
@@ -19,10 +19,6 @@ THANK YOU to all the people who've contributed to the wiki! Please check out the
 | [llamaking136](https://github.com/llamaking136) | [https://codeberg.org/llamaking136/Hildabort](https://codeberg.org/llamaking136/Hildabort) |
 | [Jcodefox](https://github.com/JCodeFox)         | [https://jcodefox.itch.io/](https://jcodefox.itch.io/)                                     |
 |                                                 |                                                                                            |
-
-
-
-
 
 ## License & Credits
 
