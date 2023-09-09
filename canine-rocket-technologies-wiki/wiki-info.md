@@ -16,7 +16,7 @@ THANK YOU to all the people who've contributed to the wiki! Please check out the
 
 | Contributors                                    | Project Links                                                                              |
 | ----------------------------------------------- | ------------------------------------------------------------------------------------------ |
-| [llamaking136](https://github.com/llamaking136) | [https://codeberg.org/llamaking136/Hildabort](https://codeberg.org/llamaking136/Hildabort) |
+| [llamaking136](https://github.com/llamaking136) | [https://llamaking.net/](https://llamaking.net/) |
 | [Jcodefox](https://github.com/JCodeFox)         | [https://jcodefox.itch.io/](https://jcodefox.itch.io/)                                     |
 |                                                 |                                                                                            |
 
